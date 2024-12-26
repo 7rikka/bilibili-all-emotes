@@ -13,7 +13,7 @@
 |37|[tv_生气]|<img src="./000037_%5Btv_生气%5D.gif" height="60" alt="生气"/>|[链接](http://i0.hdslb.com/bfs/emote/1902a5a2df5b5c931d88c12f0feb264b1e109d0d.gif)|2024-06-11 13:00:05|
 |38|[tv_委屈]|<img src="./000038_%5Btv_委屈%5D.gif" height="60" alt="委屈"/>|[链接](http://i0.hdslb.com/bfs/emote/af5a5853edb43a8178a8cb5df707fa5e88143699.gif)|2024-06-11 13:00:05|
 |39|[tv_斜眼笑]|<img src="./000039_%5Btv_斜眼笑%5D.gif" height="60" alt="斜眼笑"/>|[链接](http://i0.hdslb.com/bfs/emote/c66568b471192ca1f62f6ed4384dc1b283ab7508.gif)|2024-06-11 13:00:05|
-|40|[tv_呆]|<img src="./000040_%5Btv_呆%5D.gif" height="60" alt="呆"/>|[链接](http://i0.hdslb.com/bfs/emote/d3fa91e4db9215eb1e20ab9da44f1214aa4bda7b.gif)|2024-06-14 20:05:54|
+|40|[tv_呆]|<img src="./000040_%5Btv_呆%5D.gif" height="60" alt="呆"/>|[链接](http://i0.hdslb.com/bfs/emote/d3fa91e4db9215eb1e20ab9da44f1214aa4bda7b.gif)|2024-06-11 13:00:05|
 |41|[tv_发怒]|<img src="./000041_%5Btv_发怒%5D.gif" height="60" alt="发怒"/>|[链接](http://i0.hdslb.com/bfs/emote/3959eb81b952e4fa8d269d98f9e3639172d84073.gif)|2024-06-11 13:00:05|
 |42|[tv_惊吓]|<img src="./000042_%5Btv_惊吓%5D.gif" height="60" alt="惊吓"/>|[链接](http://i0.hdslb.com/bfs/emote/13549060757fcd92b11d0657d9b3b6038f97abb6.gif)|2024-06-11 13:00:05|
 |43|[tv_呕吐]|<img src="./000043_%5Btv_呕吐%5D.gif" height="60" alt="呕吐"/>|[链接](http://i0.hdslb.com/bfs/emote/db58e9442aae26694af18cc1683607cca3a16763.gif)|2024-06-11 13:00:05|
