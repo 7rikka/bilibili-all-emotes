@@ -24,8 +24,8 @@
 |48819|[致竞巅峰_震惊]|<img src="./pic/048819_%5B致竞巅峰_震惊%5D.png" height="60" alt="震惊"/>|[链接](https://i0.hdslb.com/bfs/emote/cdd3aa8d8a185cc6f9e566722e9a5c633d1da55b.png)|2023-10-18 14:13:57|
 |48820|[致竞巅峰_支持]|<img src="./pic/048820_%5B致竞巅峰_支持%5D.png" height="60" alt="支持"/>|[链接](https://i0.hdslb.com/bfs/emote/ca9ebd0ecb00715a1c988de6622367cf4a44932f.png)|2023-10-18 14:13:57|
 |48821|[致竞巅峰_carry全场]|<img src="./pic/048821_%5B致竞巅峰_carry全场%5D.png" height="60" alt="carry全场"/>|[链接](https://i0.hdslb.com/bfs/emote/be4a6ddafd296434b7b41c0fd2756928cd33c5cc.png)|2023-10-18 14:13:57|
-|48822|[致竞巅峰_ok]|<img src="./pic/048822_%5B致竞巅峰_ok%5D.png" height="60" alt="ok"/>|[链接](https://i0.hdslb.com/bfs/emote/0766854abf5f848729132d56e9f28a6b18d69d90.png)|2023-10-11 14:13:57|
-|48823|[致竞巅峰_yeah]|<img src="./pic/048823_%5B致竞巅峰_yeah%5D.png" height="60" alt="yeah"/>|[链接](https://i0.hdslb.com/bfs/emote/46ec58ee6fed7c081fb23823c9c5cdbbba4e1a8b.png)|2023-10-11 14:13:57|
+|48822|[致竞巅峰_ok]|<img src="./pic/048822_%5B致竞巅峰_ok%5D.png" height="60" alt="ok"/>|[链接](https://i0.hdslb.com/bfs/emote/0766854abf5f848729132d56e9f28a6b18d69d90.png)|2023-10-18 14:13:57|
+|48823|[致竞巅峰_yeah]|<img src="./pic/048823_%5B致竞巅峰_yeah%5D.png" height="60" alt="yeah"/>|[链接](https://i0.hdslb.com/bfs/emote/46ec58ee6fed7c081fb23823c9c5cdbbba4e1a8b.png)|2023-10-18 14:13:57|
 
 # 原始数据
 

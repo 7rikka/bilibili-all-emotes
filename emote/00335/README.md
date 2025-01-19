@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|5487|[蓝色时期_问号]|<img src="./pic/005487_%5B蓝色时期_问号%5D.png" height="60" alt="问号"/>|[链接](http://i0.hdslb.com/bfs/emote/bef3ec9f41a97019c980200e4cafbe4819d6e623.png)|2021-12-22 12:17:51|
+|5487|[蓝色时期_问号]|<img src="./pic/005487_%5B蓝色时期_问号%5D.png" height="60" alt="问号"/>|[链接](http://i0.hdslb.com/bfs/emote/bef3ec9f41a97019c980200e4cafbe4819d6e623.png)|2021-12-17 15:56:28|
 |5488|[蓝色时期_大口吃饭]|<img src="./pic/005488_%5B蓝色时期_大口吃饭%5D.png" height="60" alt="大口吃饭"/>|[链接](http://i0.hdslb.com/bfs/emote/c9062c383207c2fb0678351a3759e8d641da83f9.png)|2021-12-22 12:17:51|
 |5489|[蓝色时期_大叶の肯定]|<img src="./pic/005489_%5B蓝色时期_大叶の肯定%5D.png" height="60" alt="大叶の肯定"/>|[链接](http://i0.hdslb.com/bfs/emote/e246f4648d4f59719c925adc998507db4aaae1d1.png)|2021-12-22 12:17:51|
 |5490|[蓝色时期_盯]|<img src="./pic/005490_%5B蓝色时期_盯%5D.png" height="60" alt="盯"/>|[链接](http://i0.hdslb.com/bfs/emote/1989592a49b0c0626538831dd06d7e90bcb8cfbd.png)|2021-12-22 12:17:51|
@@ -19,11 +19,11 @@
 |5497|[蓝色时期_教我]|<img src="./pic/005497_%5B蓝色时期_教我%5D.png" height="60" alt="教我"/>|[链接](http://i0.hdslb.com/bfs/emote/8e7be89a7ce21a7b28ee2fc93f4aee87c1768464.png)|2021-12-22 12:17:51|
 |5498|[蓝色时期_脸红红]|<img src="./pic/005498_%5B蓝色时期_脸红红%5D.png" height="60" alt="脸红红"/>|[链接](http://i0.hdslb.com/bfs/emote/72b49b959d942393ad971d571f150da6291a54ab.png)|2021-12-22 12:17:51|
 |5499|[蓝色时期_呐喊]|<img src="./pic/005499_%5B蓝色时期_呐喊%5D.png" height="60" alt="呐喊"/>|[链接](http://i0.hdslb.com/bfs/emote/4c0a7696a1b58a127647a6e7f0de3c6c07cbdb0a.png)|2021-12-22 12:17:51|
-|5500|[蓝色时期_若有所思]|<img src="./pic/005500_%5B蓝色时期_若有所思%5D.png" height="60" alt="若有所思"/>|[链接](http://i0.hdslb.com/bfs/emote/febc52d9eff099524b054ba6d8fbe9c2f79ce7c9.png)|2021-12-22 12:17:51|
+|5500|[蓝色时期_若有所思]|<img src="./pic/005500_%5B蓝色时期_若有所思%5D.png" height="60" alt="若有所思"/>|[链接](http://i0.hdslb.com/bfs/emote/febc52d9eff099524b054ba6d8fbe9c2f79ce7c9.png)|2021-12-22 12:17:28|
 |5501|[蓝色时期_瑟瑟发抖]|<img src="./pic/005501_%5B蓝色时期_瑟瑟发抖%5D.png" height="60" alt="瑟瑟发抖"/>|[链接](http://i0.hdslb.com/bfs/emote/85315d0a0974b8127734994402602af9072bb6e8.png)|2021-12-22 12:17:51|
-|5502|[蓝色时期_嫌弃]|<img src="./pic/005502_%5B蓝色时期_嫌弃%5D.png" height="60" alt="嫌弃"/>|[链接](http://i0.hdslb.com/bfs/emote/aa96afa9a004bef8b73e67335fc00072c77b6fdd.png)|2021-12-22 12:17:51|
-|5503|[蓝色时期_小天使]|<img src="./pic/005503_%5B蓝色时期_小天使%5D.png" height="60" alt="小天使"/>|[链接](http://i0.hdslb.com/bfs/emote/e50c080ba20eb7d44eacb912e8ae396d1e7b0920.png)|2021-12-22 12:17:51|
-|5504|[蓝色时期_星星眼]|<img src="./pic/005504_%5B蓝色时期_星星眼%5D.png" height="60" alt="星星眼"/>|[链接](http://i0.hdslb.com/bfs/emote/9df249fe584cb1851aff50ff5df6e278c7bf9b29.png)|2021-12-22 12:17:51|
+|5502|[蓝色时期_嫌弃]|<img src="./pic/005502_%5B蓝色时期_嫌弃%5D.png" height="60" alt="嫌弃"/>|[链接](http://i0.hdslb.com/bfs/emote/aa96afa9a004bef8b73e67335fc00072c77b6fdd.png)|2021-12-17 15:56:28|
+|5503|[蓝色时期_小天使]|<img src="./pic/005503_%5B蓝色时期_小天使%5D.png" height="60" alt="小天使"/>|[链接](http://i0.hdslb.com/bfs/emote/e50c080ba20eb7d44eacb912e8ae396d1e7b0920.png)|2021-12-17 15:56:28|
+|5504|[蓝色时期_星星眼]|<img src="./pic/005504_%5B蓝色时期_星星眼%5D.png" height="60" alt="星星眼"/>|[链接](http://i0.hdslb.com/bfs/emote/9df249fe584cb1851aff50ff5df6e278c7bf9b29.png)|2021-12-17 15:56:28|
 |5505|[蓝色时期_嘘]|<img src="./pic/005505_%5B蓝色时期_嘘%5D.png" height="60" alt="嘘"/>|[链接](http://i0.hdslb.com/bfs/emote/35eaccb579e6c01badf1dc663918f8aeef3deb0e.png)|2021-12-22 12:17:51|
 |5506|[蓝色时期_拽]|<img src="./pic/005506_%5B蓝色时期_拽%5D.png" height="60" alt="拽"/>|[链接](http://i0.hdslb.com/bfs/emote/53801eeca3526ed2ec36a5b3f2064978f94dda7b.png)|2021-12-22 12:17:51|
 

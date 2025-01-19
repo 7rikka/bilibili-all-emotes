@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|56195|[小O的精神状态_人生是旷野]|<img src="./pic/056195_%5B小O的精神状态_人生是旷野%5D.png" height="60" alt="人生是旷野"/>|[链接](https://i0.hdslb.com/bfs/garb/556beff216ed5dd611b14f7ff8d7058ec9ad9dad.png)|2023-12-13 19:26:00|
-|56196|[小O的精神状态_天使]|<img src="./pic/056196_%5B小O的精神状态_天使%5D.png" height="60" alt="天使"/>|[链接](https://i0.hdslb.com/bfs/garb/cb10b2822ae88d6d277ea5341c68a39eeaaba9be.png)|2023-12-13 19:26:00|
+|56195|[小O的精神状态_人生是旷野]|<img src="./pic/056195_%5B小O的精神状态_人生是旷野%5D.png" height="60" alt="人生是旷野"/>|[链接](https://i0.hdslb.com/bfs/garb/556beff216ed5dd611b14f7ff8d7058ec9ad9dad.png)|2023-12-13 19:25:20|
+|56196|[小O的精神状态_天使]|<img src="./pic/056196_%5B小O的精神状态_天使%5D.png" height="60" alt="天使"/>|[链接](https://i0.hdslb.com/bfs/garb/cb10b2822ae88d6d277ea5341c68a39eeaaba9be.png)|2023-12-14 17:25:20|
 |56197|[小O的精神状态_别动]|<img src="./pic/056197_%5B小O的精神状态_别动%5D.png" height="60" alt="别动"/>|[链接](https://i0.hdslb.com/bfs/garb/c38e66dde0310fbf17a56d7ba9acefd7121461bc.png)|2023-12-13 19:26:00|
 |56198|[小O的精神状态_躺着]|<img src="./pic/056198_%5B小O的精神状态_躺着%5D.png" height="60" alt="躺着"/>|[链接](https://i0.hdslb.com/bfs/garb/a9a1ed27ce24d2fa6c214889f2b46089faf84504.png)|2023-12-13 19:26:00|
 |56199|[小O的精神状态_打call]|<img src="./pic/056199_%5B小O的精神状态_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/ca3ad5149e76509d3f309864090796bc9cedd0ed.png)|2023-12-13 19:26:00|

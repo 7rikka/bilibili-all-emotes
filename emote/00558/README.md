@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|10209|[BURBERRY_WOW]|<img src="./pic/010209_%5BBURBERRY_WOW%5D.png" height="60" alt="WOW"/>|[链接](https://i0.hdslb.com/bfs/emote/506cf5b29df63a77ccaea10275e0b118952f9494.png)|2022-11-07 11:19:36|
+|10209|[BURBERRY_WOW]|<img src="./pic/010209_%5BBURBERRY_WOW%5D.png" height="60" alt="WOW"/>|[链接](https://i0.hdslb.com/bfs/emote/506cf5b29df63a77ccaea10275e0b118952f9494.png)|2022-11-09 18:04:04|
 |10210|[BURBERRY_走起]|<img src="./pic/010210_%5BBURBERRY_走起%5D.png" height="60" alt="走起"/>|[链接](https://i0.hdslb.com/bfs/emote/13bdc92bcd4da32e9910388ea90d08ff1b915568.png)|2022-11-09 18:04:04|
 |10211|[BURBERRY_OK]|<img src="./pic/010211_%5BBURBERRY_OK%5D.png" height="60" alt="OK"/>|[链接](https://i0.hdslb.com/bfs/emote/bfa500aa98c31a6e2a962bff50b603ad610196d2.png)|2022-11-09 18:04:04|
 |10212|[BURBERRY_看着不错]|<img src="./pic/010212_%5BBURBERRY_看着不错%5D.png" height="60" alt="看着不错"/>|[链接](https://i0.hdslb.com/bfs/emote/c34cd269a23812be3ffa3e848fbdd8431416ed20.png)|2022-11-09 18:04:04|

@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|92554|[UPOWER_44062985_妈妈]|<img src="./pic/092554_%5BUPOWER_44062985_妈妈%5D.png" height="60" alt="妈妈"/>|[链接](https://i0.hdslb.com/bfs/garb/6a1254b9c7e5834043fef724557806fd0961818a.png)|2024-12-07 20:34:00|
+|92554|[UPOWER_44062985_妈妈]|<img src="./pic/092554_%5BUPOWER_44062985_妈妈%5D.png" height="60" alt="妈妈"/>|[链接](https://i0.hdslb.com/bfs/garb/6a1254b9c7e5834043fef724557806fd0961818a.png)|2024-12-08 19:01:00|
 |94427|[UPOWER_44062985_偷笑]|<img src="./pic/094427_%5BUPOWER_44062985_偷笑%5D.png" height="60" alt="偷笑"/>|[链接](https://i0.hdslb.com/bfs/garb/0f8f79db29f2402803260c51cb8e4ea54f12639d.png)|2024-11-13 21:17:55|
 |94428|[UPOWER_44062985_努力]|<img src="./pic/094428_%5BUPOWER_44062985_努力%5D.png" height="60" alt="努力"/>|[链接](https://i0.hdslb.com/bfs/garb/9bb5a41464c83391bc1c894a71da1c8e0f883aea.png)|2024-11-13 21:17:54|
 |94429|[UPOWER_44062985_泪目]|<img src="./pic/094429_%5BUPOWER_44062985_泪目%5D.png" height="60" alt="泪目"/>|[链接](https://i0.hdslb.com/bfs/garb/f7a0ca823226360244fa0ebb6baa38f58cb2215c.png)|2024-11-13 21:17:50|
@@ -21,6 +21,11 @@
 |96945|[UPOWER_44062985_吃我一拳]|<img src="./pic/096945_%5BUPOWER_44062985_吃我一拳%5D.png" height="60" alt="吃我一拳"/>|[链接](https://i0.hdslb.com/bfs/garb/46c094677c5946db147713c77e5d9e04a7fd49c7.png)|2024-12-07 20:34:02|
 |96947|[UPOWER_44062985_摸摸头]|<img src="./pic/096947_%5BUPOWER_44062985_摸摸头%5D.png" height="60" alt="摸摸头"/>|[链接](https://i0.hdslb.com/bfs/garb/a3365acc81737f1033c5d9edd0b4f0363208c34e.png)|2024-12-07 20:33:58|
 |97005|[UPOWER_44062985_太棒了]|<img src="./pic/097005_%5BUPOWER_44062985_太棒了%5D.png" height="60" alt="太棒了"/>|[链接](https://i0.hdslb.com/bfs/garb/674804938a60662e7deefef467c3b348a4c5ecd0.png)|2024-12-09 14:00:32|
+|101237|[UPOWER_44062985_待机]|<img src="./pic/101237_%5BUPOWER_44062985_待机%5D.png" height="60" alt="待机"/>|[链接](https://i0.hdslb.com/bfs/garb/1ff00a6dcc5a6b0114e9f00f8ad40983f98108c4.png)|2025-01-15 21:17:22|
+|101238|[UPOWER_44062985_偷看]|<img src="./pic/101238_%5BUPOWER_44062985_偷看%5D.png" height="60" alt="偷看"/>|[链接](https://i0.hdslb.com/bfs/garb/237809eea665a124196d6404ca8bbc95cf568462.png)|2025-01-15 21:17:20|
+|101239|[UPOWER_44062985_好吃]|<img src="./pic/101239_%5BUPOWER_44062985_好吃%5D.png" height="60" alt="好吃"/>|[链接](https://i0.hdslb.com/bfs/garb/fa439824e306038922f6cf716af9383bb316c812.png)|2025-01-15 21:17:18|
+|101240|[UPOWER_44062985_好耶]|<img src="./pic/101240_%5BUPOWER_44062985_好耶%5D.png" height="60" alt="好耶"/>|[链接](https://i0.hdslb.com/bfs/garb/566e3d848a5a3216df566f1b59ceae0ded28ee16.png)|2025-01-15 21:17:17|
+|101241|[UPOWER_44062985_加油鸭]|<img src="./pic/101241_%5BUPOWER_44062985_加油鸭%5D.png" height="60" alt="加油鸭"/>|[链接](https://i0.hdslb.com/bfs/garb/b1d917b2e5ce45c78b81334f574d98a597d0c0b3.png)|2025-01-15 21:17:12|
 
 # 原始数据
 

@@ -17,7 +17,7 @@
 |81997|[天选国V动态表情包_社会]|<img src="./pic/081997_%5B天选国V动态表情包_社会%5D.gif" height="60" alt="社会"/>|[链接](https://i0.hdslb.com/bfs/emote/d148b104ad0507b183be12d2919887b9b39c9a51.gif)|2024-08-07 19:12:09|
 |81998|[天选国V动态表情包_哭]|<img src="./pic/081998_%5B天选国V动态表情包_哭%5D.gif" height="60" alt="哭"/>|[链接](https://i0.hdslb.com/bfs/emote/c29339cfc786d9725ae9c0336bbbb054d4635165.gif)|2024-08-07 19:12:09|
 |81999|[天选国V动态表情包_土味干杯]|<img src="./pic/081999_%5B天选国V动态表情包_土味干杯%5D.gif" height="60" alt="土味干杯"/>|[链接](https://i0.hdslb.com/bfs/emote/baa866898b22260ff420b8db4f4fa56e19559922.gif)|2024-08-07 19:12:09|
-|82000|[天选国V动态表情包_生气]|<img src="./pic/082000_%5B天选国V动态表情包_生气%5D.gif" height="60" alt="生气"/>|[链接](https://i0.hdslb.com/bfs/emote/2b0e6ecd2696569ba05da9c75d6e239962b813d9.gif)|2024-08-07 19:12:09|
+|82000|[天选国V动态表情包_生气]|<img src="./pic/082000_%5B天选国V动态表情包_生气%5D.gif" height="60" alt="生气"/>|[链接](https://i0.hdslb.com/bfs/emote/2b0e6ecd2696569ba05da9c75d6e239962b813d9.gif)|2024-08-07 19:01:00|
 |82001|[天选国V动态表情包_吐彩虹]|<img src="./pic/082001_%5B天选国V动态表情包_吐彩虹%5D.gif" height="60" alt="吐彩虹"/>|[链接](https://i0.hdslb.com/bfs/emote/8398aa35d3b602eb66f85abfe8846c90f5dd50e3.gif)|2024-08-07 19:12:09|
 |82002|[天选国V动态表情包_冲刺]|<img src="./pic/082002_%5B天选国V动态表情包_冲刺%5D.gif" height="60" alt="冲刺"/>|[链接](https://i0.hdslb.com/bfs/emote/8cc918d31c7529e754199ded263918781f21d2af.gif)|2024-08-07 19:12:09|
 |82003|[天选国V动态表情包_这里有问题]|<img src="./pic/082003_%5B天选国V动态表情包_这里有问题%5D.gif" height="60" alt="这里有问题"/>|[链接](https://i0.hdslb.com/bfs/emote/8a754f5a7759ee95f3850c78469fd4ad6b8a77c8.gif)|2024-08-07 19:12:09|

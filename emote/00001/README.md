@@ -190,6 +190,7 @@
 |100299|[鸣潮_咦]|<img src="./pic/100299_%5B鸣潮_咦%5D.png" height="60" alt="咦"/>|[链接](https://i0.hdslb.com/bfs/emote/866390294acb5e6cf6017e3f88acffa21d9130bb.png)|2025-01-03 19:02:34|
 |100300|[鸣潮_哇]|<img src="./pic/100300_%5B鸣潮_哇%5D.png" height="60" alt="哇"/>|[链接](https://i0.hdslb.com/bfs/emote/759651f8e616075c9494160d2541ed581c55550a.png)|2025-01-03 19:02:34|
 |100341|[鸣潮_嘿]|<img src="./pic/100341_%5B鸣潮_嘿%5D.png" height="60" alt="嘿"/>|[链接](https://i0.hdslb.com/bfs/emote/0cf0a8c8e1f32b9d4144a25c43e972580a7a631f.png)|2025-01-03 19:02:34|
+|100781|[坂本_佛系]|<img src="./pic/100781_%5B坂本_佛系%5D.png" height="60" alt="佛系"/>|[链接](https://i0.hdslb.com/bfs/emote/89c70d9044637a66fceaf99d89b257984117ce36.png)|2025-01-11 22:21:43|
 
 # 原始数据
 

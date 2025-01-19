@@ -12,7 +12,7 @@
 |7666|[剑与远征_爱了爱了]|<img src="./pic/007666_%5B剑与远征_爱了爱了%5D.png" height="60" alt="爱了爱了"/>|[链接](http://i0.hdslb.com/bfs/emote/3dcfe7856f906964902278bcdd5fe696133414ff.png)|2022-07-26 12:06:52|
 |7667|[剑与远征_抱大腿]|<img src="./pic/007667_%5B剑与远征_抱大腿%5D.png" height="60" alt="抱大腿"/>|[链接](http://i0.hdslb.com/bfs/emote/3b402ac40efa23053df7b70a031835a37fca89c7.png)|2022-07-26 12:06:52|
 |7668|[剑与远征_抱住自己]|<img src="./pic/007668_%5B剑与远征_抱住自己%5D.png" height="60" alt="抱住自己"/>|[链接](http://i0.hdslb.com/bfs/emote/0f0cf519162598e32f7e5ae5af4b393706f013ff.png)|2022-07-26 12:06:52|
-|7669|[剑与远征_不愧是我]|<img src="./pic/007669_%5B剑与远征_不愧是我%5D.png" height="60" alt="不愧是我"/>|[链接](http://i0.hdslb.com/bfs/emote/aef3d86bf3ed6e3989fffecd8f3d9a8c4cb46183.png)|2022-07-26 12:06:52|
+|7669|[剑与远征_不愧是我]|<img src="./pic/007669_%5B剑与远征_不愧是我%5D.png" height="60" alt="不愧是我"/>|[链接](http://i0.hdslb.com/bfs/emote/aef3d86bf3ed6e3989fffecd8f3d9a8c4cb46183.png)|2022-07-27 19:27:25|
 |7670|[剑与远征_吃瓜]|<img src="./pic/007670_%5B剑与远征_吃瓜%5D.png" height="60" alt="吃瓜"/>|[链接](http://i0.hdslb.com/bfs/emote/b1e6ccde25185e6a7a6258118cf09bf527158912.png)|2022-07-26 12:06:52|
 |7671|[剑与远征_吃惊]|<img src="./pic/007671_%5B剑与远征_吃惊%5D.png" height="60" alt="吃惊"/>|[链接](http://i0.hdslb.com/bfs/emote/07261b90a670e8bbb8c2a0cfa1e196b96f391811.png)|2022-07-26 12:06:52|
 |7672|[剑与远征_点赞]|<img src="./pic/007672_%5B剑与远征_点赞%5D.png" height="60" alt="点赞"/>|[链接](http://i0.hdslb.com/bfs/emote/cbec070b42440c72324cbd1015dd3866ba2fc2af.png)|2022-07-26 12:06:52|

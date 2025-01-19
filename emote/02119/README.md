@@ -8,7 +8,7 @@
 |----|----|----|----|----|
 |37064|[阿芙·七月沙滩派对装扮_彩虹吐]|<img src="./pic/037064_%5B阿芙·七月沙滩派对装扮_彩虹吐%5D.png" height="60" alt="彩虹吐"/>|[链接](https://i0.hdslb.com/bfs/garb/e799b7e580ef9405a2ecf6ff3837ebf86bce82cf.png)|2023-07-15 11:00:00|
 |37065|[阿芙·七月沙滩派对装扮_尴尬]|<img src="./pic/037065_%5B阿芙·七月沙滩派对装扮_尴尬%5D.png" height="60" alt="尴尬"/>|[链接](https://i0.hdslb.com/bfs/garb/5c0ac533ec26f543c3f578475d37ad6eb65c2847.png)|2023-07-15 11:00:00|
-|37066|[阿芙·七月沙滩派对装扮_泰酷辣]|<img src="./pic/037066_%5B阿芙·七月沙滩派对装扮_泰酷辣%5D.png" height="60" alt="泰酷辣"/>|[链接](https://i0.hdslb.com/bfs/garb/e9939386499e96ff31ee85baa43a0ffa21db5c57.png)|2023-07-15 11:21:53|
+|37066|[阿芙·七月沙滩派对装扮_泰酷辣]|<img src="./pic/037066_%5B阿芙·七月沙滩派对装扮_泰酷辣%5D.png" height="60" alt="泰酷辣"/>|[链接](https://i0.hdslb.com/bfs/garb/e9939386499e96ff31ee85baa43a0ffa21db5c57.png)|2023-07-15 11:00:00|
 |37067|[阿芙·七月沙滩派对装扮_啊？]|<img src="./pic/037067_%5B阿芙·七月沙滩派对装扮_啊？%5D.png" height="60" alt="啊？"/>|[链接](https://i0.hdslb.com/bfs/garb/4ea4b2a0532cd17c5bced1ade6dc8ff11ff36c57.png)|2023-07-15 11:00:00|
 |37068|[阿芙·七月沙滩派对装扮_绷不住了]|<img src="./pic/037068_%5B阿芙·七月沙滩派对装扮_绷不住了%5D.png" height="60" alt="绷不住了"/>|[链接](https://i0.hdslb.com/bfs/garb/a7222f39856b5378a756303c45e82874001a8422.png)|2023-07-15 11:00:00|
 |37069|[阿芙·七月沙滩派对装扮_喜欢]|<img src="./pic/037069_%5B阿芙·七月沙滩派对装扮_喜欢%5D.png" height="60" alt="喜欢"/>|[链接](https://i0.hdslb.com/bfs/garb/634052458b705cca5d3aa99395dc2f4cd80bac83.png)|2023-07-15 11:00:00|

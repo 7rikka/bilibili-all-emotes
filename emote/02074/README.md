@@ -17,7 +17,7 @@
 |36207|[人格贴纸-INFP_尬笑]|<img src="./pic/036207_%5B人格贴纸-INFP_尬笑%5D.png" height="60" alt="尬笑"/>|[链接](https://i0.hdslb.com/bfs/garb/87a90ae1eadee9a8b358be4869705fd3c2a2f9b0.png)|2023-07-12 16:56:20|
 |36208|[人格贴纸-INFP_这个好]|<img src="./pic/036208_%5B人格贴纸-INFP_这个好%5D.png" height="60" alt="这个好"/>|[链接](https://i0.hdslb.com/bfs/garb/97f72c79462e56315b4ca8a9fa7f2324e7abde09.png)|2023-07-12 16:56:20|
 |36209|[人格贴纸-INFP_牡蛎牡蛎]|<img src="./pic/036209_%5B人格贴纸-INFP_牡蛎牡蛎%5D.png" height="60" alt="牡蛎牡蛎"/>|[链接](https://i0.hdslb.com/bfs/garb/ec0f4620884dbf02d3c853e22c9d954383ae7b66.png)|2023-07-12 16:56:20|
-|36210|[人格贴纸-INFP_诶嘿嘿]|<img src="./pic/036210_%5B人格贴纸-INFP_诶嘿嘿%5D.png" height="60" alt="诶嘿嘿"/>|[链接](https://i0.hdslb.com/bfs/garb/35212b62962addbd1d368957605aa1e119272919.png)|2023-07-12 16:36:40|
+|36210|[人格贴纸-INFP_诶嘿嘿]|<img src="./pic/036210_%5B人格贴纸-INFP_诶嘿嘿%5D.png" height="60" alt="诶嘿嘿"/>|[链接](https://i0.hdslb.com/bfs/garb/35212b62962addbd1d368957605aa1e119272919.png)|2023-07-12 16:56:20|
 |36211|[人格贴纸-INFP_这不行]|<img src="./pic/036211_%5B人格贴纸-INFP_这不行%5D.png" height="60" alt="这不行"/>|[链接](https://i0.hdslb.com/bfs/garb/a76eea6fe7fb34b19eecbaeaf9332ab005f9e49a.png)|2023-07-12 16:56:20|
 |36212|[人格贴纸-INFP_已黑化]|<img src="./pic/036212_%5B人格贴纸-INFP_已黑化%5D.png" height="60" alt="已黑化"/>|[链接](https://i0.hdslb.com/bfs/garb/cf75eb66d22aded21e38735a4d05e87658ca5bae.png)|2023-07-12 16:56:20|
 |36213|[人格贴纸-INFP_宕机]|<img src="./pic/036213_%5B人格贴纸-INFP_宕机%5D.png" height="60" alt="宕机"/>|[链接](https://i0.hdslb.com/bfs/garb/bee8777031a0ce83a7991f4f8ea42fbd5885524f.png)|2023-07-12 16:56:20|

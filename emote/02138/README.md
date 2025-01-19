@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|37396|[MBTI章鱼_enfp.intj]|<img src="./pic/037396_%5BMBTI章鱼_enfp.intj%5D.png" height="60" alt="enfp.intj"/>|[链接](https://i0.hdslb.com/bfs/garb/cdbc7b3676aa7fa97b03f3e4b07793ea75a31572.png)|2023-07-19 11:34:34|
-|37397|[MBTI章鱼_enfj]|<img src="./pic/037397_%5BMBTI章鱼_enfj%5D.png" height="60" alt="enfj"/>|[链接](https://i0.hdslb.com/bfs/garb/aa5d374fc4f959b3cc02ab1c9dc808d9c0d0e188.png)|2023-07-19 11:34:34|
+|37396|[MBTI章鱼_enfp.intj]|<img src="./pic/037396_%5BMBTI章鱼_enfp.intj%5D.png" height="60" alt="enfp.intj"/>|[链接](https://i0.hdslb.com/bfs/garb/cdbc7b3676aa7fa97b03f3e4b07793ea75a31572.png)|2023-07-17 18:00:00|
+|37397|[MBTI章鱼_enfj]|<img src="./pic/037397_%5BMBTI章鱼_enfj%5D.png" height="60" alt="enfj"/>|[链接](https://i0.hdslb.com/bfs/garb/aa5d374fc4f959b3cc02ab1c9dc808d9c0d0e188.png)|2023-07-17 17:25:30|
 |37398|[MBTI章鱼_infj]|<img src="./pic/037398_%5BMBTI章鱼_infj%5D.png" height="60" alt="infj"/>|[链接](https://i0.hdslb.com/bfs/garb/dbc3c94bec42b49bc6058ec4a4ba4fac8e35b5aa.png)|2023-07-17 17:25:30|
 |37399|[MBTI章鱼_entj]|<img src="./pic/037399_%5BMBTI章鱼_entj%5D.png" height="60" alt="entj"/>|[链接](https://i0.hdslb.com/bfs/garb/b855a8994b173622cc4ec0a7cfa44bd42a0807de.png)|2023-07-17 17:25:30|
 |37400|[MBTI章鱼_esfj]|<img src="./pic/037400_%5BMBTI章鱼_esfj%5D.png" height="60" alt="esfj"/>|[链接](https://i0.hdslb.com/bfs/garb/012c6a62eab0205271a87c789ad152bb70779679.png)|2023-07-17 17:25:30|

@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |8010|[Skate Boy_拜托]|<img src="./pic/008010_%5BSkate Boy_拜托%5D.png" height="60" alt="拜托"/>|[链接](http://i0.hdslb.com/bfs/emote/07041d1747f86bdf4ccd22e8abffa3f1d5dfda4a.png)|2022-07-29 11:29:39|
-|8011|[Skate Boy_抱富]|<img src="./pic/008011_%5BSkate Boy_抱富%5D.png" height="60" alt="抱富"/>|[链接](http://i0.hdslb.com/bfs/emote/1aaa57df12a2f791d9c81b5ba58fa3c09bcd2ef7.png)|2022-07-08 17:28:28|
+|8011|[Skate Boy_抱富]|<img src="./pic/008011_%5BSkate Boy_抱富%5D.png" height="60" alt="抱富"/>|[链接](http://i0.hdslb.com/bfs/emote/1aaa57df12a2f791d9c81b5ba58fa3c09bcd2ef7.png)|2022-07-29 11:29:39|
 |8012|[Skate Boy_吃瓜]|<img src="./pic/008012_%5BSkate Boy_吃瓜%5D.png" height="60" alt="吃瓜"/>|[链接](http://i0.hdslb.com/bfs/emote/9a6c82417db1a85d4b8f40d6ea2689ebf05a53b4.png)|2022-07-29 11:29:39|
 |8013|[Skate Boy_充能]|<img src="./pic/008013_%5BSkate Boy_充能%5D.png" height="60" alt="充能"/>|[链接](http://i0.hdslb.com/bfs/emote/d85e7fccda49a474cfbe0cefc27f273c3cfa6842.png)|2022-07-29 11:29:39|
 |8014|[Skate Boy_打call-50]|<img src="./pic/008014_%5BSkate Boy_打call-50%5D.png" height="60" alt="打call-50"/>|[链接](http://i0.hdslb.com/bfs/emote/a6d978a90018bf300d40513f2ddd8ff4a6d44ae0.png)|2022-07-29 11:29:39|

@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|38126|[栗栗子表情包_biu]|<img src="./pic/038126_%5B栗栗子表情包_biu%5D.png" height="60" alt="biu"/>|[链接](https://i0.hdslb.com/bfs/garb/5d6190aecf44d4ebec0bbcab64cd3a2afc9ee033.png)|2023-07-21 20:18:36|
+|38126|[栗栗子表情包_biu]|<img src="./pic/038126_%5B栗栗子表情包_biu%5D.png" height="60" alt="biu"/>|[链接](https://i0.hdslb.com/bfs/garb/5d6190aecf44d4ebec0bbcab64cd3a2afc9ee033.png)|2023-07-23 19:00:00|
 |38127|[栗栗子表情包_害羞]|<img src="./pic/038127_%5B栗栗子表情包_害羞%5D.png" height="60" alt="害羞"/>|[链接](https://i0.hdslb.com/bfs/garb/3c501403e2ff05486f59f3f6ddb60a0548a6ca1e.png)|2023-07-23 19:00:00|
 |38128|[栗栗子表情包_偷看]|<img src="./pic/038128_%5B栗栗子表情包_偷看%5D.png" height="60" alt="偷看"/>|[链接](https://i0.hdslb.com/bfs/garb/5f42d42e24469bba11c610561dd205c57561e729.png)|2023-07-23 19:00:00|
 |38129|[栗栗子表情包_开制冷]|<img src="./pic/038129_%5B栗栗子表情包_开制冷%5D.png" height="60" alt="开制冷"/>|[链接](https://i0.hdslb.com/bfs/garb/55c9a3058cf1f996df3ee0812869aa8bb70172d0.png)|2023-07-23 19:00:00|

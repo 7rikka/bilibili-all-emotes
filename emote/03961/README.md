@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |55736|[星座恋曲·射手手_离]|<img src="./pic/055736_%5B星座恋曲·射手手_离%5D.png" height="60" alt="离"/>|[链接](https://i0.hdslb.com/bfs/garb/46aeffca7d7d7ac500f7f715f918e61781b429bf.png)|2023-12-11 17:29:50|
-|55737|[星座恋曲·射手手_谱]|<img src="./pic/055737_%5B星座恋曲·射手手_谱%5D.png" height="60" alt="谱"/>|[链接](https://i0.hdslb.com/bfs/garb/b7fd713b0d83c1195504a8cc46fe4b4542b893fa.png)|2023-12-11 17:02:40|
+|55737|[星座恋曲·射手手_谱]|<img src="./pic/055737_%5B星座恋曲·射手手_谱%5D.png" height="60" alt="谱"/>|[链接](https://i0.hdslb.com/bfs/garb/b7fd713b0d83c1195504a8cc46fe4b4542b893fa.png)|2023-12-11 17:29:50|
 |55738|[星座恋曲·射手手_尴尬]|<img src="./pic/055738_%5B星座恋曲·射手手_尴尬%5D.png" height="60" alt="尴尬"/>|[链接](https://i0.hdslb.com/bfs/garb/d65614de2d225d31c937c58a3904aff49eb18301.png)|2023-12-11 17:29:50|
 |55739|[星座恋曲·射手手_惊恐]|<img src="./pic/055739_%5B星座恋曲·射手手_惊恐%5D.png" height="60" alt="惊恐"/>|[链接](https://i0.hdslb.com/bfs/garb/75528c3691a82f6ac6713058d55885641911026b.png)|2023-12-11 17:29:50|
 |55740|[星座恋曲·射手手_生气]|<img src="./pic/055740_%5B星座恋曲·射手手_生气%5D.png" height="60" alt="生气"/>|[链接](https://i0.hdslb.com/bfs/garb/2a5e208dad3de42a46104e539f7a91eab3fded52.png)|2023-12-11 17:29:50|
