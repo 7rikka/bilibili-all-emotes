@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|96265|[莉可丽丝_高兴]|<img src="./pic/096265_%5B莉可丽丝_高兴%5D.png" height="60" alt="高兴"/>|[链接](https://i0.hdslb.com/bfs/garb/2200c3d911f12344e9b20cbae6061fe0ae0f552f.png)|2024-11-30 18:01:00|
+|96265|[莉可丽丝_高兴]|<img src="./pic/096265_%5B莉可丽丝_高兴%5D.png" height="60" alt="高兴"/>|[链接](https://i0.hdslb.com/bfs/garb/2200c3d911f12344e9b20cbae6061fe0ae0f552f.png)|2024-11-30 17:01:00|
 |96266|[莉可丽丝_可爱]|<img src="./pic/096266_%5B莉可丽丝_可爱%5D.png" height="60" alt="可爱"/>|[链接](https://i0.hdslb.com/bfs/garb/efe573f2025c930518d2cd392c40167cf501b913.png)|2024-11-30 17:01:00|
 |96267|[莉可丽丝_加油]|<img src="./pic/096267_%5B莉可丽丝_加油%5D.png" height="60" alt="加油"/>|[链接](https://i0.hdslb.com/bfs/garb/e798671ed5ffc1ca4a31eeab50054ce7e259f95b.png)|2024-11-30 17:01:00|
 |96268|[莉可丽丝_贴脸]|<img src="./pic/096268_%5B莉可丽丝_贴脸%5D.png" height="60" alt="贴脸"/>|[链接](https://i0.hdslb.com/bfs/garb/f4e5fb67c393ddb3cd53a280ec343b3cdbac9f87.png)|2024-11-30 17:01:00|

@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|22042|[心动少女复古恋_摸鱼]|<img src="./pic/022042_%5B心动少女复古恋_摸鱼%5D.png" height="60" alt="摸鱼"/>|[链接](https://i0.hdslb.com/bfs/garb/5312ef4fa5ea71c7e65d6a215db365b867cc888f.png)|2023-04-06 18:07:20|
+|22042|[心动少女复古恋_摸鱼]|<img src="./pic/022042_%5B心动少女复古恋_摸鱼%5D.png" height="60" alt="摸鱼"/>|[链接](https://i0.hdslb.com/bfs/garb/5312ef4fa5ea71c7e65d6a215db365b867cc888f.png)|2023-04-06 18:08:20|
 |22043|[心动少女复古恋_泪目]|<img src="./pic/022043_%5B心动少女复古恋_泪目%5D.png" height="60" alt="泪目"/>|[链接](https://i0.hdslb.com/bfs/garb/db1526f60d94209b0aa40a8cd3e3c4c65a2826b7.png)|2023-04-06 18:08:20|
 |22044|[心动少女复古恋_握拳]|<img src="./pic/022044_%5B心动少女复古恋_握拳%5D.png" height="60" alt="握拳"/>|[链接](https://i0.hdslb.com/bfs/garb/6f210457b911040accaf220c881e3e191955b386.png)|2023-04-06 18:08:20|
 |22045|[心动少女复古恋_挥手]|<img src="./pic/022045_%5B心动少女复古恋_挥手%5D.png" height="60" alt="挥手"/>|[链接](https://i0.hdslb.com/bfs/garb/65cf113e2da369471452070f7b3fa932a8e5740a.png)|2023-04-06 18:08:20|

@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |68485|[BanGDream_香澄-期待]|<img src="./pic/068485_%5BBanGDream_香澄-期待%5D.png" height="60" alt="香澄-期待"/>|[链接](https://i0.hdslb.com/bfs/emote/91f14be1fa89383f69085a524c7c4d29b4ffb77e.png)|2024-04-15 17:14:47|
-|68486|[BanGDream_多惠-震惊]|<img src="./pic/068486_%5BBanGDream_多惠-震惊%5D.png" height="60" alt="多惠-震惊"/>|[链接](https://i0.hdslb.com/bfs/emote/a74233152fc20912974e00992de60e108d85096a.png)|2024-04-01 15:47:20|
+|68486|[BanGDream_多惠-震惊]|<img src="./pic/068486_%5BBanGDream_多惠-震惊%5D.png" height="60" alt="多惠-震惊"/>|[链接](https://i0.hdslb.com/bfs/emote/a74233152fc20912974e00992de60e108d85096a.png)|2024-04-15 17:14:47|
 |68487|[BanGDream_里美-害羞]|<img src="./pic/068487_%5BBanGDream_里美-害羞%5D.png" height="60" alt="里美-害羞"/>|[链接](https://i0.hdslb.com/bfs/emote/7d1ade9dd51723c02a7ada962a27abea697794db.png)|2024-04-15 17:14:47|
 |68488|[BanGDream_沙绫-没问题]|<img src="./pic/068488_%5BBanGDream_沙绫-没问题%5D.png" height="60" alt="沙绫-没问题"/>|[链接](https://i0.hdslb.com/bfs/emote/5ad1ffa30dcbab7d599e3d1b2c9ffeddf0f8ab46.png)|2024-04-15 17:14:47|
 |68489|[BanGDream_有咲-汗]|<img src="./pic/068489_%5BBanGDream_有咲-汗%5D.png" height="60" alt="有咲-汗"/>|[链接](https://i0.hdslb.com/bfs/emote/3c05cc834f4a40af6ae329518aeacb75a09ee9fd.png)|2024-04-15 17:14:47|

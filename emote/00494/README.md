@@ -10,7 +10,7 @@
 |8779|[泠鸢yousa十周年_啊啊啊！]|<img src="./pic/008779_%5B泠鸢yousa十周年_啊啊啊！%5D.png" height="60" alt="啊啊啊！"/>|[链接](http://i0.hdslb.com/bfs/emote/eaaf366f83e5a4f273a915b5a6841c9f1ac3f230.png)|2022-09-25 16:18:07|
 |8780|[泠鸢yousa十周年_没想到吧]|<img src="./pic/008780_%5B泠鸢yousa十周年_没想到吧%5D.png" height="60" alt="没想到吧"/>|[链接](http://i0.hdslb.com/bfs/emote/059b155688903c309c39e87926473231741f1046.png)|2022-09-25 16:18:07|
 |8781|[泠鸢yousa十周年_暗中观察]|<img src="./pic/008781_%5B泠鸢yousa十周年_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](http://i0.hdslb.com/bfs/emote/2a06a10865332765ff5157a9caad1feafdd691fe.png)|2022-09-25 16:18:07|
-|8782|[泠鸢yousa十周年_爆哭]|<img src="./pic/008782_%5B泠鸢yousa十周年_爆哭%5D.png" height="60" alt="爆哭"/>|[链接](http://i0.hdslb.com/bfs/emote/2834418b06edbdf5560714f9deabd1b31a5f64a5.png)|2022-09-22 21:15:14|
+|8782|[泠鸢yousa十周年_爆哭]|<img src="./pic/008782_%5B泠鸢yousa十周年_爆哭%5D.png" height="60" alt="爆哭"/>|[链接](http://i0.hdslb.com/bfs/emote/2834418b06edbdf5560714f9deabd1b31a5f64a5.png)|2022-09-25 16:18:07|
 |8783|[泠鸢yousa十周年_比心]|<img src="./pic/008783_%5B泠鸢yousa十周年_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/b4220d5efcddb062c92de8fabd56da98cf3b1d58.png)|2022-09-25 16:18:07|
 |8784|[泠鸢yousa十周年_不可以]|<img src="./pic/008784_%5B泠鸢yousa十周年_不可以%5D.png" height="60" alt="不可以"/>|[链接](http://i0.hdslb.com/bfs/emote/dbe018e2ff2c3b7a3f4da5c9b9a1f69fcabe2550.png)|2022-09-25 16:18:07|
 |8785|[泠鸢yousa十周年_不如跳舞]|<img src="./pic/008785_%5B泠鸢yousa十周年_不如跳舞%5D.png" height="60" alt="不如跳舞"/>|[链接](http://i0.hdslb.com/bfs/emote/926711905b0880a21a1b0c60697a98b5d5986365.png)|2022-09-25 16:18:07|

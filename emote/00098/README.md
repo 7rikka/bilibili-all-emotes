@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|2148|[萌妻食神_awsl]|<img src="./pic/002148_%5B萌妻食神_awsl%5D.png" height="60" alt="awsl"/>|[链接](http://i0.hdslb.com/bfs/emote/98c3159d9f5a9b430673fd2c890a8702446e39e3.png)|2020-08-24 15:20:45|
+|2148|[萌妻食神_awsl]|<img src="./pic/002148_%5B萌妻食神_awsl%5D.png" height="60" alt="awsl"/>|[链接](http://i0.hdslb.com/bfs/emote/98c3159d9f5a9b430673fd2c890a8702446e39e3.png)|2021-08-10 17:27:51|
 |2149|[萌妻食神_喝奶茶]|<img src="./pic/002149_%5B萌妻食神_喝奶茶%5D.png" height="60" alt="喝奶茶"/>|[链接](http://i0.hdslb.com/bfs/emote/0cd3fb06310a895966d9b995d6da607b1b273d42.png)|2020-08-24 15:20:45|
 |2150|[萌妻食神_加鸡腿]|<img src="./pic/002150_%5B萌妻食神_加鸡腿%5D.png" height="60" alt="加鸡腿"/>|[链接](http://i0.hdslb.com/bfs/emote/dea9dc10bc01a53b38d014812b2dff0c4803247e.png)|2020-08-24 15:20:45|
 |2151|[萌妻食神_撒娇]|<img src="./pic/002151_%5B萌妻食神_撒娇%5D.png" height="60" alt="撒娇"/>|[链接](http://i0.hdslb.com/bfs/emote/9ba56aa6b47883baa0c13e4dd651dab27ef714fb.png)|2020-08-24 15:20:45|

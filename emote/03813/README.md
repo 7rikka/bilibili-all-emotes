@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|53083|[圣诞姐姐_HI]|<img src="./pic/053083_%5B圣诞姐姐_HI%5D.png" height="60" alt="HI"/>|[链接](https://i0.hdslb.com/bfs/emote/94c3e7197dc1dad8a44156f23033d525b3b33604.png)|2023-11-20 15:21:22|
+|53083|[圣诞姐姐_HI]|<img src="./pic/053083_%5B圣诞姐姐_HI%5D.png" height="60" alt="HI"/>|[链接](https://i0.hdslb.com/bfs/emote/94c3e7197dc1dad8a44156f23033d525b3b33604.png)|2023-11-20 15:12:41|
 |53084|[圣诞姐姐_唱歌]|<img src="./pic/053084_%5B圣诞姐姐_唱歌%5D.png" height="60" alt="唱歌"/>|[链接](https://i0.hdslb.com/bfs/emote/d578e0cbb5f4bbd4faeb909a9646cc5145da43a9.png)|2023-11-20 15:12:41|
 |53085|[圣诞姐姐_吃饼干]|<img src="./pic/053085_%5B圣诞姐姐_吃饼干%5D.png" height="60" alt="吃饼干"/>|[链接](https://i0.hdslb.com/bfs/emote/9caabf27e183d43389c127fe8029961e3be42e86.png)|2023-11-20 15:12:41|
 |53086|[圣诞姐姐_发礼物]|<img src="./pic/053086_%5B圣诞姐姐_发礼物%5D.png" height="60" alt="发礼物"/>|[链接](https://i0.hdslb.com/bfs/emote/be32c9d468b2d236f3a62261da131154f5e1b788.png)|2023-11-20 15:12:41|

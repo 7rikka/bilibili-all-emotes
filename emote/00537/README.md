@@ -24,7 +24,7 @@
 |9827|[DOTA2 dodo_生气]|<img src="./pic/009827_%5BDOTA2 dodo_生气%5D.png" height="60" alt="生气"/>|[链接](http://i0.hdslb.com/bfs/emote/909e7848f187a044543511df41d1deadd188250a.png)|2022-10-22 11:37:24|
 |9828|[DOTA2 dodo_省略号]|<img src="./pic/009828_%5BDOTA2 dodo_省略号%5D.png" height="60" alt="省略号"/>|[链接](http://i0.hdslb.com/bfs/emote/4936d6e0484f2bf1d6f2c19fcd82206404fc0756.png)|2022-10-22 11:37:24|
 |9829|[DOTA2 dodo_问号]|<img src="./pic/009829_%5BDOTA2 dodo_问号%5D.png" height="60" alt="问号"/>|[链接](http://i0.hdslb.com/bfs/emote/f5a0bd650cbed13013404bc1d26ada70563288de.png)|2022-10-22 11:37:24|
-|9830|[DOTA2 dodo_阴险坏笑 ]|<img src="./pic/009830_%5BDOTA2 dodo_阴险坏笑 %5D.png" height="60" alt="阴险坏笑 "/>|[链接](http://i0.hdslb.com/bfs/emote/069acb245f62ca1924e675b4f0007915ac782cc4.png)|2022-10-22 11:37:24|
+|9830|[DOTA2 dodo_阴险坏笑 ]|<img src="./pic/009830_%5BDOTA2 dodo_阴险坏笑 %5D.png" height="60" alt="阴险坏笑 "/>|[链接](http://i0.hdslb.com/bfs/emote/069acb245f62ca1924e675b4f0007915ac782cc4.png)|2022-10-22 11:33:41|
 |9831|[DOTA2 dodo_自闭]|<img src="./pic/009831_%5BDOTA2 dodo_自闭%5D.png" height="60" alt="自闭"/>|[链接](http://i0.hdslb.com/bfs/emote/6ff6349a97fa2249a0ec7a2ebdbafda6281ebdf5.png)|2022-10-22 11:37:24|
 
 # 原始数据

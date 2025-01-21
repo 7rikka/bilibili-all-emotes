@@ -9,7 +9,7 @@
 |72876|[Capybara夏日_住嘴]|<img src="./pic/072876_%5BCapybara夏日_住嘴%5D.png" height="60" alt="住嘴"/>|[链接](https://i0.hdslb.com/bfs/garb/071cac7236fa6e9efc54aca270d2ba43a1e50ba6.png)|2024-05-21 13:15:10|
 |72877|[Capybara夏日_冲浪]|<img src="./pic/072877_%5BCapybara夏日_冲浪%5D.png" height="60" alt="冲浪"/>|[链接](https://i0.hdslb.com/bfs/garb/8f6f9eaf1eea6850df09d6188d1a1ec16f7a0174.png)|2024-05-21 13:15:10|
 |72878|[Capybara夏日_再见]|<img src="./pic/072878_%5BCapybara夏日_再见%5D.png" height="60" alt="再见"/>|[链接](https://i0.hdslb.com/bfs/garb/73f2ad7af6c8ca93e0d34426bfc00fe38e34eb44.png)|2024-05-21 13:15:10|
-|72879|[Capybara夏日_吹风扇]|<img src="./pic/072879_%5BCapybara夏日_吹风扇%5D.png" height="60" alt="吹风扇"/>|[链接](https://i0.hdslb.com/bfs/garb/9ee78d0d003a6174263956f332f11a30ca4543cd.png)|2024-05-21 13:15:10|
+|72879|[Capybara夏日_吹风扇]|<img src="./pic/072879_%5BCapybara夏日_吹风扇%5D.png" height="60" alt="吹风扇"/>|[链接](https://i0.hdslb.com/bfs/garb/9ee78d0d003a6174263956f332f11a30ca4543cd.png)|2024-05-21 16:18:40|
 |72880|[Capybara夏日_吃瓜]|<img src="./pic/072880_%5BCapybara夏日_吃瓜%5D.png" height="60" alt="吃瓜"/>|[链接](https://i0.hdslb.com/bfs/garb/0691f6b4b44e31c4c4f9f3877e62aec058bcbf7a.png)|2024-05-21 13:15:10|
 |72881|[Capybara夏日_溜了]|<img src="./pic/072881_%5BCapybara夏日_溜了%5D.png" height="60" alt="溜了"/>|[链接](https://i0.hdslb.com/bfs/garb/4b6901572e5e000ca5f751c11667177fd597f99f.png)|2024-05-21 13:15:10|
 |72882|[Capybara夏日_埋了]|<img src="./pic/072882_%5BCapybara夏日_埋了%5D.png" height="60" alt="埋了"/>|[链接](https://i0.hdslb.com/bfs/garb/ca5a7c5f6d696d79c47e5d2fe27dbc4b1be2ca43.png)|2024-05-21 13:15:10|

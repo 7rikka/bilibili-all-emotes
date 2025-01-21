@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|93932|[少女电子录_哭哭]|<img src="./pic/093932_%5B少女电子录_哭哭%5D.png" height="60" alt="哭哭"/>|[链接](https://i0.hdslb.com/bfs/garb/a5d0ab747de53d5a161df1d9f765670cbc5a024a.png)|2024-11-06 11:03:40|
+|93932|[少女电子录_哭哭]|<img src="./pic/093932_%5B少女电子录_哭哭%5D.png" height="60" alt="哭哭"/>|[链接](https://i0.hdslb.com/bfs/garb/a5d0ab747de53d5a161df1d9f765670cbc5a024a.png)|2024-11-06 11:03:30|
 |93933|[少女电子录_郁闷]|<img src="./pic/093933_%5B少女电子录_郁闷%5D.png" height="60" alt="郁闷"/>|[链接](https://i0.hdslb.com/bfs/garb/06307eb245e48c4f1e47e6d993b9e47af49f24c9.png)|2024-11-06 11:03:40|
 |93934|[少女电子录_比耶]|<img src="./pic/093934_%5B少女电子录_比耶%5D.png" height="60" alt="比耶"/>|[链接](https://i0.hdslb.com/bfs/garb/7a9ce4c36fe8ca93db1c7a52bc5fc224ca68161e.png)|2024-11-06 11:03:40|
 |93935|[少女电子录_微笑]|<img src="./pic/093935_%5B少女电子录_微笑%5D.png" height="60" alt="微笑"/>|[链接](https://i0.hdslb.com/bfs/garb/f514ca679f81dc01453582bcf80f2d6e8efae74d.png)|2024-11-06 11:03:40|

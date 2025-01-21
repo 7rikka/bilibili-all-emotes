@@ -19,7 +19,7 @@
 |3000|[绯赤艾莉欧_生气]|<img src="./pic/003000_%5B绯赤艾莉欧_生气%5D.png" height="60" alt="生气"/>|[链接](http://i0.hdslb.com/bfs/emote/eca7c5dcc7ec5fa1f84bc6d1429644dc085e90d0.png)|2020-12-17 17:15:49|
 |3001|[绯赤艾莉欧_喜欢]|<img src="./pic/003001_%5B绯赤艾莉欧_喜欢%5D.png" height="60" alt="喜欢"/>|[链接](http://i0.hdslb.com/bfs/emote/a097795342f515180a6e81e1a0de9ac1c2aa59e6.png)|2020-12-17 17:15:49|
 |3002|[绯赤艾莉欧_想中奖]|<img src="./pic/003002_%5B绯赤艾莉欧_想中奖%5D.png" height="60" alt="想中奖"/>|[链接](http://i0.hdslb.com/bfs/emote/2397f6749f7acbf6a8854b02ba1ff2cd34eef391.png)|2020-12-17 17:15:49|
-|3003|[绯赤艾莉欧_星星眼]|<img src="./pic/003003_%5B绯赤艾莉欧_星星眼%5D.png" height="60" alt="星星眼"/>|[链接](http://i0.hdslb.com/bfs/emote/534941c7fd550d3db6b356762e7548a750efa79f.png)|2020-12-17 17:15:49|
+|3003|[绯赤艾莉欧_星星眼]|<img src="./pic/003003_%5B绯赤艾莉欧_星星眼%5D.png" height="60" alt="星星眼"/>|[链接](http://i0.hdslb.com/bfs/emote/534941c7fd550d3db6b356762e7548a750efa79f.png)|2020-12-30 19:31:43|
 |3004|[绯赤艾莉欧_应援]|<img src="./pic/003004_%5B绯赤艾莉欧_应援%5D.png" height="60" alt="应援"/>|[链接](http://i0.hdslb.com/bfs/emote/7c50c6930e7ff51e5dd0ba4c318a3fc249826529.png)|2020-12-17 17:15:49|
 
 # 原始数据

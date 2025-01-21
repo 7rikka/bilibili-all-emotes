@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|1482|[热词系列_吹爆]|<img src="./pic/001482_%5B热词系列_吹爆%5D.png" height="60" alt="吹爆"/>|[链接](https://i0.hdslb.com/bfs/emote/9c78c14bd395d75afeecd20276ec71324e9b97df.png)|2022-12-28 19:00:19|
+|1482|[热词系列_吹爆]|<img src="./pic/001482_%5B热词系列_吹爆%5D.png" height="60" alt="吹爆"/>|[链接](https://i0.hdslb.com/bfs/emote/9c78c14bd395d75afeecd20276ec71324e9b97df.png)|2022-12-23 14:59:28|
 |1483|[热词系列_三连]|<img src="./pic/001483_%5B热词系列_三连%5D.png" height="60" alt="三连"/>|[链接](https://i0.hdslb.com/bfs/emote/21f15fe11b7a84d2f2121c16dec50a4e4556f865.png)|2022-12-23 14:59:28|
 |1484|[热词系列_高产]|<img src="./pic/001484_%5B热词系列_高产%5D.png" height="60" alt="高产"/>|[链接](https://i0.hdslb.com/bfs/emote/9db817cba4a7f4a42398f3b2ec7c0a8e0c247c42.png)|2022-12-23 14:59:28|
 |1485|[热词系列_打卡]|<img src="./pic/001485_%5B热词系列_打卡%5D.png" height="60" alt="打卡"/>|[链接](https://i0.hdslb.com/bfs/emote/a9cf77c78e1b9b40aa3ed4862402fba008ee2f51.png)|2022-12-23 14:59:28|
