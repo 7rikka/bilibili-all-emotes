@@ -6,14 +6,14 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|5952|[绊爱第二弹_丧]|<img src="./pic/005952_%5B绊爱第二弹_丧%5D.png" height="60" alt="丧"/>|[链接](http://i0.hdslb.com/bfs/emote/2c281f7a8f9794b34bd15f1d8a0ec34384410613.png)|2022-02-23 19:01:03|
+|5952|[绊爱第二弹_丧]|<img src="./pic/005952_%5B绊爱第二弹_丧%5D.png" height="60" alt="丧"/>|[链接](http://i0.hdslb.com/bfs/emote/2c281f7a8f9794b34bd15f1d8a0ec34384410613.png)|2022-03-22 17:00:10|
 |5953|[绊爱第二弹_啊呜]|<img src="./pic/005953_%5B绊爱第二弹_啊呜%5D.png" height="60" alt="啊呜"/>|[链接](http://i0.hdslb.com/bfs/emote/087ea5845e081e6c951745c814d9e5f6eeb4cef7.png)|2022-02-23 19:01:03|
 |5954|[绊爱第二弹_生气气]|<img src="./pic/005954_%5B绊爱第二弹_生气气%5D.png" height="60" alt="生气气"/>|[链接](http://i0.hdslb.com/bfs/emote/e077638c9639e496d1eb840da2b6ecd38b0ecd9b.png)|2022-02-23 19:01:03|
 |5955|[绊爱第二弹_盯]|<img src="./pic/005955_%5B绊爱第二弹_盯%5D.png" height="60" alt="盯"/>|[链接](http://i0.hdslb.com/bfs/emote/1e8a107fac6bdecd63b2cb3b105ca74ea7aa5a4e.png)|2022-02-23 19:01:03|
 |5956|[绊爱第二弹_忍耐]|<img src="./pic/005956_%5B绊爱第二弹_忍耐%5D.png" height="60" alt="忍耐"/>|[链接](http://i0.hdslb.com/bfs/emote/a9649bfe27564b4d0d2c101b727687e49685420e.png)|2022-02-23 19:01:03|
 |5957|[绊爱第二弹_紧张]|<img src="./pic/005957_%5B绊爱第二弹_紧张%5D.png" height="60" alt="紧张"/>|[链接](http://i0.hdslb.com/bfs/emote/fef0449733516858205b73775da02a6b7864f9c4.png)|2022-02-23 19:01:03|
 |5958|[绊爱第二弹_无能狂怒]|<img src="./pic/005958_%5B绊爱第二弹_无能狂怒%5D.png" height="60" alt="无能狂怒"/>|[链接](http://i0.hdslb.com/bfs/emote/032599a8df482bf502d6a4202e6a33d830a9f362.png)|2022-02-23 19:01:03|
-|5959|[绊爱第二弹_再见]|<img src="./pic/005959_%5B绊爱第二弹_再见%5D.png" height="60" alt="再见"/>|[链接](http://i0.hdslb.com/bfs/emote/e1bfa433bded9d69d9a557dd137b4bd8893213e5.png)|2022-02-23 19:01:03|
+|5959|[绊爱第二弹_再见]|<img src="./pic/005959_%5B绊爱第二弹_再见%5D.png" height="60" alt="再见"/>|[链接](http://i0.hdslb.com/bfs/emote/e1bfa433bded9d69d9a557dd137b4bd8893213e5.png)|2022-02-22 17:00:11|
 |5960|[绊爱第二弹_哈？]|<img src="./pic/005960_%5B绊爱第二弹_哈？%5D.png" height="60" alt="哈？"/>|[链接](http://i0.hdslb.com/bfs/emote/960f205f21848f14e438af008a9980146b8325b0.png)|2022-02-23 19:01:03|
 |5961|[绊爱第二弹_好耶]|<img src="./pic/005961_%5B绊爱第二弹_好耶%5D.png" height="60" alt="好耶"/>|[链接](http://i0.hdslb.com/bfs/emote/a65f93f538e36538ff4f29eadca7baf0a24b3b28.png)|2022-02-23 19:01:03|
 |5962|[绊爱第二弹_充电]|<img src="./pic/005962_%5B绊爱第二弹_充电%5D.png" height="60" alt="充电"/>|[链接](http://i0.hdslb.com/bfs/emote/cc5839b29fe2de281f35452c0c1582cc3f834a2d.png)|2022-02-23 19:01:03|

@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|3868|[大航海嘉然_？？？]|<img src="./pic/003868_%5B大航海嘉然_？？？%5D.png" height="60" alt="？？？"/>|[链接](http://i0.hdslb.com/bfs/emote/62c63c377ab71b151ca14f36d5de8f22224bff3e.png)|2021-05-26 18:22:21|
+|3868|[大航海嘉然_？？？]|<img src="./pic/003868_%5B大航海嘉然_？？？%5D.png" height="60" alt="？？？"/>|[链接](http://i0.hdslb.com/bfs/emote/62c63c377ab71b151ca14f36d5de8f22224bff3e.png)|2021-05-26 18:22:57|
 |3869|[大航海嘉然_NO]|<img src="./pic/003869_%5B大航海嘉然_NO%5D.png" height="60" alt="NO"/>|[链接](http://i0.hdslb.com/bfs/emote/5a3711be72b6d75cd1a88b3877b11ac37f347ee5.png)|2021-05-26 18:22:21|
 |3870|[大航海嘉然_YYDS]|<img src="./pic/003870_%5B大航海嘉然_YYDS%5D.png" height="60" alt="YYDS"/>|[链接](http://i0.hdslb.com/bfs/emote/77bc8051ad2e8ff84382268801d5fe85ae9b0e2b.png)|2021-05-26 18:22:21|
 |3871|[大航海嘉然_饿了]|<img src="./pic/003871_%5B大航海嘉然_饿了%5D.png" height="60" alt="饿了"/>|[链接](http://i0.hdslb.com/bfs/emote/24efe361c443e657b11dbe77855002e8eb3b62c1.png)|2021-05-26 18:22:21|

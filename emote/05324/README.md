@@ -6,10 +6,10 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|77839|[言和十一周年纪念_期待]|<img src="./pic/077839_%5B言和十一周年纪念_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/emote/7a8a6e005d213b540a2a0f3da32d8e24f4c3f869.png)|2024-07-08 11:16:04|
+|77839|[言和十一周年纪念_期待]|<img src="./pic/077839_%5B言和十一周年纪念_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/emote/7a8a6e005d213b540a2a0f3da32d8e24f4c3f869.png)|2024-07-08 12:55:00|
 |77840|[言和十一周年纪念_在思考]|<img src="./pic/077840_%5B言和十一周年纪念_在思考%5D.png" height="60" alt="在思考"/>|[链接](https://i0.hdslb.com/bfs/emote/401326617dc1cc222dce4e3de03157a2cf9121f8.png)|2024-07-08 11:16:04|
 |77841|[言和十一周年纪念_言来了]|<img src="./pic/077841_%5B言和十一周年纪念_言来了%5D.png" height="60" alt="言来了"/>|[链接](https://i0.hdslb.com/bfs/emote/8a1d6af57d9f1ea6f86a9585012f368c3f6cb3f9.png)|2024-07-08 11:16:04|
-|77842|[言和十一周年纪念_沉默]|<img src="./pic/077842_%5B言和十一周年纪念_沉默%5D.png" height="60" alt="沉默"/>|[链接](https://i0.hdslb.com/bfs/emote/f75c710ee7176e07d940def1a0850ac9690e30ea.png)|2024-07-08 11:16:04|
+|77842|[言和十一周年纪念_沉默]|<img src="./pic/077842_%5B言和十一周年纪念_沉默%5D.png" height="60" alt="沉默"/>|[链接](https://i0.hdslb.com/bfs/emote/f75c710ee7176e07d940def1a0850ac9690e30ea.png)|2024-07-08 12:55:00|
 |77843|[言和十一周年纪念_嘘]|<img src="./pic/077843_%5B言和十一周年纪念_嘘%5D.png" height="60" alt="嘘"/>|[链接](https://i0.hdslb.com/bfs/emote/5f503a19a81f1cf2d8a3d9aa1a97d3f58df2ec3b.png)|2024-07-08 11:16:04|
 |77844|[言和十一周年纪念_请收]|<img src="./pic/077844_%5B言和十一周年纪念_请收%5D.png" height="60" alt="请收"/>|[链接](https://i0.hdslb.com/bfs/emote/451a57ae7ad906c26a4fb33026cdd3d393d014d9.png)|2024-07-08 11:16:04|
 |77845|[言和十一周年纪念_迷惑]|<img src="./pic/077845_%5B言和十一周年纪念_迷惑%5D.png" height="60" alt="迷惑"/>|[链接](https://i0.hdslb.com/bfs/emote/36fd1372cedda8a988f7f77b93ed1a95afdcdcc7.png)|2024-07-08 11:16:04|

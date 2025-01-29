@@ -18,7 +18,7 @@
 |24420|[百妖谱 · 三周年纪念_拜托拜托]|<img src="./pic/024420_%5B百妖谱 · 三周年纪念_拜托拜托%5D.png" height="60" alt="拜托拜托"/>|[链接](https://i0.hdslb.com/bfs/emote/8d6bc93a6812d2271aba5b3817e153adb0cdc2ba.png)|2023-04-24 18:53:06|
 |24421|[百妖谱 · 三周年纪念_你好]|<img src="./pic/024421_%5B百妖谱 · 三周年纪念_你好%5D.png" height="60" alt="你好"/>|[链接](https://i0.hdslb.com/bfs/emote/d602315a71cc020786969ee120e4ba6077579ffe.png)|2023-04-24 18:53:06|
 |24422|[百妖谱 · 三周年纪念_阿弥陀佛]|<img src="./pic/024422_%5B百妖谱 · 三周年纪念_阿弥陀佛%5D.png" height="60" alt="阿弥陀佛"/>|[链接](https://i0.hdslb.com/bfs/emote/ac52bf16d4d4ede8a8218e08715df9ac34072705.png)|2023-04-24 18:53:06|
-|24423|[百妖谱 · 三周年纪念_默默守护]|<img src="./pic/024423_%5B百妖谱 · 三周年纪念_默默守护%5D.png" height="60" alt="默默守护"/>|[链接](https://i0.hdslb.com/bfs/emote/be03c841ea0a20e93201c6185967f1da72e7c8bd.png)|2023-04-20 11:00:00|
+|24423|[百妖谱 · 三周年纪念_默默守护]|<img src="./pic/024423_%5B百妖谱 · 三周年纪念_默默守护%5D.png" height="60" alt="默默守护"/>|[链接](https://i0.hdslb.com/bfs/emote/be03c841ea0a20e93201c6185967f1da72e7c8bd.png)|2023-04-24 18:53:06|
 |24424|[百妖谱 · 三周年纪念_无语]|<img src="./pic/024424_%5B百妖谱 · 三周年纪念_无语%5D.png" height="60" alt="无语"/>|[链接](https://i0.hdslb.com/bfs/emote/a81d49b7bf76373b8b2aa230dd0f18ac9e8d76d5.png)|2023-04-24 18:53:06|
 |24425|[百妖谱 · 三周年纪念_让我看看]|<img src="./pic/024425_%5B百妖谱 · 三周年纪念_让我看看%5D.png" height="60" alt="让我看看"/>|[链接](https://i0.hdslb.com/bfs/emote/8786b845c9b5eba212b71892f5d1858bf151e688.png)|2023-04-24 18:53:06|
 |24426|[百妖谱 · 三周年纪念_开心]|<img src="./pic/024426_%5B百妖谱 · 三周年纪念_开心%5D.png" height="60" alt="开心"/>|[链接](https://i0.hdslb.com/bfs/emote/eba95c41a05bec3896c664eae826a693d90d2ee1.png)|2023-04-24 18:53:06|

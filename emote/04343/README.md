@@ -18,7 +18,7 @@
 |61255|[小宠派对_贴贴]|<img src="./pic/061255_%5B小宠派对_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](https://i0.hdslb.com/bfs/garb/b1bb41a24b475aa6439b9533f15dacb284c03a35.png)|2024-01-22 15:48:30|
 |61256|[小宠派对_送你皇冠]|<img src="./pic/061256_%5B小宠派对_送你皇冠%5D.png" height="60" alt="送你皇冠"/>|[链接](https://i0.hdslb.com/bfs/garb/2222d9498f0f2af5f15d7965e61806dc3909c25a.png)|2024-01-22 15:48:30|
 |61257|[小宠派对_期待]|<img src="./pic/061257_%5B小宠派对_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/garb/dcc154e1b932ac40a490c36b92e775e51aaa8755.png)|2024-01-22 15:48:30|
-|61258|[小宠派对_病了]|<img src="./pic/061258_%5B小宠派对_病了%5D.png" height="60" alt="病了"/>|[链接](https://i0.hdslb.com/bfs/garb/0fc5dd7a1f41853903721700c5a854c788a46b98.png)|2024-01-22 15:48:00|
+|61258|[小宠派对_病了]|<img src="./pic/061258_%5B小宠派对_病了%5D.png" height="60" alt="病了"/>|[链接](https://i0.hdslb.com/bfs/garb/0fc5dd7a1f41853903721700c5a854c788a46b98.png)|2024-01-22 15:48:30|
 |61259|[小宠派对_宕机]|<img src="./pic/061259_%5B小宠派对_宕机%5D.png" height="60" alt="宕机"/>|[链接](https://i0.hdslb.com/bfs/garb/4648b1bc388890c6f4e76ee1106bb4a2400b1e19.png)|2024-01-22 15:48:30|
 |61260|[小宠派对_悠闲]|<img src="./pic/061260_%5B小宠派对_悠闲%5D.png" height="60" alt="悠闲"/>|[链接](https://i0.hdslb.com/bfs/garb/6aa1076b20a03dbb799dcc111c98138b5eecf6f3.png)|2024-01-22 15:48:30|
 

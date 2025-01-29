@@ -24,7 +24,7 @@
 |8005|[Shu Yamino_上号]|<img src="./pic/008005_%5BShu Yamino_上号%5D.png" height="60" alt="上号"/>|[链接](http://i0.hdslb.com/bfs/emote/38715aeb3a580ec78a2626a318bc37e7cfa2e3aa.png)|2022-07-29 11:45:54|
 |8006|[Shu Yamino_Gottem]|<img src="./pic/008006_%5BShu Yamino_Gottem%5D.png" height="60" alt="Gottem"/>|[链接](http://i0.hdslb.com/bfs/emote/a13c8b6da214006047648398ee82618769bb97a2.png)|2022-07-29 11:45:54|
 |8007|[Shu Yamino_Bonk]|<img src="./pic/008007_%5BShu Yamino_Bonk%5D.png" height="60" alt="Bonk"/>|[链接](http://i0.hdslb.com/bfs/emote/31743efada965e7df36d06a224ea07c8c2fcdbfd.png)|2022-07-29 11:45:54|
-|8008|[Shu Yamino_比心]|<img src="./pic/008008_%5BShu Yamino_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/9473560072fd57f5ba9027872c89894b7e1ccf9e.png)|2022-07-29 11:45:54|
+|8008|[Shu Yamino_比心]|<img src="./pic/008008_%5BShu Yamino_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/9473560072fd57f5ba9027872c89894b7e1ccf9e.png)|2022-07-29 11:46:24|
 |8009|[Shu Yamino_摸头]|<img src="./pic/008009_%5BShu Yamino_摸头%5D.png" height="60" alt="摸头"/>|[链接](http://i0.hdslb.com/bfs/emote/476766d8ea81942405488ca22b76d8a3375dc8ab.png)|2022-07-29 11:45:54|
 
 # 原始数据

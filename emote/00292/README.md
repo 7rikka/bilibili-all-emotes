@@ -15,7 +15,7 @@
 |4828|[LNG_要有光]|<img src="./pic/004828_%5BLNG_要有光%5D.png" height="60" alt="要有光"/>|[链接](http://i0.hdslb.com/bfs/emote/f01dbcbb94b24a1b6b235da6671f078acf76ec6b.png)|2021-10-03 09:47:03|
 |4829|[LNG_营业]|<img src="./pic/004829_%5BLNG_营业%5D.png" height="60" alt="营业"/>|[链接](http://i0.hdslb.com/bfs/emote/454d14b10970c15fe7248aeef07e58fce734d940.png)|2021-10-03 09:47:03|
 |4830|[LNG_有了]|<img src="./pic/004830_%5BLNG_有了%5D.png" height="60" alt="有了"/>|[链接](http://i0.hdslb.com/bfs/emote/cd763575bfa47030f9e89c4ff71d4e5b213c0e63.png)|2021-10-03 09:47:03|
-|4831|[LNG_LNG]|<img src="./pic/004831_%5BLNG_LNG%5D.png" height="60" alt="LNG"/>|[链接](http://i0.hdslb.com/bfs/emote/bbd4913f9b01b0f612b927e157598cbff6dd460f.png)|2021-10-03 09:47:03|
+|4831|[LNG_LNG]|<img src="./pic/004831_%5BLNG_LNG%5D.png" height="60" alt="LNG"/>|[链接](http://i0.hdslb.com/bfs/emote/bbd4913f9b01b0f612b927e157598cbff6dd460f.png)|2021-09-30 11:59:07|
 
 # 原始数据
 

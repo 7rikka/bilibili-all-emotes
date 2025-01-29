@@ -21,7 +21,7 @@
 |4442|[早稻叽_打嗝]|<img src="./pic/004442_%5B早稻叽_打嗝%5D.png" height="60" alt="打嗝"/>|[链接](http://i0.hdslb.com/bfs/emote/60c9cf2c10fa9d3ed861042eba452795640b2da2.png)|2021-08-13 17:39:19|
 |4443|[早稻叽_元气满满]|<img src="./pic/004443_%5B早稻叽_元气满满%5D.png" height="60" alt="元气满满"/>|[链接](http://i0.hdslb.com/bfs/emote/646c585ba5ee70314ca8253f1116f1bfd6784ef0.png)|2021-08-13 17:01:43|
 |4444|[早稻叽_比心]|<img src="./pic/004444_%5B早稻叽_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/ab403bbd217f2c0d7c1a0d3e8e93a68630a2f899.png)|2021-08-13 17:01:43|
-|4445|[早稻叽_戳]|<img src="./pic/004445_%5B早稻叽_戳%5D.png" height="60" alt="戳"/>|[链接](http://i0.hdslb.com/bfs/emote/20207b079413be77bd24c9c208e7a1a997ababc6.png)|2021-08-13 17:01:43|
+|4445|[早稻叽_戳]|<img src="./pic/004445_%5B早稻叽_戳%5D.png" height="60" alt="戳"/>|[链接](http://i0.hdslb.com/bfs/emote/20207b079413be77bd24c9c208e7a1a997ababc6.png)|2021-08-16 17:40:30|
 |4446|[早稻叽_牛啊]|<img src="./pic/004446_%5B早稻叽_牛啊%5D.png" height="60" alt="牛啊"/>|[链接](http://i0.hdslb.com/bfs/emote/18f0ec451668845738b0fb211cbc7de1fc554709.png)|2021-08-13 17:01:43|
 |4447|[早稻叽_亲亲]|<img src="./pic/004447_%5B早稻叽_亲亲%5D.png" height="60" alt="亲亲"/>|[链接](http://i0.hdslb.com/bfs/emote/40ec9fbe3e7d084d94192f7686efe6c0dbe8af1f.png)|2021-08-13 17:01:43|
 |4448|[早稻叽_无语]|<img src="./pic/004448_%5B早稻叽_无语%5D.png" height="60" alt="无语"/>|[链接](http://i0.hdslb.com/bfs/emote/be7c3d0e309df2b207946e2509bd1b7c73ba2b68.png)|2021-08-13 17:01:43|

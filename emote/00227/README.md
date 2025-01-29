@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|3970|[乙女音_5000兆円]|<img src="./pic/003970_%5B乙女音_5000兆円%5D.png" height="60" alt="5000兆円"/>|[链接](http://i0.hdslb.com/bfs/emote/8c83a6a9cb36dd7257f1c59af0845d62f78c5764.png)|2021-05-26 18:23:48|
-|3971|[乙女音_打咩]|<img src="./pic/003971_%5B乙女音_打咩%5D.png" height="60" alt="打咩"/>|[链接](http://i0.hdslb.com/bfs/emote/bbda5c75fe41891de2fcf355247c2f32ffc1d6e8.png)|2021-06-26 18:23:48|
+|3970|[乙女音_5000兆円]|<img src="./pic/003970_%5B乙女音_5000兆円%5D.png" height="60" alt="5000兆円"/>|[链接](http://i0.hdslb.com/bfs/emote/8c83a6a9cb36dd7257f1c59af0845d62f78c5764.png)|2021-06-04 18:54:09|
+|3971|[乙女音_打咩]|<img src="./pic/003971_%5B乙女音_打咩%5D.png" height="60" alt="打咩"/>|[链接](http://i0.hdslb.com/bfs/emote/bbda5c75fe41891de2fcf355247c2f32ffc1d6e8.png)|2021-06-04 18:54:09|
 |3972|[乙女音_对不起]|<img src="./pic/003972_%5B乙女音_对不起%5D.png" height="60" alt="对不起"/>|[链接](http://i0.hdslb.com/bfs/emote/2b4029232853ad2a792e0ee6edd9afe4958aff72.png)|2021-06-04 18:54:09|
 |3973|[乙女音_好人]|<img src="./pic/003973_%5B乙女音_好人%5D.png" height="60" alt="好人"/>|[链接](http://i0.hdslb.com/bfs/emote/5cce382dbbf6751650a600e440e53005d1d96955.png)|2021-06-04 18:54:09|
 |3974|[乙女音_好耶]|<img src="./pic/003974_%5B乙女音_好耶%5D.png" height="60" alt="好耶"/>|[链接](http://i0.hdslb.com/bfs/emote/b9696a0c50c0b2db2dc95e84afdb47b8ec374684.png)|2021-06-04 18:54:09|

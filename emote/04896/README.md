@@ -26,7 +26,7 @@
 |77372|[UPOWER_6075545_猎杀时刻]|<img src="./pic/077372_%5BUPOWER_6075545_猎杀时刻%5D.png" height="60" alt="猎杀时刻"/>|[链接](https://i0.hdslb.com/bfs/garb/dc1ff9b4b64b9e3fce0bcb6fe580ae73181046de.png)|2024-07-02 17:35:11|
 |77373|[UPOWER_6075545_痛苦面具]|<img src="./pic/077373_%5BUPOWER_6075545_痛苦面具%5D.png" height="60" alt="痛苦面具"/>|[链接](https://i0.hdslb.com/bfs/garb/f090274fec15f1933fbf11d74ce5a1357aa44eb5.png)|2024-07-02 17:35:11|
 |77374|[UPOWER_6075545_辣眼睛]|<img src="./pic/077374_%5BUPOWER_6075545_辣眼睛%5D.png" height="60" alt="辣眼睛"/>|[链接](https://i0.hdslb.com/bfs/garb/fb94aa3dc7114615eb44bbc44d669be747d91bc0.png)|2024-07-02 17:35:07|
-|92225|[UPOWER_6075545_邪恶臻子]|<img src="./pic/092225_%5BUPOWER_6075545_邪恶臻子%5D.png" height="60" alt="邪恶臻子"/>|[链接](https://i0.hdslb.com/bfs/garb/fb8ac07ac748186565d0bc82fecb67dd977e81f9.png)|2024-10-25 09:20:39|
+|92225|[UPOWER_6075545_邪恶臻子]|<img src="./pic/092225_%5BUPOWER_6075545_邪恶臻子%5D.png" height="60" alt="邪恶臻子"/>|[链接](https://i0.hdslb.com/bfs/garb/bb5b02c3eb27026f18630e484d2d9e4628964a55.png)|2025-01-25 18:00:41|
 
 # 原始数据
 

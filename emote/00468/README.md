@@ -27,7 +27,7 @@
 |8226|[幕末替身传说_上啊]|<img src="./pic/008226_%5B幕末替身传说_上啊%5D.png" height="60" alt="上啊"/>|[链接](http://i0.hdslb.com/bfs/emote/c4f6465bdd45b11954e5eb128b980278b36d796b.png)|2022-08-08 17:28:28|
 |8227|[幕末替身传说_生气]|<img src="./pic/008227_%5B幕末替身传说_生气%5D.png" height="60" alt="生气"/>|[链接](http://i0.hdslb.com/bfs/emote/f2a63c071546511a572262f372910ca6bd7af286.png)|2022-08-08 17:28:28|
 |8228|[幕末替身传说_想打人]|<img src="./pic/008228_%5B幕末替身传说_想打人%5D.png" height="60" alt="想打人"/>|[链接](http://i0.hdslb.com/bfs/emote/67d4377bb0af1ba92216b3a1d92ed1a754bb51a8.png)|2022-08-08 17:28:28|
-|8229|[幕末替身传说_一脸冷漠]|<img src="./pic/008229_%5B幕末替身传说_一脸冷漠%5D.png" height="60" alt="一脸冷漠"/>|[链接](http://i0.hdslb.com/bfs/emote/8c57f118a384377ef838c0609b33b6b9bb09030d.png)|2022-08-08 17:28:28|
+|8229|[幕末替身传说_一脸冷漠]|<img src="./pic/008229_%5B幕末替身传说_一脸冷漠%5D.png" height="60" alt="一脸冷漠"/>|[链接](http://i0.hdslb.com/bfs/emote/8c57f118a384377ef838c0609b33b6b9bb09030d.png)|2022-08-08 18:27:17|
 |8230|[幕末替身传说_运动]|<img src="./pic/008230_%5B幕末替身传说_运动%5D.png" height="60" alt="运动"/>|[链接](http://i0.hdslb.com/bfs/emote/404a7df96f33014ca055da6c3fcd1fdf4a1ac0f8.png)|2022-08-08 17:28:28|
 |8231|[幕末替身传说_斩]|<img src="./pic/008231_%5B幕末替身传说_斩%5D.png" height="60" alt="斩"/>|[链接](http://i0.hdslb.com/bfs/emote/4ab280c60d9dd7858ceb9c431be35b1be16442bd.png)|2022-08-08 17:28:28|
 |8232|[幕末替身传说_整理头发]|<img src="./pic/008232_%5B幕末替身传说_整理头发%5D.png" height="60" alt="整理头发"/>|[链接](http://i0.hdslb.com/bfs/emote/96fcd2e718a28be809f45fff37c3c9b12259028a.png)|2022-08-08 17:28:28|

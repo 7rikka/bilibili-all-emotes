@@ -23,7 +23,7 @@
 |95254|[魔法庆典·动态_虾头]|<img src="./pic/095254_%5B魔法庆典·动态_虾头%5D.gif" height="60" alt="虾头"/>|[链接](https://i0.hdslb.com/bfs/garb/dbfe9d6e981d47d43d18b2246db5c517f0484737.gif)|2024-11-19 19:00:00|
 |95255|[魔法庆典·动态_开心]|<img src="./pic/095255_%5B魔法庆典·动态_开心%5D.gif" height="60" alt="开心"/>|[链接](https://i0.hdslb.com/bfs/garb/0de52fe5aa6a52462d56b6cabb6da397caa939b9.gif)|2024-11-19 19:00:00|
 |95256|[魔法庆典·动态_发射爱心]|<img src="./pic/095256_%5B魔法庆典·动态_发射爱心%5D.gif" height="60" alt="发射爱心"/>|[链接](https://i0.hdslb.com/bfs/garb/ed38df77e812440c8e5da30c29faba23ba55a9e9.gif)|2024-11-19 19:00:00|
-|95257|[魔法庆典·动态_贴屏]|<img src="./pic/095257_%5B魔法庆典·动态_贴屏%5D.gif" height="60" alt="贴屏"/>|[链接](https://i0.hdslb.com/bfs/garb/81dd0fcaed301f56b06d6a28d6b639f96fe9592b.gif)|2024-11-19 19:00:00|
+|95257|[魔法庆典·动态_贴屏]|<img src="./pic/095257_%5B魔法庆典·动态_贴屏%5D.gif" height="60" alt="贴屏"/>|[链接](https://i0.hdslb.com/bfs/garb/81dd0fcaed301f56b06d6a28d6b639f96fe9592b.gif)|2024-11-19 19:55:00|
 |95258|[魔法庆典·动态_哈？]|<img src="./pic/095258_%5B魔法庆典·动态_哈？%5D.gif" height="60" alt="哈？"/>|[链接](https://i0.hdslb.com/bfs/garb/50e66ff2a4010e1f972724770b633ca10c97aaff.gif)|2024-11-19 19:00:00|
 |95259|[魔法庆典·动态_开枪]|<img src="./pic/095259_%5B魔法庆典·动态_开枪%5D.gif" height="60" alt="开枪"/>|[链接](https://i0.hdslb.com/bfs/garb/ec0faf048574635f789a16e876e41eb704eb02ea.gif)|2024-11-19 19:00:00|
 

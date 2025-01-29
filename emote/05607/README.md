@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|82305|[小初动态表情包_爱你]|<img src="./pic/082305_%5B小初动态表情包_爱你%5D.gif" height="60" alt="爱你"/>|[链接](https://i0.hdslb.com/bfs/emote/0a2a25750ab404a2f9eb4dd85c857568c3b744b6.gif)|2024-08-09 16:48:20|
+|82305|[小初动态表情包_爱你]|<img src="./pic/082305_%5B小初动态表情包_爱你%5D.gif" height="60" alt="爱你"/>|[链接](https://i0.hdslb.com/bfs/emote/0a2a25750ab404a2f9eb4dd85c857568c3b744b6.gif)|2024-08-09 12:30:03|
 |82306|[小初动态表情包_拜拜]|<img src="./pic/082306_%5B小初动态表情包_拜拜%5D.gif" height="60" alt="拜拜"/>|[链接](https://i0.hdslb.com/bfs/emote/aacad6f6a3c75373acc4f35c3aff3ea9c198ea17.gif)|2024-08-09 12:30:03|
 |82307|[小初动态表情包_比心]|<img src="./pic/082307_%5B小初动态表情包_比心%5D.gif" height="60" alt="比心"/>|[链接](https://i0.hdslb.com/bfs/emote/51820b9e85e367e78bec1a82b8f4d40f17de22a5.gif)|2024-08-09 12:30:03|
 |82308|[小初动态表情包_不行]|<img src="./pic/082308_%5B小初动态表情包_不行%5D.gif" height="60" alt="不行"/>|[链接](https://i0.hdslb.com/bfs/emote/397c3f3645c3ff3c8ffe8d81982b970e0a2fa303.gif)|2024-08-09 12:30:03|
