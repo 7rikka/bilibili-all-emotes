@@ -7,11 +7,11 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |76438|[-ASAKI-动态表情包_?]|<img src="./pic/076438_%5B-ASAKI-动态表情包__%5D.gif" height="60" alt="?"/>|[链接](https://i0.hdslb.com/bfs/emote/e80d25d42e22f0bd3bcffbb553baa277117d3d3c.gif)|2024-06-21 11:44:05|
-|76439|[-ASAKI-动态表情包_气鼓鼓]|<img src="./pic/076439_%5B-ASAKI-动态表情包_气鼓鼓%5D.gif" height="60" alt="气鼓鼓"/>|[链接](https://i0.hdslb.com/bfs/emote/7550021afa5a24b52934d3e56f52d700e358146e.gif)|2024-06-20 20:56:28|
+|76439|[-ASAKI-动态表情包_气鼓鼓]|<img src="./pic/076439_%5B-ASAKI-动态表情包_气鼓鼓%5D.gif" height="60" alt="气鼓鼓"/>|[链接](https://i0.hdslb.com/bfs/emote/7550021afa5a24b52934d3e56f52d700e358146e.gif)|2024-06-21 11:47:08|
 |76440|[-ASAKI-动态表情包_别走好吗]|<img src="./pic/076440_%5B-ASAKI-动态表情包_别走好吗%5D.gif" height="60" alt="别走好吗"/>|[链接](https://i0.hdslb.com/bfs/emote/0f4dc492057569d0f98ec4ce1da8f130e4e0c5b2.gif)|2024-06-21 11:47:08|
 |76441|[-ASAKI-动态表情包_馋了]|<img src="./pic/076441_%5B-ASAKI-动态表情包_馋了%5D.gif" height="60" alt="馋了"/>|[链接](https://i0.hdslb.com/bfs/emote/5d01af87e2be32217ff760ef4fd72854e51dbe2e.gif)|2024-06-21 11:47:08|
 |76442|[-ASAKI-动态表情包_睡觉]|<img src="./pic/076442_%5B-ASAKI-动态表情包_睡觉%5D.gif" height="60" alt="睡觉"/>|[链接](https://i0.hdslb.com/bfs/emote/f6c64124ca65ee3aa0a5f4875fc3cf740548b367.gif)|2024-06-21 11:47:08|
-|76443|[-ASAKI-动态表情包_陶醉唱歌]|<img src="./pic/076443_%5B-ASAKI-动态表情包_陶醉唱歌%5D.gif" height="60" alt="陶醉唱歌"/>|[链接](https://i0.hdslb.com/bfs/emote/07dd20d2e6c01980ad4c5128c0bb4f36c07ce951.gif)|2024-06-20 20:56:28|
+|76443|[-ASAKI-动态表情包_陶醉唱歌]|<img src="./pic/076443_%5B-ASAKI-动态表情包_陶醉唱歌%5D.gif" height="60" alt="陶醉唱歌"/>|[链接](https://i0.hdslb.com/bfs/emote/07dd20d2e6c01980ad4c5128c0bb4f36c07ce951.gif)|2024-06-21 11:47:08|
 |76444|[-ASAKI-动态表情包_怎会如此]|<img src="./pic/076444_%5B-ASAKI-动态表情包_怎会如此%5D.gif" height="60" alt="怎会如此"/>|[链接](https://i0.hdslb.com/bfs/emote/5939d0f3733cc63fa07ad3973ef4505f0cc5a14d.gif)|2024-06-21 11:44:05|
 |76445|[-ASAKI-动态表情包_哇哦]|<img src="./pic/076445_%5B-ASAKI-动态表情包_哇哦%5D.gif" height="60" alt="哇哦"/>|[链接](https://i0.hdslb.com/bfs/emote/afcc28fe57356ccb500ce255301912e97459d94b.gif)|2024-06-21 11:47:08|
 |76446|[-ASAKI-动态表情包_啦啦啦]|<img src="./pic/076446_%5B-ASAKI-动态表情包_啦啦啦%5D.gif" height="60" alt="啦啦啦"/>|[链接](https://i0.hdslb.com/bfs/emote/56a9c25fb5ca6e3a422fea196a8b9f4c4f916ec4.gif)|2024-06-21 11:47:08|

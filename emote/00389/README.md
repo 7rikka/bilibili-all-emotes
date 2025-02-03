@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|6488|[葛叶_IQ200]|<img src="./pic/006488_%5B葛叶_IQ200%5D.png" height="60" alt="IQ200"/>|[链接](http://i0.hdslb.com/bfs/emote/8caaf0c265a38433e9f5a461eea792e1a9033263.png)|2022-04-15 16:29:47|
-|6489|[葛叶_pien]|<img src="./pic/006489_%5B葛叶_pien%5D.png" height="60" alt="pien"/>|[链接](http://i0.hdslb.com/bfs/emote/6f329bf2c3c288d7642a09648b22ea34b1f08e5e.png)|2022-05-15 16:29:47|
+|6488|[葛叶_IQ200]|<img src="./pic/006488_%5B葛叶_IQ200%5D.png" height="60" alt="IQ200"/>|[链接](http://i0.hdslb.com/bfs/emote/8caaf0c265a38433e9f5a461eea792e1a9033263.png)|2022-05-19 14:10:37|
+|6489|[葛叶_pien]|<img src="./pic/006489_%5B葛叶_pien%5D.png" height="60" alt="pien"/>|[链接](http://i0.hdslb.com/bfs/emote/6f329bf2c3c288d7642a09648b22ea34b1f08e5e.png)|2022-05-19 14:10:37|
 |6490|[葛叶_xiexie]|<img src="./pic/006490_%5B葛叶_xiexie%5D.png" height="60" alt="xiexie"/>|[链接](http://i0.hdslb.com/bfs/emote/5e564a886334be75aa1a85503cd3557fd6196fc8.png)|2022-05-19 14:10:37|
 |6491|[葛叶_んぶ]|<img src="./pic/006491_%5B葛叶_んぶ%5D.png" height="60" alt="んぶ"/>|[链接](http://i0.hdslb.com/bfs/emote/ef53bde6b27c1c77a2b2eb670e9a14014d358513.png)|2022-05-19 14:10:37|
 |6492|[葛叶_不可以]|<img src="./pic/006492_%5B葛叶_不可以%5D.png" height="60" alt="不可以"/>|[链接](http://i0.hdslb.com/bfs/emote/02c57102a1d7a02f3c8720b8f0916b0f45dbe7d5.png)|2022-05-19 14:10:37|

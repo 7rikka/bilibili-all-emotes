@@ -24,8 +24,8 @@
 |81926|[雪王的人间冒险动态表情包_燃尽了]|<img src="./pic/081926_%5B雪王的人间冒险动态表情包_燃尽了%5D.gif" height="60" alt="燃尽了"/>|[链接](https://i0.hdslb.com/bfs/emote/703629881f873b2f637b1bcdca3b97dd708f3b1b.gif)|2024-08-07 17:24:53|
 |81927|[雪王的人间冒险动态表情包_是雪]|<img src="./pic/081927_%5B雪王的人间冒险动态表情包_是雪%5D.gif" height="60" alt="是雪"/>|[链接](https://i0.hdslb.com/bfs/emote/c73e3f801bc3401ea9424a70bc70cea879b0be81.gif)|2024-08-07 17:24:53|
 |81928|[雪王的人间冒险动态表情包_舔]|<img src="./pic/081928_%5B雪王的人间冒险动态表情包_舔%5D.gif" height="60" alt="舔"/>|[链接](https://i0.hdslb.com/bfs/emote/dd88eb2011d7f6c43294efe08a071822eb7ef490.gif)|2024-08-07 17:24:53|
-|81929|[雪王的人间冒险动态表情包_嫌弃]|<img src="./pic/081929_%5B雪王的人间冒险动态表情包_嫌弃%5D.gif" height="60" alt="嫌弃"/>|[链接](https://i0.hdslb.com/bfs/emote/000a13a9980e86c19a1df0b65aa83fd56a650d85.gif)|2024-08-08 11:55:00|
-|81930|[雪王的人间冒险动态表情包_这是在干嘛]|<img src="./pic/081930_%5B雪王的人间冒险动态表情包_这是在干嘛%5D.gif" height="60" alt="这是在干嘛"/>|[链接](https://i0.hdslb.com/bfs/emote/d6975f84b5c59a172faedd58739b3e9c735fe0f6.gif)|2024-08-07 17:24:00|
+|81929|[雪王的人间冒险动态表情包_嫌弃]|<img src="./pic/081929_%5B雪王的人间冒险动态表情包_嫌弃%5D.gif" height="60" alt="嫌弃"/>|[链接](https://i0.hdslb.com/bfs/emote/000a13a9980e86c19a1df0b65aa83fd56a650d85.gif)|2024-08-07 17:24:53|
+|81930|[雪王的人间冒险动态表情包_这是在干嘛]|<img src="./pic/081930_%5B雪王的人间冒险动态表情包_这是在干嘛%5D.gif" height="60" alt="这是在干嘛"/>|[链接](https://i0.hdslb.com/bfs/emote/d6975f84b5c59a172faedd58739b3e9c735fe0f6.gif)|2024-08-07 17:24:53|
 
 # 原始数据
 

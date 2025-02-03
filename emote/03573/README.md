@@ -9,7 +9,7 @@
 |49335|[WBG·2023LPL出征_智慧的眼神]|<img src="./pic/049335_%5BWBG·2023LPL出征_智慧的眼神%5D.png" height="60" alt="智慧的眼神"/>|[链接](https://i0.hdslb.com/bfs/emote/4d446521fd9377f9f3ac332d02996100e04f0673.png)|2023-10-17 16:09:59|
 |49336|[WBG·2023LPL出征_一定能赢]|<img src="./pic/049336_%5BWBG·2023LPL出征_一定能赢%5D.png" height="60" alt="一定能赢"/>|[链接](https://i0.hdslb.com/bfs/emote/fc4d28a661defc1153e34938cc64e7c10ddc82c1.png)|2023-10-17 16:09:59|
 |49337|[WBG·2023LPL出征_我很好]|<img src="./pic/049337_%5BWBG·2023LPL出征_我很好%5D.png" height="60" alt="我很好"/>|[链接](https://i0.hdslb.com/bfs/emote/29e600a893cf79137cdb50282c7e93cbe6e653fe.png)|2023-10-17 16:09:59|
-|49338|[WBG·2023LPL出征_吓死我了]|<img src="./pic/049338_%5BWBG·2023LPL出征_吓死我了%5D.png" height="60" alt="吓死我了"/>|[链接](https://i0.hdslb.com/bfs/emote/01851dfc91a16a18843fb45119e6e7628aa522fd.png)|2023-10-17 16:09:59|
+|49338|[WBG·2023LPL出征_吓死我了]|<img src="./pic/049338_%5BWBG·2023LPL出征_吓死我了%5D.png" height="60" alt="吓死我了"/>|[链接](https://i0.hdslb.com/bfs/emote/01851dfc91a16a18843fb45119e6e7628aa522fd.png)|2023-10-17 19:13:00|
 |49339|[WBG·2023LPL出征_知识增加]|<img src="./pic/049339_%5BWBG·2023LPL出征_知识增加%5D.png" height="60" alt="知识增加"/>|[链接](https://i0.hdslb.com/bfs/emote/fbe01b34cc4972860fa50e9de170b80c0781050c.png)|2023-10-17 16:09:59|
 |49340|[WBG·2023LPL出征_惬意]|<img src="./pic/049340_%5BWBG·2023LPL出征_惬意%5D.png" height="60" alt="惬意"/>|[链接](https://i0.hdslb.com/bfs/emote/d731612f3724a6ff3c2df9f628a6a2daaf20bf97.png)|2023-10-17 16:09:59|
 |49341|[WBG·2023LPL出征_思考]|<img src="./pic/049341_%5BWBG·2023LPL出征_思考%5D.png" height="60" alt="思考"/>|[链接](https://i0.hdslb.com/bfs/emote/3761f84c450160e152c7ff4877275edf61d61091.png)|2023-10-17 16:13:04|

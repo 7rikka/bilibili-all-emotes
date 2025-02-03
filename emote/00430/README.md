@@ -35,7 +35,7 @@
 |7369|[鹿乃桜帆_。。。]|<img src="./pic/007369_%5B鹿乃桜帆_。。。%5D.png" height="60" alt="。。。"/>|[链接](http://i0.hdslb.com/bfs/emote/265fab694a935504ca576e4022dd1f4198cb0f3f.png)|2022-07-18 15:13:15|
 |7370|[鹿乃桜帆_晕]|<img src="./pic/007370_%5B鹿乃桜帆_晕%5D.png" height="60" alt="晕"/>|[链接](http://i0.hdslb.com/bfs/emote/c1861fce7b55124f48986883117c7a5398272c10.png)|2022-07-18 15:13:15|
 |7371|[鹿乃桜帆_早上好]|<img src="./pic/007371_%5B鹿乃桜帆_早上好%5D.png" height="60" alt="早上好"/>|[链接](http://i0.hdslb.com/bfs/emote/1b58aba1d2e1372a8c4b7e49cb420db738bce414.png)|2022-07-18 15:13:15|
-|7372|[鹿乃桜帆_尊い]|<img src="./pic/007372_%5B鹿乃桜帆_尊い%5D.png" height="60" alt="尊い"/>|[链接](http://i0.hdslb.com/bfs/emote/8d5e2d74b620fe456d016cd8ffe0fd4178cb853a.png)|2022-07-18 15:13:15|
+|7372|[鹿乃桜帆_尊い]|<img src="./pic/007372_%5B鹿乃桜帆_尊い%5D.png" height="60" alt="尊い"/>|[链接](http://i0.hdslb.com/bfs/emote/8d5e2d74b620fe456d016cd8ffe0fd4178cb853a.png)|2022-07-20 14:28:05|
 
 # 原始数据
 

@@ -18,7 +18,7 @@
 |8807|[小彼索_就这]|<img src="./pic/008807_%5B小彼索_就这%5D.png" height="60" alt="就这"/>|[链接](http://i0.hdslb.com/bfs/emote/11508d88c2a3ee8e82c44abc61e72bbe97b9c8f0.png)|2022-09-26 16:20:17|
 |8808|[小彼索_晚安]|<img src="./pic/008808_%5B小彼索_晚安%5D.png" height="60" alt="晚安"/>|[链接](http://i0.hdslb.com/bfs/emote/0c45f7bf10aa74033539c96153e378c98b8d3812.png)|2022-09-26 16:20:17|
 |8809|[小彼索_心碎一地]|<img src="./pic/008809_%5B小彼索_心碎一地%5D.png" height="60" alt="心碎一地"/>|[链接](http://i0.hdslb.com/bfs/emote/53204c795086408ae37cae82a8f4d8e147e57c3a.png)|2022-09-26 16:20:17|
-|8810|[小彼索_赞]|<img src="./pic/008810_%5B小彼索_赞%5D.png" height="60" alt="赞"/>|[链接](http://i0.hdslb.com/bfs/emote/e0a05d1fac54fdd41b67214211b6f3437be2e96c.png)|2022-09-27 19:30:36|
+|8810|[小彼索_赞]|<img src="./pic/008810_%5B小彼索_赞%5D.png" height="60" alt="赞"/>|[链接](http://i0.hdslb.com/bfs/emote/e0a05d1fac54fdd41b67214211b6f3437be2e96c.png)|2022-09-26 16:20:17|
 |8811|[小彼索_震惊]|<img src="./pic/008811_%5B小彼索_震惊%5D.png" height="60" alt="震惊"/>|[链接](http://i0.hdslb.com/bfs/emote/6c04a5dbf093af073e69718dedde06e5f6be101d.png)|2022-09-26 16:20:17|
 |8812|[小彼索_emo]|<img src="./pic/008812_%5B小彼索_emo%5D.png" height="60" alt="emo"/>|[链接](http://i0.hdslb.com/bfs/emote/c99527065a6e4d93b6fc2f90b3529c74d08f6e23.png)|2022-09-26 16:20:17|
 

@@ -33,8 +33,8 @@
 |9664|[DOTA2  2022年国际邀请赛_摊手]|<img src="./pic/009664_%5BDOTA2  2022年国际邀请赛_摊手%5D.png" height="60" alt="摊手"/>|[链接](http://i0.hdslb.com/bfs/emote/e9ec38416b9207294721feef6e8566263cdbab2d.png)|2022-10-13 21:33:10|
 |9665|[DOTA2  2022年国际邀请赛_弯道超车]|<img src="./pic/009665_%5BDOTA2  2022年国际邀请赛_弯道超车%5D.png" height="60" alt="弯道超车"/>|[链接](http://i0.hdslb.com/bfs/emote/23d4dd088fc29b6e2114eb49e3e0283968654343.png)|2022-10-13 21:33:10|
 |9666|[DOTA2  2022年国际邀请赛_晚安]|<img src="./pic/009666_%5BDOTA2  2022年国际邀请赛_晚安%5D.png" height="60" alt="晚安"/>|[链接](http://i0.hdslb.com/bfs/emote/dbdfc1f6316125d2159fca664100ec722eb0d5d1.png)|2022-10-13 21:33:10|
-|9667|[DOTA2  2022年国际邀请赛_我是谁]|<img src="./pic/009667_%5BDOTA2  2022年国际邀请赛_我是谁%5D.png" height="60" alt="我是谁"/>|[链接](http://i0.hdslb.com/bfs/emote/392211cc4eb1fffa7750d92df69c486c83891d2a.png)|2022-10-13 21:33:10|
-|9668|[DOTA2  2022年国际邀请赛_我只会心疼]|<img src="./pic/009668_%5BDOTA2  2022年国际邀请赛_我只会心疼%5D.png" height="60" alt="我只会心疼"/>|[链接](http://i0.hdslb.com/bfs/emote/837406df2ba06b0a0dd050f9d9ae372bdc336688.png)|2022-10-13 21:33:10|
+|9667|[DOTA2  2022年国际邀请赛_我是谁]|<img src="./pic/009667_%5BDOTA2  2022年国际邀请赛_我是谁%5D.png" height="60" alt="我是谁"/>|[链接](http://i0.hdslb.com/bfs/emote/392211cc4eb1fffa7750d92df69c486c83891d2a.png)|2022-10-19 20:05:11|
+|9668|[DOTA2  2022年国际邀请赛_我只会心疼]|<img src="./pic/009668_%5BDOTA2  2022年国际邀请赛_我只会心疼%5D.png" height="60" alt="我只会心疼"/>|[链接](http://i0.hdslb.com/bfs/emote/837406df2ba06b0a0dd050f9d9ae372bdc336688.png)|2022-10-19 20:05:11|
 |9669|[DOTA2  2022年国际邀请赛_小飞棍来咯]|<img src="./pic/009669_%5BDOTA2  2022年国际邀请赛_小飞棍来咯%5D.png" height="60" alt="小飞棍来咯"/>|[链接](http://i0.hdslb.com/bfs/emote/33d38e9ee1fd65b0fd37a9e8a8d568909d41e8c4.png)|2022-10-13 21:33:10|
 |9670|[DOTA2  2022年国际邀请赛_谢谢]|<img src="./pic/009670_%5BDOTA2  2022年国际邀请赛_谢谢%5D.png" height="60" alt="谢谢"/>|[链接](http://i0.hdslb.com/bfs/emote/320adb0ac14b0d4c11ef8edfabb3972c40e0c946.png)|2022-10-13 21:33:10|
 |9671|[DOTA2  2022年国际邀请赛_蟹不肉]|<img src="./pic/009671_%5BDOTA2  2022年国际邀请赛_蟹不肉%5D.png" height="60" alt="蟹不肉"/>|[链接](http://i0.hdslb.com/bfs/emote/9c4dddb2983fdb8a56388d56d67b5654059bf522.png)|2022-10-13 21:33:10|

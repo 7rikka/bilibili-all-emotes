@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|2940|[偶像梦幻祭2_lo~ve！]|<img src="./pic/002940_%5B偶像梦幻祭2_lo~ve！%5D.png" height="60" alt="lo~ve！"/>|[链接](http://i0.hdslb.com/bfs/emote/745ccaf7e5e6fecfe5cde339d09534b8ee1a4e38.png)|2020-12-02 16:07:17|
+|2940|[偶像梦幻祭2_lo~ve！]|<img src="./pic/002940_%5B偶像梦幻祭2_lo~ve！%5D.png" height="60" alt="lo~ve！"/>|[链接](http://i0.hdslb.com/bfs/emote/745ccaf7e5e6fecfe5cde339d09534b8ee1a4e38.png)|2021-01-28 16:10:31|
 |2941|[偶像梦幻祭2_暗中观察]|<img src="./pic/002941_%5B偶像梦幻祭2_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](http://i0.hdslb.com/bfs/emote/6f2a8959125224d8f10fbf1ff202f67d61b7eb86.png)|2020-12-02 16:07:17|
 |2942|[偶像梦幻祭2_盯——]|<img src="./pic/002942_%5B偶像梦幻祭2_盯——%5D.png" height="60" alt="盯——"/>|[链接](http://i0.hdslb.com/bfs/emote/c64a841a6b4d4624b1c124f1cd79a75b1b460ea8.png)|2020-12-02 16:07:17|
 |2943|[偶像梦幻祭2_加油]|<img src="./pic/002943_%5B偶像梦幻祭2_加油%5D.png" height="60" alt="加油"/>|[链接](http://i0.hdslb.com/bfs/emote/cf4705a2636eceac23de755e53dc62b5ee4c9632.png)|2020-12-02 16:07:17|

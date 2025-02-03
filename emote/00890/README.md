@@ -20,7 +20,7 @@
 |15889|[富有的史高治_投币]|<img src="./pic/015889_%5B富有的史高治_投币%5D.png" height="60" alt="投币"/>|[链接](https://i0.hdslb.com/bfs/emote/d32aa19a15058501638391f3929d02c5a6312082.png)|2023-02-27 18:55:53|
 |15890|[富有的史高治_优雅]|<img src="./pic/015890_%5B富有的史高治_优雅%5D.png" height="60" alt="优雅"/>|[链接](https://i0.hdslb.com/bfs/emote/0749ee06f9abd8071e355170d912794195b40151.png)|2023-02-27 18:55:53|
 |15891|[富有的史高治_赞]|<img src="./pic/015891_%5B富有的史高治_赞%5D.png" height="60" alt="赞"/>|[链接](https://i0.hdslb.com/bfs/emote/1425580d735d9ff8982b4a97cc65d40411a6f240.png)|2023-02-27 18:55:53|
-|15892|[富有的史高治_赚了]|<img src="./pic/015892_%5B富有的史高治_赚了%5D.png" height="60" alt="赚了"/>|[链接](https://i0.hdslb.com/bfs/emote/f3a9883b918fdffc8111d602734b3cdec6bc6c46.png)|2023-02-27 18:55:53|
+|15892|[富有的史高治_赚了]|<img src="./pic/015892_%5B富有的史高治_赚了%5D.png" height="60" alt="赚了"/>|[链接](https://i0.hdslb.com/bfs/emote/f3a9883b918fdffc8111d602734b3cdec6bc6c46.png)|2023-02-27 16:42:32|
 
 # 原始数据
 

@@ -14,8 +14,8 @@
 |4888|[雪绘_乖巧]|<img src="./pic/004888_%5B雪绘_乖巧%5D.png" height="60" alt="乖巧"/>|[链接](http://i0.hdslb.com/bfs/emote/2a0a4739f8f8d194f327826b935cf2ae21f4fa83.png)|2021-10-22 14:21:35|
 |4889|[雪绘_火冒三丈]|<img src="./pic/004889_%5B雪绘_火冒三丈%5D.png" height="60" alt="火冒三丈"/>|[链接](http://i0.hdslb.com/bfs/emote/2ec900726596e6a736f4b3ab92b2d958df1314b0.png)|2021-10-22 14:21:35|
 |4890|[雪绘_键盘侠]|<img src="./pic/004890_%5B雪绘_键盘侠%5D.png" height="60" alt="键盘侠"/>|[链接](http://i0.hdslb.com/bfs/emote/84a6a5c3373b3ed8e3b1eeff9e67c690e91239c0.png)|2021-10-22 14:21:35|
-|4891|[雪绘_冒头]|<img src="./pic/004891_%5B雪绘_冒头%5D.png" height="60" alt="冒头"/>|[链接](http://i0.hdslb.com/bfs/emote/a2498a49547339f54b7554e97b2413270ef3f6d3.png)|2021-10-29 16:46:46|
-|4892|[雪绘_皮]|<img src="./pic/004892_%5B雪绘_皮%5D.png" height="60" alt="皮"/>|[链接](http://i0.hdslb.com/bfs/emote/b80062a574073cf99570566c81c1a0c63d395f0b.png)|2021-10-29 16:46:46|
+|4891|[雪绘_冒头]|<img src="./pic/004891_%5B雪绘_冒头%5D.png" height="60" alt="冒头"/>|[链接](http://i0.hdslb.com/bfs/emote/a2498a49547339f54b7554e97b2413270ef3f6d3.png)|2021-10-22 14:21:35|
+|4892|[雪绘_皮]|<img src="./pic/004892_%5B雪绘_皮%5D.png" height="60" alt="皮"/>|[链接](http://i0.hdslb.com/bfs/emote/b80062a574073cf99570566c81c1a0c63d395f0b.png)|2021-10-22 14:21:35|
 |4893|[雪绘_少来这套]|<img src="./pic/004893_%5B雪绘_少来这套%5D.png" height="60" alt="少来这套"/>|[链接](http://i0.hdslb.com/bfs/emote/f1c36ba716e39ff5fd42a0f2553128f48370eff7.png)|2021-10-22 14:21:35|
 |4894|[雪绘_生气]|<img src="./pic/004894_%5B雪绘_生气%5D.png" height="60" alt="生气"/>|[链接](http://i0.hdslb.com/bfs/emote/286b87a3fa8bb2ab9d3151af04eb6e0502f2cafd.png)|2021-10-22 14:21:35|
 |4895|[雪绘_酸了]|<img src="./pic/004895_%5B雪绘_酸了%5D.png" height="60" alt="酸了"/>|[链接](http://i0.hdslb.com/bfs/emote/55a2ba3250dfead7dfa55df96ff3fb8769af5590.png)|2021-10-22 14:21:35|

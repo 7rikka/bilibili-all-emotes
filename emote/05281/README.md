@@ -19,7 +19,7 @@
 |77174|[UPOWER_519253600_挥手]|<img src="./pic/077174_%5BUPOWER_519253600_挥手%5D.png" height="60" alt="挥手"/>|[链接](https://i0.hdslb.com/bfs/garb/ab178f53d9c09de300605b819b2e3f395238bde8.png)|2024-06-27 19:27:08|
 |77175|[UPOWER_519253600_激光发射]|<img src="./pic/077175_%5BUPOWER_519253600_激光发射%5D.png" height="60" alt="激光发射"/>|[链接](https://i0.hdslb.com/bfs/garb/29e5943eaf3b94d436589828a61d3b52a7e8ba5a.png)|2024-06-27 19:27:08|
 |77176|[UPOWER_519253600_投降]|<img src="./pic/077176_%5BUPOWER_519253600_投降%5D.png" height="60" alt="投降"/>|[链接](https://i0.hdslb.com/bfs/garb/b4379529dfd823b3f387d0f5d8bd8e08f98d7a10.png)|2024-06-27 19:27:08|
-|77177|[UPOWER_519253600_苦恼]|<img src="./pic/077177_%5BUPOWER_519253600_苦恼%5D.png" height="60" alt="苦恼"/>|[链接](https://i0.hdslb.com/bfs/garb/3efa1dd9688f6fae43f8ed9c3710dee9f1079970.png)|2024-06-27 17:02:20|
+|77177|[UPOWER_519253600_苦恼]|<img src="./pic/077177_%5BUPOWER_519253600_苦恼%5D.png" height="60" alt="苦恼"/>|[链接](https://i0.hdslb.com/bfs/garb/3efa1dd9688f6fae43f8ed9c3710dee9f1079970.png)|2024-06-27 19:27:08|
 
 # 原始数据
 

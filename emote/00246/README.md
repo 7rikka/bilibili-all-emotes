@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|4077|[巨蟹座_好热]|<img src="./pic/004077_%5B巨蟹座_好热%5D.png" height="60" alt="好热"/>|[链接](http://i0.hdslb.com/bfs/emote/a1be75050b97206acba9604de66fa7d324b1ed2f.png)|2021-06-02 15:28:22|
-|4078|[巨蟹座_难顶]|<img src="./pic/004078_%5B巨蟹座_难顶%5D.png" height="60" alt="难顶"/>|[链接](http://i0.hdslb.com/bfs/emote/529ed4dd3fe0b9a48803804e16e56a3ac5a4738b.png)|2021-07-02 15:28:22|
+|4077|[巨蟹座_好热]|<img src="./pic/004077_%5B巨蟹座_好热%5D.png" height="60" alt="好热"/>|[链接](http://i0.hdslb.com/bfs/emote/a1be75050b97206acba9604de66fa7d324b1ed2f.png)|2021-06-21 13:03:53|
+|4078|[巨蟹座_难顶]|<img src="./pic/004078_%5B巨蟹座_难顶%5D.png" height="60" alt="难顶"/>|[链接](http://i0.hdslb.com/bfs/emote/529ed4dd3fe0b9a48803804e16e56a3ac5a4738b.png)|2021-06-21 13:03:53|
 |4079|[巨蟹座_拍拍]|<img src="./pic/004079_%5B巨蟹座_拍拍%5D.png" height="60" alt="拍拍"/>|[链接](http://i0.hdslb.com/bfs/emote/aa1e060aeb53acdf17bfd1be8e01bdf704aa9cd4.png)|2021-06-21 13:03:53|
 |4080|[巨蟹座_体温过高]|<img src="./pic/004080_%5B巨蟹座_体温过高%5D.png" height="60" alt="体温过高"/>|[链接](http://i0.hdslb.com/bfs/emote/fd88fff547caee199f8ba25b2528799324967650.png)|2021-06-21 13:03:53|
 |4081|[巨蟹座_贴贴]|<img src="./pic/004081_%5B巨蟹座_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](http://i0.hdslb.com/bfs/emote/1a86086c49ce9eb628ba734cf1847c118af9bf88.png)|2021-06-21 13:03:53|

@@ -16,7 +16,7 @@
 |3819|[总督_很强]|<img src="./pic/003819_%5B总督_很强%5D.png" height="60" alt="很强"/>|[链接](http://i0.hdslb.com/bfs/emote/08a2b5b2eace8d0c08b6957fb482c30246dd6bbe.png)|2021-05-20 16:30:12|
 |3820|[总督_裂开]|<img src="./pic/003820_%5B总督_裂开%5D.png" height="60" alt="裂开"/>|[链接](http://i0.hdslb.com/bfs/emote/629df37d56a54675bd5129dddc23bec95b66bc61.png)|2021-05-20 16:30:12|
 |3821|[总督_灵光一闪]|<img src="./pic/003821_%5B总督_灵光一闪%5D.png" height="60" alt="灵光一闪"/>|[链接](http://i0.hdslb.com/bfs/emote/de570e465e61da106e2638f90a677f929ec80576.png)|2021-05-20 16:30:12|
-|3822|[总督_起飞]|<img src="./pic/003822_%5B总督_起飞%5D.png" height="60" alt="起飞"/>|[链接](http://i0.hdslb.com/bfs/emote/ccf37919d11c82018a34369e075d1834df5c5b3f.png)|2021-05-20 16:30:12|
+|3822|[总督_起飞]|<img src="./pic/003822_%5B总督_起飞%5D.png" height="60" alt="起飞"/>|[链接](http://i0.hdslb.com/bfs/emote/ccf37919d11c82018a34369e075d1834df5c5b3f.png)|2021-05-09 17:48:59|
 |3823|[总督_傻了]|<img src="./pic/003823_%5B总督_傻了%5D.png" height="60" alt="傻了"/>|[链接](http://i0.hdslb.com/bfs/emote/9836d2609a13548311c439d2c0e43e4cab9b2395.png)|2021-05-20 16:30:12|
 |3824|[总督_咸鱼]|<img src="./pic/003824_%5B总督_咸鱼%5D.png" height="60" alt="咸鱼"/>|[链接](http://i0.hdslb.com/bfs/emote/23e85b039e46251f7b584246ed258711d65b8fea.png)|2021-05-20 16:30:12|
 |3825|[总督_谢谢]|<img src="./pic/003825_%5B总督_谢谢%5D.png" height="60" alt="谢谢"/>|[链接](http://i0.hdslb.com/bfs/emote/54b2e2e288d282157853ce98342bca362274c7f6.png)|2021-05-20 16:30:12|

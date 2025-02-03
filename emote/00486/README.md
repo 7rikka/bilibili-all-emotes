@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|8623|[靠你啦！战神系统_星星眼]|<img src="./pic/008623_%5B靠你啦！战神系统_星星眼%5D.png" height="60" alt="星星眼"/>|[链接](http://i0.hdslb.com/bfs/emote/d4355d19d833d6ef51bc444423ee0b11ef5ab82c.png)|2022-09-22 11:05:47|
+|8623|[靠你啦！战神系统_星星眼]|<img src="./pic/008623_%5B靠你啦！战神系统_星星眼%5D.png" height="60" alt="星星眼"/>|[链接](http://i0.hdslb.com/bfs/emote/d4355d19d833d6ef51bc444423ee0b11ef5ab82c.png)|2022-09-13 16:58:37|
 |8624|[靠你啦！战神系统_害羞]|<img src="./pic/008624_%5B靠你啦！战神系统_害羞%5D.png" height="60" alt="害羞"/>|[链接](http://i0.hdslb.com/bfs/emote/84fa78ce9e8883441ee291e0c16088a32d388029.png)|2022-09-13 16:58:37|
 |8625|[靠你啦！战神系统_哭哭]|<img src="./pic/008625_%5B靠你啦！战神系统_哭哭%5D.png" height="60" alt="哭哭"/>|[链接](http://i0.hdslb.com/bfs/emote/60bc60cb7ded59832e43b11b212f7dedb85cddd2.png)|2022-09-13 16:58:37|
 |8626|[靠你啦！战神系统_期待]|<img src="./pic/008626_%5B靠你啦！战神系统_期待%5D.png" height="60" alt="期待"/>|[链接](http://i0.hdslb.com/bfs/emote/7d3fec6dff8d24389c430596ca38417e24b9b86e.png)|2022-09-13 16:58:37|

@@ -30,7 +30,7 @@
 |10025|[CEN_咬牙切齿]|<img src="./pic/010025_%5BCEN_咬牙切齿%5D.png" height="60" alt="咬牙切齿"/>|[链接](http://i0.hdslb.com/bfs/emote/1dbe69e0d1d7c06077e4bfcaf01b1248c4b7bc64.png)|2022-10-28 15:04:16|
 |10026|[CEN_一库搜]|<img src="./pic/010026_%5BCEN_一库搜%5D.png" height="60" alt="一库搜"/>|[链接](http://i0.hdslb.com/bfs/emote/10f30d2cfbfab93de01b150175bec62a10e74335.png)|2022-10-28 15:04:16|
 |10027|[CEN_疑惑]|<img src="./pic/010027_%5BCEN_疑惑%5D.png" height="60" alt="疑惑"/>|[链接](http://i0.hdslb.com/bfs/emote/0c4e1bf21ab55c5b4a3ec0d8eeccec2fb9e65ae5.png)|2022-10-28 15:04:16|
-|10028|[CEN_赞]|<img src="./pic/010028_%5BCEN_赞%5D.png" height="60" alt="赞"/>|[链接](http://i0.hdslb.com/bfs/emote/e50d2c3287f86d1a77921c0e0e4922deb17dc5c2.png)|2022-10-28 15:04:16|
+|10028|[CEN_赞]|<img src="./pic/010028_%5BCEN_赞%5D.png" height="60" alt="赞"/>|[链接](http://i0.hdslb.com/bfs/emote/e50d2c3287f86d1a77921c0e0e4922deb17dc5c2.png)|2022-10-26 13:34:12|
 
 # 原始数据
 

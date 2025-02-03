@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|79970|[UPOWER_40569661_冷静]|<img src="./pic/079970_%5BUPOWER_40569661_冷静%5D.png" height="60" alt="冷静"/>|[链接](https://i0.hdslb.com/bfs/garb/08a926f5f682cf6123181e0c4b4d0f2e88e1850d.png)|2024-07-24 13:13:11|
+|79970|[UPOWER_40569661_冷静]|<img src="./pic/079970_%5BUPOWER_40569661_冷静%5D.png" height="60" alt="冷静"/>|[链接](https://i0.hdslb.com/bfs/garb/08a926f5f682cf6123181e0c4b4d0f2e88e1850d.png)|2024-07-24 13:34:01|
 |79971|[UPOWER_40569661_慌乱]|<img src="./pic/079971_%5BUPOWER_40569661_慌乱%5D.png" height="60" alt="慌乱"/>|[链接](https://i0.hdslb.com/bfs/garb/9f038b51d3f18ef728aea6c4ec2c5667c15589ab.png)|2024-07-24 13:13:11|
 |79972|[UPOWER_40569661_情书]|<img src="./pic/079972_%5BUPOWER_40569661_情书%5D.png" height="60" alt="情书"/>|[链接](https://i0.hdslb.com/bfs/garb/214378fc8fc6e015f818f4dc13a8d2eacc37f6fd.png)|2024-07-24 13:13:11|
 |79973|[UPOWER_40569661_4090]|<img src="./pic/079973_%5BUPOWER_40569661_4090%5D.png" height="60" alt="4090"/>|[链接](https://i0.hdslb.com/bfs/garb/88b43ded87d4e4ec9cdc314e82829789536d8da2.png)|2024-07-24 13:13:11|

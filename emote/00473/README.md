@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|8311|[阿萨Aza-多面体_nice pee]|<img src="./pic/008311_%5B阿萨Aza-多面体_nice pee%5D.png" height="60" alt="nice pee"/>|[链接](http://i0.hdslb.com/bfs/emote/19848b3dfda998dd9a07b65a8bb2f547b2eb441e.png)|2022-08-16 18:27:28|
+|8311|[阿萨Aza-多面体_nice pee]|<img src="./pic/008311_%5B阿萨Aza-多面体_nice pee%5D.png" height="60" alt="nice pee"/>|[链接](http://i0.hdslb.com/bfs/emote/19848b3dfda998dd9a07b65a8bb2f547b2eb441e.png)|2022-08-16 18:27:17|
 |8312|[阿萨Aza-多面体_www]|<img src="./pic/008312_%5B阿萨Aza-多面体_www%5D.png" height="60" alt="www"/>|[链接](http://i0.hdslb.com/bfs/emote/962e87372bc6d21107c676b1d4516eb8674b1da8.png)|2022-08-16 18:27:17|
 |8313|[阿萨Aza-多面体_安慰]|<img src="./pic/008313_%5B阿萨Aza-多面体_安慰%5D.png" height="60" alt="安慰"/>|[链接](http://i0.hdslb.com/bfs/emote/e2eb942ab16a4e966265c3d69a3a63180f812904.png)|2022-08-16 18:27:17|
 |8314|[阿萨Aza-多面体_别在这发癫]|<img src="./pic/008314_%5B阿萨Aza-多面体_别在这发癫%5D.png" height="60" alt="别在这发癫"/>|[链接](http://i0.hdslb.com/bfs/emote/ebeb2516d21c595fa6896f656676f79bc8463f3f.png)|2022-08-16 18:27:17|
