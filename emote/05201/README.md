@@ -12,7 +12,7 @@
 |75892|[米尼麦尼轰_燃起来了]|<img src="./pic/075892_%5B米尼麦尼轰_燃起来了%5D.png" height="60" alt="燃起来了"/>|[链接](https://i0.hdslb.com/bfs/garb/d29286590beb871080026f713b047efd6fef84cc.png)|2024-06-18 18:04:00|
 |75893|[米尼麦尼轰_投币]|<img src="./pic/075893_%5B米尼麦尼轰_投币%5D.png" height="60" alt="投币"/>|[链接](https://i0.hdslb.com/bfs/garb/2ba45b7cd835b964d0f032d0b29bf01f24a0da2c.png)|2024-06-18 18:04:00|
 |75894|[米尼麦尼轰_猴子尖叫]|<img src="./pic/075894_%5B米尼麦尼轰_猴子尖叫%5D.png" height="60" alt="猴子尖叫"/>|[链接](https://i0.hdslb.com/bfs/garb/b1b5f8aab0097bd61dc04157d87ab32a64b2d5fa.png)|2024-06-18 18:04:00|
-|75895|[米尼麦尼轰_嗯]|<img src="./pic/075895_%5B米尼麦尼轰_嗯%5D.png" height="60" alt="嗯"/>|[链接](https://i0.hdslb.com/bfs/garb/9a9cbdf68a581ebd507eba59f097a64a81aade2a.png)|2024-06-11 10:09:53|
+|75895|[米尼麦尼轰_嗯]|<img src="./pic/075895_%5B米尼麦尼轰_嗯%5D.png" height="60" alt="嗯"/>|[链接](https://i0.hdslb.com/bfs/garb/9a9cbdf68a581ebd507eba59f097a64a81aade2a.png)|2024-06-18 18:04:00|
 |75896|[米尼麦尼轰_嘤嘤]|<img src="./pic/075896_%5B米尼麦尼轰_嘤嘤%5D.png" height="60" alt="嘤嘤"/>|[链接](https://i0.hdslb.com/bfs/garb/fcb2060d8a9610013aeac73a767949528b82fc00.png)|2024-06-18 18:04:00|
 |75897|[米尼麦尼轰_什么东西]|<img src="./pic/075897_%5B米尼麦尼轰_什么东西%5D.png" height="60" alt="什么东西"/>|[链接](https://i0.hdslb.com/bfs/garb/1c8719dd9083c448eea8b66e926732422fc506e8.png)|2024-06-18 18:04:00|
 |75898|[米尼麦尼轰_你好]|<img src="./pic/075898_%5B米尼麦尼轰_你好%5D.png" height="60" alt="你好"/>|[链接](https://i0.hdslb.com/bfs/garb/ecd4be7a5ef166a918726c8b39530970792abdb5.png)|2024-06-18 18:04:00|

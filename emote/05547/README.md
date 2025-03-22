@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |81495|[小星星来了_好吧]|<img src="./pic/081495_%5B小星星来了_好吧%5D.png" height="60" alt="好吧"/>|[链接](https://i0.hdslb.com/bfs/garb/7e5df5bf2a3c1027a9799ea3775bdbe6a760e554.png)|2024-08-05 11:53:40|
-|81496|[小星星来了_喜欢]|<img src="./pic/081496_%5B小星星来了_喜欢%5D.png" height="60" alt="喜欢"/>|[链接](https://i0.hdslb.com/bfs/garb/6809913734687ed5dc77f7c14633cd3d6473d28f.png)|2024-08-05 11:53:40|
+|81496|[小星星来了_喜欢]|<img src="./pic/081496_%5B小星星来了_喜欢%5D.png" height="60" alt="喜欢"/>|[链接](https://i0.hdslb.com/bfs/garb/6809913734687ed5dc77f7c14633cd3d6473d28f.png)|2024-08-05 11:53:00|
 |81497|[小星星来了_星星]|<img src="./pic/081497_%5B小星星来了_星星%5D.png" height="60" alt="星星"/>|[链接](https://i0.hdslb.com/bfs/garb/035653dab19594067c3f871dec7199802504ed37.png)|2024-08-05 11:53:40|
 |81498|[小星星来了_可怜]|<img src="./pic/081498_%5B小星星来了_可怜%5D.png" height="60" alt="可怜"/>|[链接](https://i0.hdslb.com/bfs/garb/74f14d7381616a1f38bb8ae8544713f69433c536.png)|2024-08-05 11:53:40|
 |81499|[小星星来了_离谱]|<img src="./pic/081499_%5B小星星来了_离谱%5D.png" height="60" alt="离谱"/>|[链接](https://i0.hdslb.com/bfs/garb/9069c5e529e08c9c195bc22d9f333f9dc710117e.png)|2024-08-05 11:53:40|

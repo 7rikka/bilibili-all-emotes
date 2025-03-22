@@ -19,6 +19,8 @@
 |98151|[UPOWER_3546676667091128_看看]|<img src="./pic/098151_%5BUPOWER_3546676667091128_看看%5D.png" height="60" alt="看看"/>|[链接](https://i0.hdslb.com/bfs/garb/4d4cdabd9fa95909f72c6778a8a8f032c5fd24d0.png)|2024-12-20 00:16:32|
 |98152|[UPOWER_3546676667091128_思考]|<img src="./pic/098152_%5BUPOWER_3546676667091128_思考%5D.png" height="60" alt="思考"/>|[链接](https://i0.hdslb.com/bfs/garb/f66d97f4d200f2207ef1de17d1bfac038d696701.png)|2024-12-20 00:16:29|
 |98153|[UPOWER_3546676667091128_弹奏]|<img src="./pic/098153_%5BUPOWER_3546676667091128_弹奏%5D.png" height="60" alt="弹奏"/>|[链接](https://i0.hdslb.com/bfs/garb/2e03b897d43c439098f5fafe74cfe13a47eb0c88.png)|2024-12-20 00:16:27|
+|104651|[UPOWER_3546676667091128_爱心]|<img src="./pic/104651_%5BUPOWER_3546676667091128_爱心%5D.png" height="60" alt="爱心"/>|[链接](https://i0.hdslb.com/bfs/garb/43a6240022e87db8e90055ffa60bd375c28bbba0.png)|2025-02-13 10:53:59|
+|104652|[UPOWER_3546676667091128_唱歌]|<img src="./pic/104652_%5BUPOWER_3546676667091128_唱歌%5D.png" height="60" alt="唱歌"/>|[链接](https://i0.hdslb.com/bfs/garb/b6f76164b314cf0f7fed9f0f85748d5ffcae9e7f.png)|2025-02-13 10:53:39|
 
 # 原始数据
 

@@ -6,9 +6,9 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|81233|[社畜打工日记_打工牛]|<img src="./pic/081233_%5B社畜打工日记_打工牛%5D.png" height="60" alt="打工牛"/>|[链接](https://i0.hdslb.com/bfs/garb/619104c18d15da73697e647b025ee88f2da897f7.png)|2024-08-02 12:03:10|
+|81233|[社畜打工日记_打工牛]|<img src="./pic/081233_%5B社畜打工日记_打工牛%5D.png" height="60" alt="打工牛"/>|[链接](https://i0.hdslb.com/bfs/garb/619104c18d15da73697e647b025ee88f2da897f7.png)|2024-08-02 12:02:50|
 |81234|[社畜打工日记_打工马]|<img src="./pic/081234_%5B社畜打工日记_打工马%5D.png" height="60" alt="打工马"/>|[链接](https://i0.hdslb.com/bfs/garb/e6c82d76112d43ab068b296aa7c06740c1843043.png)|2024-08-02 12:02:50|
-|81235|[社畜打工日记_打工喽]|<img src="./pic/081235_%5B社畜打工日记_打工喽%5D.png" height="60" alt="打工喽"/>|[链接](https://i0.hdslb.com/bfs/garb/6ea7ef769bbc1007cc5e562e24fc552b4a76e662.png)|2024-08-02 12:03:10|
+|81235|[社畜打工日记_打工喽]|<img src="./pic/081235_%5B社畜打工日记_打工喽%5D.png" height="60" alt="打工喽"/>|[链接](https://i0.hdslb.com/bfs/garb/6ea7ef769bbc1007cc5e562e24fc552b4a76e662.png)|2024-08-02 12:02:50|
 |81236|[社畜打工日记_打工人]|<img src="./pic/081236_%5B社畜打工日记_打工人%5D.png" height="60" alt="打工人"/>|[链接](https://i0.hdslb.com/bfs/garb/e15ea9256ce20d9c86671f9c38494a5fbfa79f64.png)|2024-08-02 12:02:50|
 |81237|[社畜打工日记_枸杞泡水]|<img src="./pic/081237_%5B社畜打工日记_枸杞泡水%5D.png" height="60" alt="枸杞泡水"/>|[链接](https://i0.hdslb.com/bfs/garb/b97d4fcf30b1adf059991762833170bfcd0602fe.png)|2024-08-02 12:02:50|
 |81238|[社畜打工日记_已聋]|<img src="./pic/081238_%5B社畜打工日记_已聋%5D.png" height="60" alt="已聋"/>|[链接](https://i0.hdslb.com/bfs/garb/5143af3e69128235803d698c03688f98c7852cc6.png)|2024-08-02 12:02:50|

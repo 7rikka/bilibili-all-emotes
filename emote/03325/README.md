@@ -8,7 +8,7 @@
 |----|----|----|----|----|
 |44975|[人格贴纸-ENFJ_呀灭纳塞]|<img src="./pic/044975_%5B人格贴纸-ENFJ_呀灭纳塞%5D.png" height="60" alt="呀灭纳塞"/>|[链接](https://i0.hdslb.com/bfs/garb/83d775b8f9b212ea23cfe362085a057ae19e6e83.png)|2023-09-01 18:55:00|
 |44976|[人格贴纸-ENFJ_害羞]|<img src="./pic/044976_%5B人格贴纸-ENFJ_害羞%5D.png" height="60" alt="害羞"/>|[链接](https://i0.hdslb.com/bfs/garb/3700c703d2090cb7832cfa13f2b4c9ccaf6760af.png)|2023-09-01 18:55:00|
-|44977|[人格贴纸-ENFJ_点赞星人]|<img src="./pic/044977_%5B人格贴纸-ENFJ_点赞星人%5D.png" height="60" alt="点赞星人"/>|[链接](https://i0.hdslb.com/bfs/garb/208d6fffc6545bfb03b4bdaf536091b40313012f.png)|2023-09-01 18:55:00|
+|44977|[人格贴纸-ENFJ_点赞星人]|<img src="./pic/044977_%5B人格贴纸-ENFJ_点赞星人%5D.png" height="60" alt="点赞星人"/>|[链接](https://i0.hdslb.com/bfs/garb/208d6fffc6545bfb03b4bdaf536091b40313012f.png)|2023-09-28 16:25:00|
 |44978|[人格贴纸-ENFJ_夸夸]|<img src="./pic/044978_%5B人格贴纸-ENFJ_夸夸%5D.png" height="60" alt="夸夸"/>|[链接](https://i0.hdslb.com/bfs/garb/07641a550628d5973af9c707c49f033b685991e3.png)|2023-09-01 18:55:00|
 |44979|[人格贴纸-ENFJ_强壮]|<img src="./pic/044979_%5B人格贴纸-ENFJ_强壮%5D.png" height="60" alt="强壮"/>|[链接](https://i0.hdslb.com/bfs/garb/0802bf1af702cf5ee97b50e86d8b8e918def0eba.png)|2023-09-01 18:55:00|
 |44980|[人格贴纸-ENFJ_呜呜呜]|<img src="./pic/044980_%5B人格贴纸-ENFJ_呜呜呜%5D.png" height="60" alt="呜呜呜"/>|[链接](https://i0.hdslb.com/bfs/garb/7ea0495e22f6d62931a49b57052b9f69f9c17120.png)|2023-09-01 18:55:00|

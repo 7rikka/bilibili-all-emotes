@@ -25,7 +25,7 @@
 |50758|[莱卡_哭哭]|<img src="./pic/050758_%5B莱卡_哭哭%5D.png" height="60" alt="哭哭"/>|[链接](https://i0.hdslb.com/bfs/garb/cf02a0958ecaef9201a4be0e308bc299a5290246.png)|2023-10-27 15:00:00|
 |50759|[莱卡_害怕]|<img src="./pic/050759_%5B莱卡_害怕%5D.png" height="60" alt="害怕"/>|[链接](https://i0.hdslb.com/bfs/garb/0809318fc60fa9e17e3c09419214bd267137000d.png)|2023-10-27 15:00:00|
 |50760|[莱卡_开心]|<img src="./pic/050760_%5B莱卡_开心%5D.png" height="60" alt="开心"/>|[链接](https://i0.hdslb.com/bfs/garb/3c218a1c35436f6cd5fa5ca60c9b991818fba990.png)|2023-10-27 15:00:00|
-|50761|[莱卡_吃冰棍]|<img src="./pic/050761_%5B莱卡_吃冰棍%5D.png" height="60" alt="吃冰棍"/>|[链接](https://i0.hdslb.com/bfs/garb/0bbc65e8a3cec08cfd5d11e474688ca2986e788a.png)|2023-10-27 18:25:10|
+|50761|[莱卡_吃冰棍]|<img src="./pic/050761_%5B莱卡_吃冰棍%5D.png" height="60" alt="吃冰棍"/>|[链接](https://i0.hdslb.com/bfs/garb/0bbc65e8a3cec08cfd5d11e474688ca2986e788a.png)|2023-10-27 15:00:00|
 |50762|[莱卡_吓晕]|<img src="./pic/050762_%5B莱卡_吓晕%5D.png" height="60" alt="吓晕"/>|[链接](https://i0.hdslb.com/bfs/garb/e146881ce5e453e264a4cbfdfa313b3d45c90868.png)|2023-10-27 15:00:00|
 |50763|[莱卡_叹气]|<img src="./pic/050763_%5B莱卡_叹气%5D.png" height="60" alt="叹气"/>|[链接](https://i0.hdslb.com/bfs/garb/c0797f0aa4c73088b50fb95f468d94e536fa70ea.png)|2023-10-27 15:00:00|
 |50764|[莱卡_爱你]|<img src="./pic/050764_%5B莱卡_爱你%5D.png" height="60" alt="爱你"/>|[链接](https://i0.hdslb.com/bfs/garb/d7769dda8830fb3e57bf87d017ce50335b4111df.png)|2023-10-27 15:00:00|

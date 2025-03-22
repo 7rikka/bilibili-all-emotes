@@ -23,7 +23,7 @@
 |86619|[幻影新生_打卡上班]|<img src="./pic/086619_%5B幻影新生_打卡上班%5D.png" height="60" alt="打卡上班"/>|[链接](https://i0.hdslb.com/bfs/emote/5ffb0f527a2302a8b8fba607fe587acb835a5f6c.png)|2024-09-24 16:53:00|
 |86620|[幻影新生_哔——]|<img src="./pic/086620_%5B幻影新生_哔——%5D.png" height="60" alt="哔——"/>|[链接](https://i0.hdslb.com/bfs/emote/2560ac134a19adbdccb95e795ce3beae2c6394a8.png)|2024-09-24 16:53:00|
 |86621|[幻影新生_闪瞎]|<img src="./pic/086621_%5B幻影新生_闪瞎%5D.png" height="60" alt="闪瞎"/>|[链接](https://i0.hdslb.com/bfs/emote/846e6af9da88147c8b8d8cf6e96d681f6f080b6e.png)|2024-09-24 16:53:00|
-|86622|[幻影新生_不要]|<img src="./pic/086622_%5B幻影新生_不要%5D.png" height="60" alt="不要"/>|[链接](https://i0.hdslb.com/bfs/emote/d14904db44cb9901031bdbdd71feec24d2cbb3ec.png)|2024-09-24 16:55:00|
+|86622|[幻影新生_不要]|<img src="./pic/086622_%5B幻影新生_不要%5D.png" height="60" alt="不要"/>|[链接](https://i0.hdslb.com/bfs/emote/d14904db44cb9901031bdbdd71feec24d2cbb3ec.png)|2024-09-24 16:53:00|
 |86623|[幻影新生_生气]|<img src="./pic/086623_%5B幻影新生_生气%5D.png" height="60" alt="生气"/>|[链接](https://i0.hdslb.com/bfs/emote/782cf8a19226822ab709f3b39b8ee90a540e2908.png)|2024-09-24 16:53:00|
 |86624|[幻影新生_许愿]|<img src="./pic/086624_%5B幻影新生_许愿%5D.png" height="60" alt="许愿"/>|[链接](https://i0.hdslb.com/bfs/emote/c33fc479ce03af9e60589b13b88b4895a258da45.png)|2024-09-24 16:53:00|
 

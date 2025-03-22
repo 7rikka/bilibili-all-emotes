@@ -18,7 +18,7 @@
 |379|[一人之下_孙贼]|<img src="./pic/000379_%5B一人之下_孙贼%5D.png" height="60" alt="孙贼"/>|[链接](http://i0.hdslb.com/bfs/emote/a689c37d5779cda0774d6f4be65cd587c4d0e27f.png)|2021-08-10 17:25:34|
 |380|[一人之下_养生]|<img src="./pic/000380_%5B一人之下_养生%5D.png" height="60" alt="养生"/>|[链接](http://i0.hdslb.com/bfs/emote/32adfeb34ecc2e4ab9702813ab547fc0bb09aac7.png)|2021-08-10 17:25:34|
 |381|[一人之下_瘫]|<img src="./pic/000381_%5B一人之下_瘫%5D.png" height="60" alt="瘫"/>|[链接](http://i0.hdslb.com/bfs/emote/721c2b271d9edbb937c6dec61ba25568797b27aa.png)|2021-08-10 17:25:34|
-|382|[一人之下_打call]|<img src="./pic/000382_%5B一人之下_打call%5D.png" height="60" alt="打call"/>|[链接](http://i0.hdslb.com/bfs/emote/7f979ab31d61e09acb3da46b52c52376e1131abe.png)|2021-08-10 17:25:34|
+|382|[一人之下_打call]|<img src="./pic/000382_%5B一人之下_打call%5D.png" height="60" alt="打call"/>|[链接](http://i0.hdslb.com/bfs/emote/7f979ab31d61e09acb3da46b52c52376e1131abe.png)|2021-08-14 11:58:40|
 |383|[一人之下_比心]|<img src="./pic/000383_%5B一人之下_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/fafec3459f631f0ba76adde9faf8aa112469e9c4.png)|2021-08-10 17:25:34|
 |384|[一人之下_摸头]|<img src="./pic/000384_%5B一人之下_摸头%5D.png" height="60" alt="摸头"/>|[链接](http://i0.hdslb.com/bfs/emote/500171557765a27c500a7024888c698680c73653.png)|2021-08-10 17:25:34|
 |385|[一人之下_八卦]|<img src="./pic/000385_%5B一人之下_八卦%5D.png" height="60" alt="八卦"/>|[链接](http://i0.hdslb.com/bfs/emote/5be05cddd588d7b635cd55501b9b7a47af5dc5bc.png)|2021-08-10 17:25:34|

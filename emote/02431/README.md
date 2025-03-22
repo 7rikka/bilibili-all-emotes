@@ -6,12 +6,12 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|42721|[浪沫鱼姬_suki]|<img src="./pic/042721_%5B浪沫鱼姬_suki%5D.png" height="60" alt="suki"/>|[链接](https://i0.hdslb.com/bfs/emote/8149f83a19ac2f92e243d54d3f88a9cab62705f0.png)|2023-08-23 19:24:10|
+|42721|[浪沫鱼姬_suki]|<img src="./pic/042721_%5B浪沫鱼姬_suki%5D.png" height="60" alt="suki"/>|[链接](https://i0.hdslb.com/bfs/emote/8149f83a19ac2f92e243d54d3f88a9cab62705f0.png)|2023-08-23 19:24:15|
 |42722|[浪沫鱼姬_爱你]|<img src="./pic/042722_%5B浪沫鱼姬_爱你%5D.png" height="60" alt="爱你"/>|[链接](https://i0.hdslb.com/bfs/emote/e89b9319104c25dcd7b10eb0ed183e8c30745e77.png)|2023-08-23 19:24:15|
 |42723|[浪沫鱼姬_安详]|<img src="./pic/042723_%5B浪沫鱼姬_安详%5D.png" height="60" alt="安详"/>|[链接](https://i0.hdslb.com/bfs/emote/1c794f7544dd6c10351c427610ea898d8f04d69e.png)|2023-08-23 19:24:15|
 |42724|[浪沫鱼姬_崩溃]|<img src="./pic/042724_%5B浪沫鱼姬_崩溃%5D.png" height="60" alt="崩溃"/>|[链接](https://i0.hdslb.com/bfs/emote/f021089fbce90c3a0471e8d43bc0bacbf6312e1e.png)|2023-08-23 19:24:15|
 |42725|[浪沫鱼姬_不要]|<img src="./pic/042725_%5B浪沫鱼姬_不要%5D.png" height="60" alt="不要"/>|[链接](https://i0.hdslb.com/bfs/emote/c987d187f91e02826515dc61ab9c280bb7d89e72.png)|2023-08-23 19:24:15|
-|42726|[浪沫鱼姬_吹泡泡]|<img src="./pic/042726_%5B浪沫鱼姬_吹泡泡%5D.png" height="60" alt="吹泡泡"/>|[链接](https://i0.hdslb.com/bfs/emote/da7bdbeb769f9c7effcff3904d7b6c2d623c38f3.png)|2023-08-23 19:05:10|
+|42726|[浪沫鱼姬_吹泡泡]|<img src="./pic/042726_%5B浪沫鱼姬_吹泡泡%5D.png" height="60" alt="吹泡泡"/>|[链接](https://i0.hdslb.com/bfs/emote/da7bdbeb769f9c7effcff3904d7b6c2d623c38f3.png)|2023-08-23 19:24:15|
 |42727|[浪沫鱼姬_打招呼]|<img src="./pic/042727_%5B浪沫鱼姬_打招呼%5D.png" height="60" alt="打招呼"/>|[链接](https://i0.hdslb.com/bfs/emote/a2102dc83efb850eb5b2943aad3a1770e6e83008.png)|2023-08-23 19:24:15|
 |42728|[浪沫鱼姬_大哭]|<img src="./pic/042728_%5B浪沫鱼姬_大哭%5D.png" height="60" alt="大哭"/>|[链接](https://i0.hdslb.com/bfs/emote/d4003db2e65cd2d1016d1c1a7c1bba0e56b0e096.png)|2023-08-23 19:26:28|
 |42729|[浪沫鱼姬_害羞]|<img src="./pic/042729_%5B浪沫鱼姬_害羞%5D.png" height="60" alt="害羞"/>|[链接](https://i0.hdslb.com/bfs/emote/00fbb5543d7fdf5cb7d5d3311383bc9cc817ddc4.png)|2023-08-23 19:26:28|

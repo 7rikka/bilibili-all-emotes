@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|77552|[时光LIVE_cool]|<img src="./pic/077552_%5B时光LIVE_cool%5D.gif" height="60" alt="cool"/>|[链接](https://i0.hdslb.com/bfs/emote/94d14e5ea917a7612acdfb439fffa6a237dff352.gif)|2024-07-03 15:42:29|
+|77552|[时光LIVE_cool]|<img src="./pic/077552_%5B时光LIVE_cool%5D.gif" height="60" alt="cool"/>|[链接](https://i0.hdslb.com/bfs/emote/94d14e5ea917a7612acdfb439fffa6a237dff352.gif)|2024-07-03 17:44:40|
 |77553|[时光LIVE_唱歌]|<img src="./pic/077553_%5B时光LIVE_唱歌%5D.gif" height="60" alt="唱歌"/>|[链接](https://i0.hdslb.com/bfs/emote/c8ff90fad657ff64a08bd5f3b2ea3889175ca139.gif)|2024-07-03 15:42:29|
 |77554|[时光LIVE_music]|<img src="./pic/077554_%5B时光LIVE_music%5D.gif" height="60" alt="music"/>|[链接](https://i0.hdslb.com/bfs/emote/59ad33a2c1bba07d9158d9ee3e9acda7bdab63af.gif)|2024-07-03 15:42:29|
 |77555|[时光LIVE_打鼓]|<img src="./pic/077555_%5B时光LIVE_打鼓%5D.gif" height="60" alt="打鼓"/>|[链接](https://i0.hdslb.com/bfs/emote/ad06bd935f5a6b9daa6fe8ee8437dcf1a8fe2f49.gif)|2024-07-03 15:42:29|

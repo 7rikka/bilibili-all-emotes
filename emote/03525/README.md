@@ -8,7 +8,6 @@
 |----|----|----|----|----|
 |48524|[UPOWER_28880583_悲伤]|<img src="./pic/048524_%5BUPOWER_28880583_悲伤%5D.png" height="60" alt="悲伤"/>|[链接](https://i0.hdslb.com/bfs/garb/ffd5436daf51ec317b9658ebcea3a830c36713f7.png)|2023-10-08 22:51:28|
 |48525|[UPOWER_28880583_生气气]|<img src="./pic/048525_%5BUPOWER_28880583_生气气%5D.png" height="60" alt="生气气"/>|[链接](https://i0.hdslb.com/bfs/garb/b1c45195fd5cc99c53208e854c339d509e71289c.png)|2023-10-08 22:51:28|
-|48526|[UPOWER_28880583_小丑了是]|<img src="./pic/048526_%5BUPOWER_28880583_小丑了是%5D.png" height="60" alt="小丑了是"/>|[链接](https://i0.hdslb.com/bfs/garb/eb644f0e6979eaca02840969610e876e545e7776.png)|2023-10-08 22:51:28|
 |48527|[UPOWER_28880583_嘿嘿娟儿]|<img src="./pic/048527_%5BUPOWER_28880583_嘿嘿娟儿%5D.png" height="60" alt="嘿嘿娟儿"/>|[链接](https://i0.hdslb.com/bfs/garb/a91683f2a642e5e41035b45cb3b595cbe763e83a.png)|2023-10-08 22:51:28|
 |48528|[UPOWER_28880583_搞错啦]|<img src="./pic/048528_%5BUPOWER_28880583_搞错啦%5D.png" height="60" alt="搞错啦"/>|[链接](https://i0.hdslb.com/bfs/garb/ce99576cc31a4c23efbd6907ab12610a95543642.png)|2023-10-08 22:51:28|
 |48529|[UPOWER_28880583_大吃一惊]|<img src="./pic/048529_%5BUPOWER_28880583_大吃一惊%5D.png" height="60" alt="大吃一惊"/>|[链接](https://i0.hdslb.com/bfs/garb/b4a3201c7017760f886255c0a80ba8919872370d.png)|2023-10-08 22:51:28|
@@ -25,7 +24,8 @@
 |56231|[UPOWER_28880583_帅]|<img src="./pic/056231_%5BUPOWER_28880583_帅%5D.png" height="60" alt="帅"/>|[链接](https://i0.hdslb.com/bfs/garb/fcdca52b7323241bc3ead79346bc5ca6aeab5cc1.png)|2023-12-16 15:15:12|
 |56892|[UPOWER_28880583_谁家]|<img src="./pic/056892_%5BUPOWER_28880583_谁家%5D.png" height="60" alt="谁家"/>|[链接](https://i0.hdslb.com/bfs/garb/c5fc0e8d8e5e4c1cfb4cd8ab0b5dadd743e88a37.png)|2023-12-19 09:45:43|
 |56893|[UPOWER_28880583_太奶]|<img src="./pic/056893_%5BUPOWER_28880583_太奶%5D.png" height="60" alt="太奶"/>|[链接](https://i0.hdslb.com/bfs/garb/919ac0b9bba568cf9cea43dca8a584c6c8639c71.png)|2023-12-19 09:45:43|
-|59221|[UPOWER_28880583_新年好]|<img src="./pic/059221_%5BUPOWER_28880583_新年好%5D.png" height="60" alt="新年好"/>|[链接](https://i0.hdslb.com/bfs/garb/13c920047c0eccfbcbd02305a18d4ca094aef95b.png)|2024-01-03 09:56:51|
+|105065|[UPOWER_28880583_红温]|<img src="./pic/105065_%5BUPOWER_28880583_红温%5D.png" height="60" alt="红温"/>|[链接](https://i0.hdslb.com/bfs/garb/dda25f69a7ac99fc0b8e7173cc9017ead601a23e.png)|2025-02-18 09:24:34|
+|105066|[UPOWER_28880583_气笑]|<img src="./pic/105066_%5BUPOWER_28880583_气笑%5D.png" height="60" alt="气笑"/>|[链接](https://i0.hdslb.com/bfs/garb/a1ec487c351dca9028377053fc21c24314260e25.png)|2025-02-18 09:24:31|
 
 # 原始数据
 

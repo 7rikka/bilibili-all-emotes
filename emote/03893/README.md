@@ -12,7 +12,7 @@
 |54532|[历战觉醒_好剑]|<img src="./pic/054532_%5B历战觉醒_好剑%5D.png" height="60" alt="好剑"/>|[链接](https://i0.hdslb.com/bfs/emote/6c4ca6e5d314d9736a1895a6fdd4d6b831615da4.png)|2023-11-29 12:22:10|
 |54533|[历战觉醒_耍帅]|<img src="./pic/054533_%5B历战觉醒_耍帅%5D.png" height="60" alt="耍帅"/>|[链接](https://i0.hdslb.com/bfs/emote/f57a694b1e360d5728275a5062318dbf9a992d93.png)|2023-11-29 12:22:10|
 |54534|[历战觉醒_自信]|<img src="./pic/054534_%5B历战觉醒_自信%5D.png" height="60" alt="自信"/>|[链接](https://i0.hdslb.com/bfs/emote/0d12a89a2996f3e0f52c5a58fc7a18d383970132.png)|2023-11-29 12:22:10|
-|54535|[历战觉醒_心绞痛]|<img src="./pic/054535_%5B历战觉醒_心绞痛%5D.png" height="60" alt="心绞痛"/>|[链接](https://i0.hdslb.com/bfs/emote/20d616412f6919c4307868f2e7e222afc5a3f239.png)|2023-11-29 12:22:10|
+|54535|[历战觉醒_心绞痛]|<img src="./pic/054535_%5B历战觉醒_心绞痛%5D.png" height="60" alt="心绞痛"/>|[链接](https://i0.hdslb.com/bfs/emote/20d616412f6919c4307868f2e7e222afc5a3f239.png)|2023-11-29 12:00:00|
 |54536|[历战觉醒_噗]|<img src="./pic/054536_%5B历战觉醒_噗%5D.png" height="60" alt="噗"/>|[链接](https://i0.hdslb.com/bfs/emote/07571b9000b9d1535c6f487d5d07772018df99b6.png)|2023-11-29 12:22:10|
 |54537|[历战觉醒_我来了]|<img src="./pic/054537_%5B历战觉醒_我来了%5D.png" height="60" alt="我来了"/>|[链接](https://i0.hdslb.com/bfs/emote/a44632679e678f9a32eea678e131bff1801cbde5.png)|2023-11-29 12:22:10|
 |54538|[历战觉醒_欸~]|<img src="./pic/054538_%5B历战觉醒_欸~%5D.png" height="60" alt="欸~"/>|[链接](https://i0.hdslb.com/bfs/emote/053e0a60cd8c76997270e4f5dd94e267a5a7c5ab.png)|2023-11-29 12:22:10|

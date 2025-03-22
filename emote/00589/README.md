@@ -30,7 +30,7 @@
 |14398|[露早GOGO_谢谢你]|<img src="./pic/014398_%5B露早GOGO_谢谢你%5D.png" height="60" alt="谢谢你"/>|[链接](https://i0.hdslb.com/bfs/emote/49a2b4c0c7ff838bec50addc08ebfc2d31a7e635.png)|2023-01-20 09:56:57|
 |14399|[露早GOGO_早]|<img src="./pic/014399_%5B露早GOGO_早%5D.png" height="60" alt="早"/>|[链接](https://i0.hdslb.com/bfs/emote/61779147fdf8a0d0731d55d76bcfa3a5072f7877.png)|2023-01-20 09:56:57|
 |14400|[露早GOGO_我们是EOE]|<img src="./pic/014400_%5B露早GOGO_我们是EOE%5D.png" height="60" alt="我们是EOE"/>|[链接](https://i0.hdslb.com/bfs/emote/a435586a43b72f0509db7a3e9aee75d664304e3b.png)|2023-01-31 15:55:47|
-|14401|[露早GOGO_GO叫]|<img src="./pic/014401_%5B露早GOGO_GO叫%5D.png" height="60" alt="GO叫"/>|[链接](https://i0.hdslb.com/bfs/emote/95a9ab8812814f1bb16d38460a5ec67f922884ec.png)|2023-01-20 09:56:57|
+|14401|[露早GOGO_GO叫]|<img src="./pic/014401_%5B露早GOGO_GO叫%5D.png" height="60" alt="GO叫"/>|[链接](https://i0.hdslb.com/bfs/emote/95a9ab8812814f1bb16d38460a5ec67f922884ec.png)|2023-01-23 10:22:40|
 
 # 原始数据
 

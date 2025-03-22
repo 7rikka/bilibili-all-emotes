@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |41860|[玩具销售员_运行中]|<img src="./pic/041860_%5B玩具销售员_运行中%5D.png" height="60" alt="运行中"/>|[链接](https://i0.hdslb.com/bfs/garb/c0cf8decf8d448c02c6830a2ad05cf793cf99ad4.png)|2023-08-18 18:51:40|
-|41861|[玩具销售员_电量不足]|<img src="./pic/041861_%5B玩具销售员_电量不足%5D.png" height="60" alt="电量不足"/>|[链接](https://i0.hdslb.com/bfs/garb/63df723e304e67530c092f7d9682ad00bedcef3b.png)|2023-08-18 18:51:10|
+|41861|[玩具销售员_电量不足]|<img src="./pic/041861_%5B玩具销售员_电量不足%5D.png" height="60" alt="电量不足"/>|[链接](https://i0.hdslb.com/bfs/garb/63df723e304e67530c092f7d9682ad00bedcef3b.png)|2023-08-18 18:51:40|
 |41862|[玩具销售员_充电中]|<img src="./pic/041862_%5B玩具销售员_充电中%5D.png" height="60" alt="充电中"/>|[链接](https://i0.hdslb.com/bfs/garb/ea2881bd15771b5771d7601fe52c9eed56ac1dfb.png)|2023-08-18 18:51:40|
 |41863|[玩具销售员_疑惑]|<img src="./pic/041863_%5B玩具销售员_疑惑%5D.png" height="60" alt="疑惑"/>|[链接](https://i0.hdslb.com/bfs/garb/7f30096bb41c67871857e6d0cd188176622c7c0f.png)|2023-08-18 18:51:40|
 |41864|[玩具销售员_情绪激烈]|<img src="./pic/041864_%5B玩具销售员_情绪激烈%5D.png" height="60" alt="情绪激烈"/>|[链接](https://i0.hdslb.com/bfs/garb/c5cd9be3bb0613b815c7af6d9fcc568f29637c3f.png)|2023-08-18 18:51:40|

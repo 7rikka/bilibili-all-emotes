@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|81303|[UPOWER_4547033_非酋]|<img src="./pic/081303_%5BUPOWER_4547033_非酋%5D.png" height="60" alt="非酋"/>|[链接](https://i0.hdslb.com/bfs/garb/7d5d578eb4a53e15b539c39a39cf6236f0013092.png)|2024-08-02 17:21:02|
+|81303|[UPOWER_4547033_非酋]|<img src="./pic/081303_%5BUPOWER_4547033_非酋%5D.png" height="60" alt="非酋"/>|[链接](https://i0.hdslb.com/bfs/garb/7d5d578eb4a53e15b539c39a39cf6236f0013092.png)|2024-08-08 17:55:00|
 |81304|[UPOWER_4547033_冷]|<img src="./pic/081304_%5BUPOWER_4547033_冷%5D.png" height="60" alt="冷"/>|[链接](https://i0.hdslb.com/bfs/garb/9ea977967858d43fd20455620b3140f4d2939233.png)|2024-08-02 17:21:02|
 |81305|[UPOWER_4547033_兔兔之神]|<img src="./pic/081305_%5BUPOWER_4547033_兔兔之神%5D.png" height="60" alt="兔兔之神"/>|[链接](https://i0.hdslb.com/bfs/garb/a1c191fe6c67e0618c7ff73948dc43764440f701.png)|2024-08-02 17:21:02|
 |81306|[UPOWER_4547033_赞]|<img src="./pic/081306_%5BUPOWER_4547033_赞%5D.png" height="60" alt="赞"/>|[链接](https://i0.hdslb.com/bfs/garb/542d96c6911b6dfe03ed85ae4e698c601e3db89b.png)|2024-08-02 17:21:02|
@@ -25,6 +25,7 @@
 |101409|[UPOWER_4547033_便携兔兔]|<img src="./pic/101409_%5BUPOWER_4547033_便携兔兔%5D.png" height="60" alt="便携兔兔"/>|[链接](https://i0.hdslb.com/bfs/garb/d3e41738812849aea7e750161dae4d74521e855c.png)|2025-01-18 02:57:40|
 |101410|[UPOWER_4547033_便携小T]|<img src="./pic/101410_%5BUPOWER_4547033_便携小T%5D.png" height="60" alt="便携小T"/>|[链接](https://i0.hdslb.com/bfs/garb/f6bb254bdf7c1411e615bf3e9ee00b1e19c69b10.png)|2025-01-18 02:57:36|
 |101411|[UPOWER_4547033_便携小C]|<img src="./pic/101411_%5BUPOWER_4547033_便携小C%5D.png" height="60" alt="便携小C"/>|[链接](https://i0.hdslb.com/bfs/garb/f40d264bf973852437573620d16344d8ff6f20f4.png)|2025-01-18 02:57:32|
+|105779|[UPOWER_4547033_超赞]|<img src="./pic/105779_%5BUPOWER_4547033_超赞%5D.png" height="60" alt="超赞"/>|[链接](https://i0.hdslb.com/bfs/garb/52e603bffc9b57e7339d4dcc01668e3250d696fa.png)|2025-03-01 04:55:02|
 
 # 原始数据
 

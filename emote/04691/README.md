@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|67235|[Vox收藏集_No]|<img src="./pic/067235_%5BVox收藏集_No%5D.png" height="60" alt="No"/>|[链接](https://i0.hdslb.com/bfs/emote/0f026bb5d69957d27c429442efacdcf407c2f688.png)|2024-03-19 19:00:00|
+|67235|[Vox收藏集_No]|<img src="./pic/067235_%5BVox收藏集_No%5D.png" height="60" alt="No"/>|[链接](https://i0.hdslb.com/bfs/emote/0f026bb5d69957d27c429442efacdcf407c2f688.png)|2024-03-22 13:47:07|
 |67236|[Vox收藏集_OK！]|<img src="./pic/067236_%5BVox收藏集_OK！%5D.png" height="60" alt="OK！"/>|[链接](https://i0.hdslb.com/bfs/emote/d4a8ad254bf2c455cb44a951430a5db3465c7ab1.png)|2024-03-22 13:47:07|
 |67237|[Vox收藏集_TSKR]|<img src="./pic/067237_%5BVox收藏集_TSKR%5D.png" height="60" alt="TSKR"/>|[链接](https://i0.hdslb.com/bfs/emote/a76a5358ec2fd9a4ca0812a68e8d8fe5f117f801.png)|2024-03-22 13:47:07|
 |67238|[Vox收藏集_打CALL]|<img src="./pic/067238_%5BVox收藏集_打CALL%5D.png" height="60" alt="打CALL"/>|[链接](https://i0.hdslb.com/bfs/emote/d6c763ce358c66340164908cc3d977488bb48adb.png)|2024-03-22 13:47:07|
@@ -25,7 +25,7 @@
 |67251|[Vox收藏集_问号]|<img src="./pic/067251_%5BVox收藏集_问号%5D.png" height="60" alt="问号"/>|[链接](https://i0.hdslb.com/bfs/emote/197484531a140748c8374cd070bc709e511033fa.png)|2024-03-22 13:47:07|
 |67252|[Vox收藏集_谢谢]|<img src="./pic/067252_%5BVox收藏集_谢谢%5D.png" height="60" alt="谢谢"/>|[链接](https://i0.hdslb.com/bfs/emote/94e2f1cb65d2f3ac672877e7d7888b1536768fe6.png)|2024-03-22 13:47:07|
 |67253|[Vox收藏集_新点子]|<img src="./pic/067253_%5BVox收藏集_新点子%5D.png" height="60" alt="新点子"/>|[链接](https://i0.hdslb.com/bfs/emote/1bb19d5904bff35884f05b00252aec9fa2840c12.png)|2024-03-22 13:47:07|
-|67254|[Vox收藏集_注意]|<img src="./pic/067254_%5BVox收藏集_注意%5D.png" height="60" alt="注意"/>|[链接](https://i0.hdslb.com/bfs/emote/fd99395fdc255bf0f204f0e5186e0613489c792c.png)|2024-03-22 13:47:00|
+|67254|[Vox收藏集_注意]|<img src="./pic/067254_%5BVox收藏集_注意%5D.png" height="60" alt="注意"/>|[链接](https://i0.hdslb.com/bfs/emote/fd99395fdc255bf0f204f0e5186e0613489c792c.png)|2024-03-22 13:47:07|
 
 # 原始数据
 

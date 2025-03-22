@@ -16,8 +16,8 @@
 |3962|[音律联觉_吃瓜]|<img src="./pic/003962_%5B音律联觉_吃瓜%5D.png" height="60" alt="吃瓜"/>|[链接](http://i0.hdslb.com/bfs/emote/7f7f46bf3c1c79d8ce27fa7eeeb7d6e197698abd.png)|2021-06-08 14:17:05|
 |3963|[音律联觉_疑惑]|<img src="./pic/003963_%5B音律联觉_疑惑%5D.png" height="60" alt="疑惑"/>|[链接](http://i0.hdslb.com/bfs/emote/020cdc9d4495c4fb23471b460b8f4eea808a12cd.png)|2021-06-08 14:17:05|
 |3964|[音律联觉_摇滚起来]|<img src="./pic/003964_%5B音律联觉_摇滚起来%5D.png" height="60" alt="摇滚起来"/>|[链接](http://i0.hdslb.com/bfs/emote/770b6e8499636064ab51cbf2d0a284189aaa65d7.png)|2021-06-08 14:17:05|
-|3965|[音律联觉_和善]|<img src="./pic/003965_%5B音律联觉_和善%5D.png" height="60" alt="和善"/>|[链接](http://i0.hdslb.com/bfs/emote/391e43937c353bd2bda368b12808bc77ec070642.png)|2021-05-20 16:30:12|
-|3966|[音律联觉_警告]|<img src="./pic/003966_%5B音律联觉_警告%5D.png" height="60" alt="警告"/>|[链接](http://i0.hdslb.com/bfs/emote/aeb91518478911d12a90606ab6a7f6934a951815.png)|2021-06-20 16:30:12|
+|3965|[音律联觉_和善]|<img src="./pic/003965_%5B音律联觉_和善%5D.png" height="60" alt="和善"/>|[链接](http://i0.hdslb.com/bfs/emote/391e43937c353bd2bda368b12808bc77ec070642.png)|2021-06-08 14:17:05|
+|3966|[音律联觉_警告]|<img src="./pic/003966_%5B音律联觉_警告%5D.png" height="60" alt="警告"/>|[链接](http://i0.hdslb.com/bfs/emote/aeb91518478911d12a90606ab6a7f6934a951815.png)|2021-06-08 14:17:05|
 
 # 原始数据
 

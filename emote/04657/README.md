@@ -8,7 +8,7 @@
 |----|----|----|----|----|
 |66669|[粉米花2_震惊]|<img src="./pic/066669_%5B粉米花2_震惊%5D.png" height="60" alt="震惊"/>|[链接](https://i0.hdslb.com/bfs/garb/76285324a4cc0bbceb606e65ca6b52420153a4b3.png)|2024-03-14 15:00:00|
 |66670|[粉米花2_裂开]|<img src="./pic/066670_%5B粉米花2_裂开%5D.png" height="60" alt="裂开"/>|[链接](https://i0.hdslb.com/bfs/garb/da11b2552a2dae3293245e30e3a9044d167c3b69.png)|2024-03-14 15:00:00|
-|66671|[粉米花2_rua]|<img src="./pic/066671_%5B粉米花2_rua%5D.png" height="60" alt="rua"/>|[链接](https://i0.hdslb.com/bfs/garb/e146d01f3a55bc49a8832cd3caf0da79998b6478.png)|2024-03-14 15:00:00|
+|66671|[粉米花2_rua]|<img src="./pic/066671_%5B粉米花2_rua%5D.png" height="60" alt="rua"/>|[链接](https://i0.hdslb.com/bfs/garb/e146d01f3a55bc49a8832cd3caf0da79998b6478.png)|2024-03-14 20:00:00|
 |66672|[粉米花2_害]|<img src="./pic/066672_%5B粉米花2_害%5D.png" height="60" alt="害"/>|[链接](https://i0.hdslb.com/bfs/garb/d8c120e369fb04e9b6b7006672a5604b6b635a9e.png)|2024-03-14 15:00:00|
 |66673|[粉米花2_你细品]|<img src="./pic/066673_%5B粉米花2_你细品%5D.png" height="60" alt="你细品"/>|[链接](https://i0.hdslb.com/bfs/garb/568726ec7a7f572a7d2abb512adcae5ebed395d3.png)|2024-03-14 15:00:00|
 |66674|[粉米花2_awsl]|<img src="./pic/066674_%5B粉米花2_awsl%5D.png" height="60" alt="awsl"/>|[链接](https://i0.hdslb.com/bfs/garb/0791908e63b758ce9dc6a4ed8ab1d959efa3ea25.png)|2024-03-14 15:00:00|

@@ -20,7 +20,7 @@
 |68136|[fufo愚乐一下_无语]|<img src="./pic/068136_%5Bfufo愚乐一下_无语%5D.png" height="60" alt="无语"/>|[链接](https://i0.hdslb.com/bfs/garb/1ff363b8e201cf41dae976338c15d854d99b04e0.png)|2024-03-29 11:00:00|
 |68137|[fufo愚乐一下_装傻]|<img src="./pic/068137_%5Bfufo愚乐一下_装傻%5D.png" height="60" alt="装傻"/>|[链接](https://i0.hdslb.com/bfs/garb/0c1ab92f9ce1a47bc10ac04f6367051fe7cde3f1.png)|2024-03-29 11:00:00|
 |68138|[fufo愚乐一下_小丑是我]|<img src="./pic/068138_%5Bfufo愚乐一下_小丑是我%5D.png" height="60" alt="小丑是我"/>|[链接](https://i0.hdslb.com/bfs/garb/c9c7e97782dd760eb6a1994e1147ad8cc541ce5b.png)|2024-03-29 11:00:00|
-|68139|[fufo愚乐一下_震惊]|<img src="./pic/068139_%5Bfufo愚乐一下_震惊%5D.png" height="60" alt="震惊"/>|[链接](https://i0.hdslb.com/bfs/garb/c957905e25840cdffa3a578ea67245ed945f4d31.png)|2024-03-29 11:00:00|
+|68139|[fufo愚乐一下_震惊]|<img src="./pic/068139_%5Bfufo愚乐一下_震惊%5D.png" height="60" alt="震惊"/>|[链接](https://i0.hdslb.com/bfs/garb/c957905e25840cdffa3a578ea67245ed945f4d31.png)|2024-03-29 11:01:00|
 
 # 原始数据
 

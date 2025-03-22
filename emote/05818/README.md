@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|85799|[人格贴纸-ENTJ_暗中观察]|<img src="./pic/085799_%5B人格贴纸-ENTJ_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](https://i0.hdslb.com/bfs/garb/27afae98b70302d051311461d2f8dedc7e52fe47.png)|2024-09-10 15:44:20|
+|85799|[人格贴纸-ENTJ_暗中观察]|<img src="./pic/085799_%5B人格贴纸-ENTJ_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](https://i0.hdslb.com/bfs/garb/27afae98b70302d051311461d2f8dedc7e52fe47.png)|2024-09-10 15:44:10|
 |85800|[人格贴纸-ENTJ_糟了]|<img src="./pic/085800_%5B人格贴纸-ENTJ_糟了%5D.png" height="60" alt="糟了"/>|[链接](https://i0.hdslb.com/bfs/garb/3f84c9abe15e762d56934a66af06901bbbbe00e8.png)|2024-09-10 15:44:20|
 |85801|[人格贴纸-ENTJ_轻轻松松]|<img src="./pic/085801_%5B人格贴纸-ENTJ_轻轻松松%5D.png" height="60" alt="轻轻松松"/>|[链接](https://i0.hdslb.com/bfs/garb/867352f2fb8dd456f390835b20fd6911c818220a.png)|2024-09-10 15:44:20|
 |85802|[人格贴纸-ENTJ_抢救]|<img src="./pic/085802_%5B人格贴纸-ENTJ_抢救%5D.png" height="60" alt="抢救"/>|[链接](https://i0.hdslb.com/bfs/garb/f3877fac81dbfc8e9084c700f1896cc19e964d30.png)|2024-09-10 15:44:20|

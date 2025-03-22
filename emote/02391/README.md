@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |41975|[飞鸟穹·未来幻想_GG]|<img src="./pic/041975_%5B飞鸟穹·未来幻想_GG%5D.png" height="60" alt="GG"/>|[链接](https://i0.hdslb.com/bfs/garb/7b75aa15a4ff0d69e2e0d822edd4fa2323cd8c80.png)|2023-08-18 20:00:00|
-|41976|[飞鸟穹·未来幻想_激]|<img src="./pic/041976_%5B飞鸟穹·未来幻想_激%5D.png" height="60" alt="激"/>|[链接](https://i0.hdslb.com/bfs/garb/2fabb5aaf61d9a499260d7e19dc368df5b8c622a.png)|2023-08-18 20:00:00|
+|41976|[飞鸟穹·未来幻想_激]|<img src="./pic/041976_%5B飞鸟穹·未来幻想_激%5D.png" height="60" alt="激"/>|[链接](https://i0.hdslb.com/bfs/garb/2fabb5aaf61d9a499260d7e19dc368df5b8c622a.png)|2023-08-18 19:00:00|
 |41977|[飞鸟穹·未来幻想_光]|<img src="./pic/041977_%5B飞鸟穹·未来幻想_光%5D.png" height="60" alt="光"/>|[链接](https://i0.hdslb.com/bfs/garb/87debbd0665358ee88d8caa728b721fa3c79b2ba.png)|2023-08-18 20:00:00|
 |41978|[飞鸟穹·未来幻想_剑]|<img src="./pic/041978_%5B飞鸟穹·未来幻想_剑%5D.png" height="60" alt="剑"/>|[链接](https://i0.hdslb.com/bfs/garb/3c1ef8a7d6045a0647ee1f2f2daf60daffdee49a.png)|2023-08-18 20:00:00|
 |41979|[飞鸟穹·未来幻想_不可以]|<img src="./pic/041979_%5B飞鸟穹·未来幻想_不可以%5D.png" height="60" alt="不可以"/>|[链接](https://i0.hdslb.com/bfs/garb/dc6ac89b01ff89c5cb9052789f3925bdd65fc688.png)|2023-08-18 20:00:00|

@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|87741|[奶茶鼠秋日物语_燃了]|<img src="./pic/087741_%5B奶茶鼠秋日物语_燃了%5D.gif" height="60" alt="燃了"/>|[链接](https://i0.hdslb.com/bfs/garb/451d86cddea07b024db7b194d909bd8ae9061404.gif)|2024-09-30 18:55:00|
+|87741|[奶茶鼠秋日物语_燃了]|<img src="./pic/087741_%5B奶茶鼠秋日物语_燃了%5D.gif" height="60" alt="燃了"/>|[链接](https://i0.hdslb.com/bfs/garb/451d86cddea07b024db7b194d909bd8ae9061404.gif)|2024-10-01 09:55:00|
 |87742|[奶茶鼠秋日物语_比心]|<img src="./pic/087742_%5B奶茶鼠秋日物语_比心%5D.gif" height="60" alt="比心"/>|[链接](https://i0.hdslb.com/bfs/garb/dd331f740962947b3f400aaee2d9361c6c8b1f9d.gif)|2024-10-01 09:55:00|
 |87743|[奶茶鼠秋日物语_怒]|<img src="./pic/087743_%5B奶茶鼠秋日物语_怒%5D.gif" height="60" alt="怒"/>|[链接](https://i0.hdslb.com/bfs/garb/0cf708821e6985b8b5d3a78e82ab74e69724cc5f.gif)|2024-10-01 09:55:00|
 |87744|[奶茶鼠秋日物语_坚强]|<img src="./pic/087744_%5B奶茶鼠秋日物语_坚强%5D.gif" height="60" alt="坚强"/>|[链接](https://i0.hdslb.com/bfs/garb/f06616cbd6ae013757484a683833fb6e229f3fed.gif)|2024-10-01 09:55:00|
