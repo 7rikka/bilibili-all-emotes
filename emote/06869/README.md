@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|90744|[S赛-LNG表情包_LNG加油]|<img src="./pic/090744_%5BS赛-LNG表情包_LNG加油%5D.png" height="60" alt="LNG加油"/>|[链接](https://i0.hdslb.com/bfs/garb/e39e980bddf95fc019a8d5deb89881becad4849e.png)|2024-10-05 13:01:00|
-|90745|[S赛-LNG表情包_你人怪好嘞]|<img src="./pic/090745_%5BS赛-LNG表情包_你人怪好嘞%5D.png" height="60" alt="你人怪好嘞"/>|[链接](https://i0.hdslb.com/bfs/garb/8ebca3d2873680c31789fed05debfc482998a441.png)|2024-10-05 13:01:00|
+|90744|[S赛-LNG表情包_LNG加油]|<img src="./pic/090744_%5BS赛-LNG表情包_LNG加油%5D.png" height="60" alt="LNG加油"/>|[链接](https://i0.hdslb.com/bfs/garb/e39e980bddf95fc019a8d5deb89881becad4849e.png)|2024-10-04 18:01:00|
+|90745|[S赛-LNG表情包_你人怪好嘞]|<img src="./pic/090745_%5BS赛-LNG表情包_你人怪好嘞%5D.png" height="60" alt="你人怪好嘞"/>|[链接](https://i0.hdslb.com/bfs/garb/8ebca3d2873680c31789fed05debfc482998a441.png)|2024-10-04 18:01:00|
 |90746|[S赛-LNG表情包_你在干嘛]|<img src="./pic/090746_%5BS赛-LNG表情包_你在干嘛%5D.png" height="60" alt="你在干嘛"/>|[链接](https://i0.hdslb.com/bfs/garb/b6d0c96400c58a7012f9885a46b7841208fe01c2.png)|2024-10-04 18:01:00|
 |90747|[S赛-LNG表情包_牛]|<img src="./pic/090747_%5BS赛-LNG表情包_牛%5D.png" height="60" alt="牛"/>|[链接](https://i0.hdslb.com/bfs/garb/2bb14afeaa09aaf4939add74d487aaf7a953f76a.png)|2024-10-04 18:01:00|
 |90748|[S赛-LNG表情包_流汗]|<img src="./pic/090748_%5BS赛-LNG表情包_流汗%5D.png" height="60" alt="流汗"/>|[链接](https://i0.hdslb.com/bfs/garb/6069a933b07e2e3e1c6b4d4c572f01ab6bb03323.png)|2024-10-04 18:01:00|

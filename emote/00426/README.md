@@ -13,10 +13,10 @@
 |7235|[虚拟偶像男团MANTA_沉思]|<img src="./pic/007235_%5B虚拟偶像男团MANTA_沉思%5D.png" height="60" alt="沉思"/>|[链接](http://i0.hdslb.com/bfs/emote/9df115ae38f8ee793c2aa1e7582cbea42dd05fb6.png)|2022-07-08 14:33:23|
 |7236|[虚拟偶像男团MANTA_点赞]|<img src="./pic/007236_%5B虚拟偶像男团MANTA_点赞%5D.png" height="60" alt="点赞"/>|[链接](http://i0.hdslb.com/bfs/emote/caf65b1f104c164837d289c97ba5259c593b4fcd.png)|2022-07-08 14:33:23|
 |7237|[虚拟偶像男团MANTA_都不学习吗]|<img src="./pic/007237_%5B虚拟偶像男团MANTA_都不学习吗%5D.png" height="60" alt="都不学习吗"/>|[链接](http://i0.hdslb.com/bfs/emote/53a8ba3467c1971fa4a67759fe5af7f717e17ef3.png)|2022-07-08 14:33:23|
-|7238|[虚拟偶像男团MANTA_服了]|<img src="./pic/007238_%5B虚拟偶像男团MANTA_服了%5D.png" height="60" alt="服了"/>|[链接](http://i0.hdslb.com/bfs/emote/51f26f36f900be4c8fa6e0a6c00355d107e3c4d8.png)|2022-07-20 14:28:05|
+|7238|[虚拟偶像男团MANTA_服了]|<img src="./pic/007238_%5B虚拟偶像男团MANTA_服了%5D.png" height="60" alt="服了"/>|[链接](http://i0.hdslb.com/bfs/emote/51f26f36f900be4c8fa6e0a6c00355d107e3c4d8.png)|2022-07-08 14:33:23|
 |7239|[虚拟偶像男团MANTA_干杯]|<img src="./pic/007239_%5B虚拟偶像男团MANTA_干杯%5D.png" height="60" alt="干杯"/>|[链接](http://i0.hdslb.com/bfs/emote/bb3e42428ac66e12ef4df828707c7bb337447d5e.png)|2022-07-08 14:33:23|
-|7240|[虚拟偶像男团MANTA_乖巧]|<img src="./pic/007240_%5B虚拟偶像男团MANTA_乖巧%5D.png" height="60" alt="乖巧"/>|[链接](http://i0.hdslb.com/bfs/emote/42164f001f95674521bf0493f7ec1182f2b5575e.png)|2022-07-20 14:28:05|
-|7241|[虚拟偶像男团MANTA_晦气]|<img src="./pic/007241_%5B虚拟偶像男团MANTA_晦气%5D.png" height="60" alt="晦气"/>|[链接](http://i0.hdslb.com/bfs/emote/012c0dc6aa91376b963473f9a36c0505963ae557.png)|2022-07-20 14:28:05|
+|7240|[虚拟偶像男团MANTA_乖巧]|<img src="./pic/007240_%5B虚拟偶像男团MANTA_乖巧%5D.png" height="60" alt="乖巧"/>|[链接](http://i0.hdslb.com/bfs/emote/42164f001f95674521bf0493f7ec1182f2b5575e.png)|2022-07-08 14:33:23|
+|7241|[虚拟偶像男团MANTA_晦气]|<img src="./pic/007241_%5B虚拟偶像男团MANTA_晦气%5D.png" height="60" alt="晦气"/>|[链接](http://i0.hdslb.com/bfs/emote/012c0dc6aa91376b963473f9a36c0505963ae557.png)|2022-07-08 14:33:23|
 |7242|[虚拟偶像男团MANTA_火钳刘明]|<img src="./pic/007242_%5B虚拟偶像男团MANTA_火钳刘明%5D.png" height="60" alt="火钳刘明"/>|[链接](http://i0.hdslb.com/bfs/emote/778b5f0f949e0ddc552bccb94c1f2ce26d7b9e9c.png)|2022-07-08 14:33:23|
 |7243|[虚拟偶像男团MANTA_继续啊哥哥]|<img src="./pic/007243_%5B虚拟偶像男团MANTA_继续啊哥哥%5D.png" height="60" alt="继续啊哥哥"/>|[链接](http://i0.hdslb.com/bfs/emote/e543f69b6a5d119a87501e6013ddb2c186c61c38.png)|2022-07-08 14:33:23|
 |7244|[虚拟偶像男团MANTA_没钱]|<img src="./pic/007244_%5B虚拟偶像男团MANTA_没钱%5D.png" height="60" alt="没钱"/>|[链接](http://i0.hdslb.com/bfs/emote/e8ac232c57d41f3dd565cb93fc0a0c1b5afada0b.png)|2022-07-08 14:33:23|

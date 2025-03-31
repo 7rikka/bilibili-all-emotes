@@ -24,7 +24,7 @@
 |74614|[BW2024_舒服]|<img src="./pic/074614_%5BBW2024_舒服%5D.png" height="60" alt="舒服"/>|[链接](https://i0.hdslb.com/bfs/emote/1d899ec93b4c062f7ece3b7c46be20def24341b4.png)|2024-06-05 17:22:52|
 |74615|[BW2024_酸了]|<img src="./pic/074615_%5BBW2024_酸了%5D.png" height="60" alt="酸了"/>|[链接](https://i0.hdslb.com/bfs/emote/487752afb04ca64464591e426d3f7d89fd40c44d.png)|2024-06-05 17:22:52|
 |74616|[BW2024_投币]|<img src="./pic/074616_%5BBW2024_投币%5D.png" height="60" alt="投币"/>|[链接](https://i0.hdslb.com/bfs/emote/1a98fd3eda6778ef7b9bb2aebb8f97e188ca25d7.png)|2024-06-05 17:22:52|
-|74617|[BW2024_要完蛋了]|<img src="./pic/074617_%5BBW2024_要完蛋了%5D.png" height="60" alt="要完蛋了"/>|[链接](https://i0.hdslb.com/bfs/emote/8d20a466589652b61c65de10660d3835a1297b1a.png)|2024-06-05 17:22:00|
+|74617|[BW2024_要完蛋了]|<img src="./pic/074617_%5BBW2024_要完蛋了%5D.png" height="60" alt="要完蛋了"/>|[链接](https://i0.hdslb.com/bfs/emote/8d20a466589652b61c65de10660d3835a1297b1a.png)|2024-06-05 17:22:52|
 |74618|[BW2024_OK]|<img src="./pic/074618_%5BBW2024_OK%5D.png" height="60" alt="OK"/>|[链接](https://i0.hdslb.com/bfs/emote/ecd696896717f43fa675d9bb5c3880dc12e871f5.png)|2024-06-05 17:22:52|
 
 # 原始数据

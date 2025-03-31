@@ -20,7 +20,7 @@
 |5049|[奥特曼初升之光_我不服]|<img src="./pic/005049_%5B奥特曼初升之光_我不服%5D.png" height="60" alt="我不服"/>|[链接](http://i0.hdslb.com/bfs/emote/f662c242ae208fd2e71af0d7fd645b9089830f51.png)|2021-11-21 11:59:27|
 |5050|[奥特曼初升之光_嘻嘻]|<img src="./pic/005050_%5B奥特曼初升之光_嘻嘻%5D.png" height="60" alt="嘻嘻"/>|[链接](http://i0.hdslb.com/bfs/emote/ef24dcd1cab3228674795eb17aeddaa6c5e59634.png)|2021-11-21 11:59:27|
 |5051|[奥特曼初升之光_吓死]|<img src="./pic/005051_%5B奥特曼初升之光_吓死%5D.png" height="60" alt="吓死"/>|[链接](http://i0.hdslb.com/bfs/emote/65f8575e7cff05c1b37a3c2069b105e282c86625.png)|2021-11-21 11:59:27|
-|5052|[奥特曼初升之光_指定能行]|<img src="./pic/005052_%5B奥特曼初升之光_指定能行%5D.png" height="60" alt="指定能行"/>|[链接](http://i0.hdslb.com/bfs/emote/14d956d21bc503f72f6483812e639c3147a100d9.png)|2021-11-21 11:59:27|
+|5052|[奥特曼初升之光_指定能行]|<img src="./pic/005052_%5B奥特曼初升之光_指定能行%5D.png" height="60" alt="指定能行"/>|[链接](http://i0.hdslb.com/bfs/emote/14d956d21bc503f72f6483812e639c3147a100d9.png)|2021-11-29 16:48:51|
 
 # 原始数据
 

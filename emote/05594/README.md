@@ -25,7 +25,7 @@
 |82103|[豆泥餐厅表情包_不好意思]|<img src="./pic/082103_%5B豆泥餐厅表情包_不好意思%5D.png" height="60" alt="不好意思"/>|[链接](https://i0.hdslb.com/bfs/emote/38471f7e8c63113fd592de5512ba0ec299e77431.png)|2024-08-08 16:20:37|
 |82104|[豆泥餐厅表情包_精神恍惚]|<img src="./pic/082104_%5B豆泥餐厅表情包_精神恍惚%5D.png" height="60" alt="精神恍惚"/>|[链接](https://i0.hdslb.com/bfs/emote/902f9559fa76f0aa5bd456b9a971d82622109d08.png)|2024-08-08 16:20:37|
 |82105|[豆泥餐厅表情包_了解]|<img src="./pic/082105_%5B豆泥餐厅表情包_了解%5D.png" height="60" alt="了解"/>|[链接](https://i0.hdslb.com/bfs/emote/58f825881c3b08311185d344cad54369759fd11e.png)|2024-08-08 16:20:37|
-|82106|[豆泥餐厅表情包_贴贴]|<img src="./pic/082106_%5B豆泥餐厅表情包_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](https://i0.hdslb.com/bfs/emote/388dd780821851dfc5b5fa408f213fbbf98c0aee.png)|2024-08-08 16:20:37|
+|82106|[豆泥餐厅表情包_贴贴]|<img src="./pic/082106_%5B豆泥餐厅表情包_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](https://i0.hdslb.com/bfs/emote/388dd780821851dfc5b5fa408f213fbbf98c0aee.png)|2024-08-07 19:12:09|
 
 # 原始数据
 

@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |47556|[MTG收藏集_笔芯]|<img src="./pic/047556_%5BMTG收藏集_笔芯%5D.png" height="60" alt="笔芯"/>|[链接](https://i0.hdslb.com/bfs/emote/f5201f975a6760cd91de7d8d161519971e5409de.png)|2023-09-25 17:56:28|
-|47557|[MTG收藏集_冲冲冲]|<img src="./pic/047557_%5BMTG收藏集_冲冲冲%5D.png" height="60" alt="冲冲冲"/>|[链接](https://i0.hdslb.com/bfs/emote/533f90c2f22de894053e5759c862379b901143c0.png)|2023-09-26 00:00:00|
+|47557|[MTG收藏集_冲冲冲]|<img src="./pic/047557_%5BMTG收藏集_冲冲冲%5D.png" height="60" alt="冲冲冲"/>|[链接](https://i0.hdslb.com/bfs/emote/533f90c2f22de894053e5759c862379b901143c0.png)|2023-09-25 17:56:28|
 |47558|[MTG收藏集_方了]|<img src="./pic/047558_%5BMTG收藏集_方了%5D.png" height="60" alt="方了"/>|[链接](https://i0.hdslb.com/bfs/emote/9d1b68b677e52896b4b3c46a3b5b3b5a1621a7be.png)|2023-09-25 17:56:28|
 |47559|[MTG收藏集_佛系]|<img src="./pic/047559_%5BMTG收藏集_佛系%5D.png" height="60" alt="佛系"/>|[链接](https://i0.hdslb.com/bfs/emote/8e7d0994155991159d01764e8d4aa230178ce91b.png)|2023-09-25 17:56:28|
 |47560|[MTG收藏集_狗头]|<img src="./pic/047560_%5BMTG收藏集_狗头%5D.png" height="60" alt="狗头"/>|[链接](https://i0.hdslb.com/bfs/emote/47e952f5551f57d59bd959cd0ab229161ebead30.png)|2023-09-25 17:56:28|

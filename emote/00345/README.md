@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|6387|[张AiNi和老E_ICU]|<img src="./pic/006387_%5B张AiNi和老E_ICU%5D.png" height="60" alt="ICU"/>|[链接](http://i0.hdslb.com/bfs/emote/38ab64020cdbc8853456a03ce5eafcfac7226369.png)|2022-05-07 17:11:50|
+|6387|[张AiNi和老E_ICU]|<img src="./pic/006387_%5B张AiNi和老E_ICU%5D.png" height="60" alt="ICU"/>|[链接](http://i0.hdslb.com/bfs/emote/38ab64020cdbc8853456a03ce5eafcfac7226369.png)|2022-12-16 12:03:54|
 |6388|[张AiNi和老E_showshowway]|<img src="./pic/006388_%5B张AiNi和老E_showshowway%5D.png" height="60" alt="showshowway"/>|[链接](http://i0.hdslb.com/bfs/emote/b51b43030b04542a460755b7896baba1718b7718.png)|2022-05-07 17:11:50|
 |6389|[张AiNi和老E_暗中观察]|<img src="./pic/006389_%5B张AiNi和老E_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](http://i0.hdslb.com/bfs/emote/468cca3d629981a5df6e281b146ec8a593695f0e.png)|2022-05-07 17:11:50|
 |6390|[张AiNi和老E_冲锋]|<img src="./pic/006390_%5B张AiNi和老E_冲锋%5D.png" height="60" alt="冲锋"/>|[链接](http://i0.hdslb.com/bfs/emote/4fd090a25f2f6d87c942d374540206abcaed1ace.png)|2022-05-07 17:11:50|

@@ -21,9 +21,9 @@
 |82803|[波呜咘的日常_不能买了]|<img src="./pic/082803_%5B波呜咘的日常_不能买了%5D.png" height="60" alt="不能买了"/>|[链接](https://i0.hdslb.com/bfs/garb/c56e17428a21f75ad81507c1cbd4eece02a33f01.png)|2024-08-14 12:55:00|
 |82804|[波呜咘的日常_买买买]|<img src="./pic/082804_%5B波呜咘的日常_买买买%5D.png" height="60" alt="买买买"/>|[链接](https://i0.hdslb.com/bfs/garb/6f6e4be9845a8098d0eafeb470649fd52ad9abaf.png)|2024-08-14 12:55:00|
 |82805|[波呜咘的日常_休息]|<img src="./pic/082805_%5B波呜咘的日常_休息%5D.png" height="60" alt="休息"/>|[链接](https://i0.hdslb.com/bfs/garb/94c227bca02ac96e56579cebb388cbd2cbd92b8e.png)|2024-08-14 12:55:00|
-|82806|[波呜咘的日常_谢谢]|<img src="./pic/082806_%5B波呜咘的日常_谢谢%5D.png" height="60" alt="谢谢"/>|[链接](https://i0.hdslb.com/bfs/garb/9b13197245f343729698ab18d18926f76f6aac29.png)|2024-08-16 10:59:41|
-|82807|[波呜咘的日常_安慰]|<img src="./pic/082807_%5B波呜咘的日常_安慰%5D.png" height="60" alt="安慰"/>|[链接](https://i0.hdslb.com/bfs/garb/6cd5f6bf9edcf22e9eb891a9252bed519beef51f.png)|2024-08-16 10:59:41|
-|82808|[波呜咘的日常_赚钱]|<img src="./pic/082808_%5B波呜咘的日常_赚钱%5D.png" height="60" alt="赚钱"/>|[链接](https://i0.hdslb.com/bfs/garb/4ff7d6469b28c59edfeb451089a1e4f3475e7752.png)|2024-08-16 10:59:41|
+|82806|[波呜咘的日常_谢谢]|<img src="./pic/082806_%5B波呜咘的日常_谢谢%5D.png" height="60" alt="谢谢"/>|[链接](https://i0.hdslb.com/bfs/garb/9b13197245f343729698ab18d18926f76f6aac29.png)|2024-08-14 12:55:00|
+|82807|[波呜咘的日常_安慰]|<img src="./pic/082807_%5B波呜咘的日常_安慰%5D.png" height="60" alt="安慰"/>|[链接](https://i0.hdslb.com/bfs/garb/6cd5f6bf9edcf22e9eb891a9252bed519beef51f.png)|2024-08-14 12:55:00|
+|82808|[波呜咘的日常_赚钱]|<img src="./pic/082808_%5B波呜咘的日常_赚钱%5D.png" height="60" alt="赚钱"/>|[链接](https://i0.hdslb.com/bfs/garb/4ff7d6469b28c59edfeb451089a1e4f3475e7752.png)|2024-08-14 12:55:00|
 |82809|[波呜咘的日常_都是我的]|<img src="./pic/082809_%5B波呜咘的日常_都是我的%5D.png" height="60" alt="都是我的"/>|[链接](https://i0.hdslb.com/bfs/garb/1dc571aa99f8033d7d55403367f4c24e599a716a.png)|2024-08-14 12:55:00|
 |82810|[波呜咘的日常_哇]|<img src="./pic/082810_%5B波呜咘的日常_哇%5D.png" height="60" alt="哇"/>|[链接](https://i0.hdslb.com/bfs/garb/0b15f61f02adc7ae1e1fa8bb4d844050335c287d.png)|2024-08-14 12:55:00|
 

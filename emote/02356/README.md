@@ -10,7 +10,7 @@
 |41310|[人格贴纸-ENFP_强大]|<img src="./pic/041310_%5B人格贴纸-ENFP_强大%5D.png" height="60" alt="强大"/>|[链接](https://i0.hdslb.com/bfs/garb/de14e3acd5b5e86d10823f4611506f481b9c0d35.png)|2023-08-16 19:28:10|
 |41311|[人格贴纸-ENFP_弱小]|<img src="./pic/041311_%5B人格贴纸-ENFP_弱小%5D.png" height="60" alt="弱小"/>|[链接](https://i0.hdslb.com/bfs/garb/d75f9c5a3124209af0ba1a61ce1cee32cc43cb99.png)|2023-08-16 19:28:10|
 |41312|[人格贴纸-ENFP_盯]|<img src="./pic/041312_%5B人格贴纸-ENFP_盯%5D.png" height="60" alt="盯"/>|[链接](https://i0.hdslb.com/bfs/garb/88805a9ed0df32196ff0617bd23774ba1e692188.png)|2023-08-16 19:28:10|
-|41313|[人格贴纸-ENFP_诶嘿嘿嘿]|<img src="./pic/041313_%5B人格贴纸-ENFP_诶嘿嘿嘿%5D.png" height="60" alt="诶嘿嘿嘿"/>|[链接](https://i0.hdslb.com/bfs/garb/4eb6cc597a4d33ffb63839d9fb6f2aa1ab254799.png)|2023-08-15 19:00:20|
+|41313|[人格贴纸-ENFP_诶嘿嘿嘿]|<img src="./pic/041313_%5B人格贴纸-ENFP_诶嘿嘿嘿%5D.png" height="60" alt="诶嘿嘿嘿"/>|[链接](https://i0.hdslb.com/bfs/garb/4eb6cc597a4d33ffb63839d9fb6f2aa1ab254799.png)|2023-08-16 19:28:10|
 |41314|[人格贴纸-ENFP_开心]|<img src="./pic/041314_%5B人格贴纸-ENFP_开心%5D.png" height="60" alt="开心"/>|[链接](https://i0.hdslb.com/bfs/garb/0b60617de3d71660c6787195299a3319abd41188.png)|2023-08-16 19:28:10|
 |41315|[人格贴纸-ENFP_交个朋友]|<img src="./pic/041315_%5B人格贴纸-ENFP_交个朋友%5D.png" height="60" alt="交个朋友"/>|[链接](https://i0.hdslb.com/bfs/garb/9e257ce9b1d9e1b3b44984d0dbc5c121f0f4c64c.png)|2023-08-16 19:28:10|
 |41316|[人格贴纸-ENFP_呵呵]|<img src="./pic/041316_%5B人格贴纸-ENFP_呵呵%5D.png" height="60" alt="呵呵"/>|[链接](https://i0.hdslb.com/bfs/garb/85d84f4d60c3d361ce20602adc329e85fed8533d.png)|2023-08-16 19:28:10|

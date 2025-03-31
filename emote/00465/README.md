@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |8123|[仙剑七_比心]|<img src="./pic/008123_%5B仙剑七_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/20fa45e3a59932f13e61b9288fc362f8dc5dd11e.png)|2022-08-03 15:17:35|
-|8124|[仙剑七_吃瓜]|<img src="./pic/008124_%5B仙剑七_吃瓜%5D.png" height="60" alt="吃瓜"/>|[链接](http://i0.hdslb.com/bfs/emote/6b3df6e68b6009cc015392655ce5ed7e9fa07678.png)|2022-08-03 15:17:35|
+|8124|[仙剑七_吃瓜]|<img src="./pic/008124_%5B仙剑七_吃瓜%5D.png" height="60" alt="吃瓜"/>|[链接](http://i0.hdslb.com/bfs/emote/6b3df6e68b6009cc015392655ce5ed7e9fa07678.png)|2022-08-12 11:19:29|
 |8125|[仙剑七_传]|<img src="./pic/008125_%5B仙剑七_传%5D.png" height="60" alt="传"/>|[链接](http://i0.hdslb.com/bfs/emote/dcd2b5ffa8f225e173bea31d8783c368a63cc949.png)|2022-08-03 15:17:35|
 |8126|[仙剑七_尴尬]|<img src="./pic/008126_%5B仙剑七_尴尬%5D.png" height="60" alt="尴尬"/>|[链接](http://i0.hdslb.com/bfs/emote/e8b9275d22ddd739dc40938b51fa9749cc5769b3.png)|2022-08-03 15:17:35|
 |8127|[仙剑七_感谢]|<img src="./pic/008127_%5B仙剑七_感谢%5D.png" height="60" alt="感谢"/>|[链接](http://i0.hdslb.com/bfs/emote/d50c7971aff274951aa3d7c1575d4367c3169cef.png)|2022-08-03 15:17:35|

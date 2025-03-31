@@ -17,7 +17,7 @@
 |47524|[酷酷草莓熊 表情包_学习]|<img src="./pic/047524_%5B酷酷草莓熊 表情包_学习%5D.png" height="60" alt="学习"/>|[链接](https://i0.hdslb.com/bfs/garb/ee06260d95c8fbe798568bdc7ec3517ac8a91df6.png)|2023-09-25 15:16:00|
 |47525|[酷酷草莓熊 表情包_禁止摸鱼]|<img src="./pic/047525_%5B酷酷草莓熊 表情包_禁止摸鱼%5D.png" height="60" alt="禁止摸鱼"/>|[链接](https://i0.hdslb.com/bfs/garb/6e3accb75c8c30dbbbe7d18f02cef3ff19eb3216.png)|2023-09-25 15:16:00|
 |47526|[酷酷草莓熊 表情包_嗨]|<img src="./pic/047526_%5B酷酷草莓熊 表情包_嗨%5D.png" height="60" alt="嗨"/>|[链接](https://i0.hdslb.com/bfs/garb/7aed52194eebc05574d5037601dd2cf4cb177a2c.png)|2023-09-25 15:16:00|
-|47527|[酷酷草莓熊 表情包_期待]|<img src="./pic/047527_%5B酷酷草莓熊 表情包_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/garb/4897f3349d7c7e0c37d86bb3038d3f397f651556.png)|2023-09-25 15:16:30|
+|47527|[酷酷草莓熊 表情包_期待]|<img src="./pic/047527_%5B酷酷草莓熊 表情包_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/garb/4897f3349d7c7e0c37d86bb3038d3f397f651556.png)|2023-09-25 15:16:00|
 |47528|[酷酷草莓熊 表情包_啊哈]|<img src="./pic/047528_%5B酷酷草莓熊 表情包_啊哈%5D.png" height="60" alt="啊哈"/>|[链接](https://i0.hdslb.com/bfs/garb/8d1214d7f6e426b0e24674d71fd8f9357e09cdc5.png)|2023-09-25 15:16:00|
 |47529|[酷酷草莓熊 表情包_好的]|<img src="./pic/047529_%5B酷酷草莓熊 表情包_好的%5D.png" height="60" alt="好的"/>|[链接](https://i0.hdslb.com/bfs/garb/0eae3a0004e770bd999d41c9d0f86f38014ee8c2.png)|2023-09-25 15:16:00|
 |47530|[酷酷草莓熊 表情包_来点？]|<img src="./pic/047530_%5B酷酷草莓熊 表情包_来点？%5D.png" height="60" alt="来点？"/>|[链接](https://i0.hdslb.com/bfs/garb/9a5b013c1e69c3e2f840b6575d2ff983507c0c21.png)|2023-09-25 15:16:00|

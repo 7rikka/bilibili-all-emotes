@@ -17,8 +17,8 @@
 |90837|[诛仙_打call]|<img src="./pic/090837_%5B诛仙_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/04c252f0ec855909110096bcccf1847df74f7b65.png)|2024-10-05 13:01:00|
 |90838|[诛仙_委屈]|<img src="./pic/090838_%5B诛仙_委屈%5D.png" height="60" alt="委屈"/>|[链接](https://i0.hdslb.com/bfs/garb/aa690516af1cfd13b177fb0fb30815a8638d4824.png)|2024-10-05 13:01:00|
 |90839|[诛仙_祈祷]|<img src="./pic/090839_%5B诛仙_祈祷%5D.png" height="60" alt="祈祷"/>|[链接](https://i0.hdslb.com/bfs/garb/bdf188a9d9a50696cd9df5aa32e0c1b9cac1031b.png)|2024-10-05 13:01:00|
-|90840|[诛仙_一键三连]|<img src="./pic/090840_%5B诛仙_一键三连%5D.png" height="60" alt="一键三连"/>|[链接](https://i0.hdslb.com/bfs/garb/b510f5891c184fd71aa37a0704398d51ee7dbef3.png)|2024-10-04 18:01:00|
-|90841|[诛仙_贴贴]|<img src="./pic/090841_%5B诛仙_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](https://i0.hdslb.com/bfs/garb/7e4984a85aa49080ab2d1a5d58f0fa536368e686.png)|2024-10-04 18:01:00|
+|90840|[诛仙_一键三连]|<img src="./pic/090840_%5B诛仙_一键三连%5D.png" height="60" alt="一键三连"/>|[链接](https://i0.hdslb.com/bfs/garb/b510f5891c184fd71aa37a0704398d51ee7dbef3.png)|2024-10-05 13:01:00|
+|90841|[诛仙_贴贴]|<img src="./pic/090841_%5B诛仙_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](https://i0.hdslb.com/bfs/garb/7e4984a85aa49080ab2d1a5d58f0fa536368e686.png)|2024-10-05 13:01:00|
 |90842|[诛仙_帅气登场]|<img src="./pic/090842_%5B诛仙_帅气登场%5D.png" height="60" alt="帅气登场"/>|[链接](https://i0.hdslb.com/bfs/garb/d99ac40160cc527e7ddf7b77a94bce719cedbe70.png)|2024-10-05 13:01:00|
 |90843|[诛仙_抱抱]|<img src="./pic/090843_%5B诛仙_抱抱%5D.png" height="60" alt="抱抱"/>|[链接](https://i0.hdslb.com/bfs/garb/7a7227f45c0f0011161f4b2b04089d18b69b3d27.png)|2024-10-05 13:01:00|
 

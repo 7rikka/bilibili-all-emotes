@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|28097|[唐老鸭_走咯]|<img src="./pic/028097_%5B唐老鸭_走咯%5D.png" height="60" alt="走咯"/>|[链接](https://i0.hdslb.com/bfs/emote/adcaa07c85bfed33918e5756c1a1e5b79a20d919.png)|2023-05-16 16:13:27|
+|28097|[唐老鸭_走咯]|<img src="./pic/028097_%5B唐老鸭_走咯%5D.png" height="60" alt="走咯"/>|[链接](https://i0.hdslb.com/bfs/emote/adcaa07c85bfed33918e5756c1a1e5b79a20d919.png)|2023-05-16 11:26:50|
 |28098|[唐老鸭_比划比划]|<img src="./pic/028098_%5B唐老鸭_比划比划%5D.png" height="60" alt="比划比划"/>|[链接](https://i0.hdslb.com/bfs/emote/17a6863298a97e42d5595f96fdc135a4d13a971f.png)|2023-05-16 16:13:27|
 |28099|[唐老鸭_给我看看]|<img src="./pic/028099_%5B唐老鸭_给我看看%5D.png" height="60" alt="给我看看"/>|[链接](https://i0.hdslb.com/bfs/emote/1f901a1ea39c8e2db04cf5bd4fd1b0083e805c13.png)|2023-05-16 16:13:27|
 |28100|[唐老鸭_哈哈哈]|<img src="./pic/028100_%5B唐老鸭_哈哈哈%5D.png" height="60" alt="哈哈哈"/>|[链接](https://i0.hdslb.com/bfs/emote/18ba882799e6e38acb9b47759566fb64689c5f80.png)|2023-05-16 16:13:27|

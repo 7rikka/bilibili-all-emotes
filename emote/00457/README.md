@@ -21,7 +21,7 @@
 |7982|[Luca_脸红]|<img src="./pic/007982_%5BLuca_脸红%5D.png" height="60" alt="脸红"/>|[链接](http://i0.hdslb.com/bfs/emote/a83358c92d366fc3e722f506b30dea2046eafcb0.png)|2022-07-29 11:46:24|
 |7983|[Luca_晕厥]|<img src="./pic/007983_%5BLuca_晕厥%5D.png" height="60" alt="晕厥"/>|[链接](http://i0.hdslb.com/bfs/emote/86ff7ed16fb9e6df62c2c51c8a56bf6485c13286.png)|2022-07-29 11:46:24|
 |7984|[Luca_打call]|<img src="./pic/007984_%5BLuca_打call%5D.png" height="60" alt="打call"/>|[链接](http://i0.hdslb.com/bfs/emote/e2e2d56e5e05aaefeee5c3fbb352cf5978e7a36f.png)|2022-07-29 11:46:24|
-|7985|[Luca_拜托]|<img src="./pic/007985_%5BLuca_拜托%5D.png" height="60" alt="拜托"/>|[链接](http://i0.hdslb.com/bfs/emote/824a8cf1db276164601064297b98c2f4e1882ab6.png)|2022-07-27 19:22:19|
+|7985|[Luca_拜托]|<img src="./pic/007985_%5BLuca_拜托%5D.png" height="60" alt="拜托"/>|[链接](http://i0.hdslb.com/bfs/emote/824a8cf1db276164601064297b98c2f4e1882ab6.png)|2022-07-29 11:46:24|
 |7986|[Luca_可疑]|<img src="./pic/007986_%5BLuca_可疑%5D.png" height="60" alt="可疑"/>|[链接](http://i0.hdslb.com/bfs/emote/a48929de6f2179e9762fb123ad57d82e86c03a9e.png)|2022-07-29 11:46:24|
 |7987|[Luca_一起锻炼！]|<img src="./pic/007987_%5BLuca_一起锻炼！%5D.png" height="60" alt="一起锻炼！"/>|[链接](http://i0.hdslb.com/bfs/emote/d47609020def4f137d4b18bf8b04573beee060c8.png)|2022-07-29 11:46:24|
 |7988|[Luca_TSKR]|<img src="./pic/007988_%5BLuca_TSKR%5D.png" height="60" alt="TSKR"/>|[链接](http://i0.hdslb.com/bfs/emote/021a76de25d8c5d5e7f4266fb3bc7177ac0ae46d.png)|2022-07-29 11:46:24|

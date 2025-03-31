@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|75780|[ENTP学长_想都别想]|<img src="./pic/075780_%5BENTP学长_想都别想%5D.png" height="60" alt="想都别想"/>|[链接](https://i0.hdslb.com/bfs/garb/e5148aff2b0cae686fde809d5904fd61e56967c1.png)|2024-06-18 11:17:00|
+|75780|[ENTP学长_想都别想]|<img src="./pic/075780_%5BENTP学长_想都别想%5D.png" height="60" alt="想都别想"/>|[链接](https://i0.hdslb.com/bfs/garb/e5148aff2b0cae686fde809d5904fd61e56967c1.png)|2024-06-16 18:00:00|
 |75781|[ENTP学长_你听我解释]|<img src="./pic/075781_%5BENTP学长_你听我解释%5D.png" height="60" alt="你听我解释"/>|[链接](https://i0.hdslb.com/bfs/garb/946e7cbcf8dc6420576e17113bc9566c65b980e6.png)|2024-06-18 11:17:00|
 |75782|[ENTP学长_切尔斯]|<img src="./pic/075782_%5BENTP学长_切尔斯%5D.png" height="60" alt="切尔斯"/>|[链接](https://i0.hdslb.com/bfs/garb/2260048a6a6b904487f5415a1ca767bc6de2c57b.png)|2024-06-18 11:17:00|
 |75783|[ENTP学长_我在思考]|<img src="./pic/075783_%5BENTP学长_我在思考%5D.png" height="60" alt="我在思考"/>|[链接](https://i0.hdslb.com/bfs/garb/a8de6071fe6b6f5865ccda72de2d9035ae9752f2.png)|2024-06-18 11:17:00|

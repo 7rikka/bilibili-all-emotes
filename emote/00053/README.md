@@ -112,6 +112,7 @@
 |100820|[热词系列_好人好抱]|<img src="./pic/100820_%5B热词系列_好人好抱%5D.png" height="60" alt="好人好抱"/>|[链接](https://i0.hdslb.com/bfs/emote/5131c2fddf5d4857b26b0a1e98e6d626f64f7d25.png)|2025-01-13 15:35:30|
 |100821|[热词系列_接好运]|<img src="./pic/100821_%5B热词系列_接好运%5D.png" height="60" alt="接好运"/>|[链接](https://i0.hdslb.com/bfs/emote/8dde1762a7647992ec1e055f86c8bf91f5bdc05b.png)|2025-01-13 15:35:30|
 |102630|[热词系列_再给一集]|<img src="./pic/102630_%5B热词系列_再给一集%5D.png" height="60" alt="再给一集"/>|[链接](https://i0.hdslb.com/bfs/emote/9f5e7d6a2d6171f8a96b9d112cc97278eaf5acca.png)|2025-01-24 17:58:37|
+|107279|[热词系列_赛博考古]|<img src="./pic/107279_%5B热词系列_赛博考古%5D.png" height="60" alt="赛博考古"/>|[链接](https://i0.hdslb.com/bfs/emote/590a6fdc7f0af07363975cf2e17a5f9972968891.png)|2025-03-31 19:05:56|
 
 # 原始数据
 

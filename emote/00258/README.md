@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|4287|[狮子座_傲娇女王]|<img src="./pic/004287_%5B狮子座_傲娇女王%5D.png" height="60" alt="傲娇女王"/>|[链接](http://i0.hdslb.com/bfs/emote/f28c30d499c300dfa6b0ca4590e07e24633cc5cf.png)|2021-07-22 16:50:03|
+|4287|[狮子座_傲娇女王]|<img src="./pic/004287_%5B狮子座_傲娇女王%5D.png" height="60" alt="傲娇女王"/>|[链接](http://i0.hdslb.com/bfs/emote/f28c30d499c300dfa6b0ca4590e07e24633cc5cf.png)|2021-07-09 16:50:21|
 |4288|[狮子座_本王准了]|<img src="./pic/004288_%5B狮子座_本王准了%5D.png" height="60" alt="本王准了"/>|[链接](http://i0.hdslb.com/bfs/emote/2bccc14573692101c5b5aa78670413f35764297f.png)|2021-07-22 16:50:03|
 |4289|[狮子座_啃一口]|<img src="./pic/004289_%5B狮子座_啃一口%5D.png" height="60" alt="啃一口"/>|[链接](http://i0.hdslb.com/bfs/emote/173de2d5ca70c685ecc716191dd95e0f620a813b.png)|2021-07-22 16:50:03|
 |4290|[狮子座_买！]|<img src="./pic/004290_%5B狮子座_买！%5D.png" height="60" alt="买！"/>|[链接](http://i0.hdslb.com/bfs/emote/399e6aab84ed179bed6ea0d95350a3ae036ed327.png)|2021-07-22 16:50:03|

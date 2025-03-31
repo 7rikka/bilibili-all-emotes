@@ -18,7 +18,7 @@
 |65494|[自愿上学_是否开学]|<img src="./pic/065494_%5B自愿上学_是否开学%5D.png" height="60" alt="是否开学"/>|[链接](https://i0.hdslb.com/bfs/garb/9427308b8002f4e5096051ded6b6253195a7bba5.png)|2024-02-28 11:39:50|
 |65495|[自愿上学_佛]|<img src="./pic/065495_%5B自愿上学_佛%5D.png" height="60" alt="佛"/>|[链接](https://i0.hdslb.com/bfs/garb/6de7f7dd730873b8ad050e9213269d10b3827107.png)|2024-02-28 11:39:50|
 |65496|[自愿上学_跨入学校]|<img src="./pic/065496_%5B自愿上学_跨入学校%5D.png" height="60" alt="跨入学校"/>|[链接](https://i0.hdslb.com/bfs/garb/c41e574daee38a62000a42d27ee3477e1b416728.png)|2024-02-28 11:39:50|
-|65497|[自愿上学_精神抖擞]|<img src="./pic/065497_%5B自愿上学_精神抖擞%5D.png" height="60" alt="精神抖擞"/>|[链接](https://i0.hdslb.com/bfs/garb/4a9db405fcb424e30bc8ea6214d7171a84bc64ba.png)|2024-02-29 12:01:00|
+|65497|[自愿上学_精神抖擞]|<img src="./pic/065497_%5B自愿上学_精神抖擞%5D.png" height="60" alt="精神抖擞"/>|[链接](https://i0.hdslb.com/bfs/garb/4a9db405fcb424e30bc8ea6214d7171a84bc64ba.png)|2024-02-28 11:39:50|
 |65498|[自愿上学_睁大眼睛]|<img src="./pic/065498_%5B自愿上学_睁大眼睛%5D.png" height="60" alt="睁大眼睛"/>|[链接](https://i0.hdslb.com/bfs/garb/9751e2cd78975ad3072775888abe05b51b758631.png)|2024-02-28 11:39:50|
 |65499|[自愿上学_不堪一击]|<img src="./pic/065499_%5B自愿上学_不堪一击%5D.png" height="60" alt="不堪一击"/>|[链接](https://i0.hdslb.com/bfs/garb/f5aabd37e1a3da8a51cc68f9fd0b86cf1e250166.png)|2024-02-28 11:39:50|
 

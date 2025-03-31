@@ -6,10 +6,10 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|3060|[2233塔罗牌_？？？]|<img src="./pic/003060_%5B2233塔罗牌_？？？%5D.png" height="60" alt="？？？"/>|[链接](http://i0.hdslb.com/bfs/emote/cd9e2f8f66d2815a3263a1e7044e9ffccf4892f0.png)|2020-12-30 14:36:20|
-|3061|[2233塔罗牌_666]|<img src="./pic/003061_%5B2233塔罗牌_666%5D.png" height="60" alt="666"/>|[链接](http://i0.hdslb.com/bfs/emote/702909450c6a6cc6415afba2be945964ac4a2b98.png)|2021-01-07 18:02:51|
-|3062|[2233塔罗牌_AWSL]|<img src="./pic/003062_%5B2233塔罗牌_AWSL%5D.png" height="60" alt="AWSL"/>|[链接](http://i0.hdslb.com/bfs/emote/fe02bd118c526c9edbe239f622ffe3da285574c2.png)|2020-12-30 14:36:20|
-|3063|[2233塔罗牌_奥利给]|<img src="./pic/003063_%5B2233塔罗牌_奥利给%5D.png" height="60" alt="奥利给"/>|[链接](http://i0.hdslb.com/bfs/emote/195e4d4f78b852ecb8b653b2b45b6cc909a8d636.png)|2021-01-07 18:02:51|
+|3060|[2233塔罗牌_？？？]|<img src="./pic/003060_%5B2233塔罗牌_？？？%5D.png" height="60" alt="？？？"/>|[链接](http://i0.hdslb.com/bfs/emote/cd9e2f8f66d2815a3263a1e7044e9ffccf4892f0.png)|2020-12-17 17:15:49|
+|3061|[2233塔罗牌_666]|<img src="./pic/003061_%5B2233塔罗牌_666%5D.png" height="60" alt="666"/>|[链接](http://i0.hdslb.com/bfs/emote/702909450c6a6cc6415afba2be945964ac4a2b98.png)|2020-12-30 14:36:20|
+|3062|[2233塔罗牌_AWSL]|<img src="./pic/003062_%5B2233塔罗牌_AWSL%5D.png" height="60" alt="AWSL"/>|[链接](http://i0.hdslb.com/bfs/emote/fe02bd118c526c9edbe239f622ffe3da285574c2.png)|2020-12-17 17:15:49|
+|3063|[2233塔罗牌_奥利给]|<img src="./pic/003063_%5B2233塔罗牌_奥利给%5D.png" height="60" alt="奥利给"/>|[链接](http://i0.hdslb.com/bfs/emote/195e4d4f78b852ecb8b653b2b45b6cc909a8d636.png)|2020-12-30 14:36:20|
 |3064|[2233塔罗牌_比心心]|<img src="./pic/003064_%5B2233塔罗牌_比心心%5D.png" height="60" alt="比心心"/>|[链接](http://i0.hdslb.com/bfs/emote/c6861cbae570ffc667b94dd614396e5fb969e51f.png)|2020-12-30 14:36:20|
 |3065|[2233塔罗牌_不愧是我]|<img src="./pic/003065_%5B2233塔罗牌_不愧是我%5D.png" height="60" alt="不愧是我"/>|[链接](http://i0.hdslb.com/bfs/emote/951793068ac46241d45f8fd195e7ae5560b86512.png)|2020-12-30 14:36:20|
 |3066|[2233塔罗牌_不约]|<img src="./pic/003066_%5B2233塔罗牌_不约%5D.png" height="60" alt="不约"/>|[链接](http://i0.hdslb.com/bfs/emote/292a4f96bcac50691a80b137fe24959258814296.png)|2020-12-30 14:36:20|

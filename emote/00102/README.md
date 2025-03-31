@@ -13,7 +13,7 @@
 |2217|[言和7th_一键三连]|<img src="./pic/002217_%5B言和7th_一键三连%5D.png" height="60" alt="一键三连"/>|[链接](http://i0.hdslb.com/bfs/emote/033d7dbfd814d9e7baa69a63137157f4b9032b5f.png)|2021-08-10 17:29:48|
 |2218|[言和7th_捶你胸口]|<img src="./pic/002218_%5B言和7th_捶你胸口%5D.png" height="60" alt="捶你胸口"/>|[链接](http://i0.hdslb.com/bfs/emote/ad5ce66b4480044c31bbc23598f4209e6be2275d.png)|2021-08-10 17:29:48|
 |2219|[言和7th_期待]|<img src="./pic/002219_%5B言和7th_期待%5D.png" height="60" alt="期待"/>|[链接](http://i0.hdslb.com/bfs/emote/4d520d8bd5cd2924548a67a96afb898440789fc1.png)|2021-08-10 17:29:48|
-|2220|[言和7th_小fafa]|<img src="./pic/002220_%5B言和7th_小fafa%5D.png" height="60" alt="小fafa"/>|[链接](http://i0.hdslb.com/bfs/emote/efcc742e4c202f631162d6fdfb6e3cbb52a0871b.png)|2021-08-10 17:29:48|
+|2220|[言和7th_小fafa]|<img src="./pic/002220_%5B言和7th_小fafa%5D.png" height="60" alt="小fafa"/>|[链接](http://i0.hdslb.com/bfs/emote/efcc742e4c202f631162d6fdfb6e3cbb52a0871b.png)|2021-08-10 17:29:10|
 |2221|[言和7th_不行]|<img src="./pic/002221_%5B言和7th_不行%5D.png" height="60" alt="不行"/>|[链接](http://i0.hdslb.com/bfs/emote/76ae33697d1942cfbb825acdfdd3de8826dbf10e.png)|2021-08-10 17:29:48|
 |2222|[言和7th_梦里都有]|<img src="./pic/002222_%5B言和7th_梦里都有%5D.png" height="60" alt="梦里都有"/>|[链接](http://i0.hdslb.com/bfs/emote/c8c714cbaf4022b71c8b8d0e0e374f08865011cf.png)|2021-08-10 17:29:48|
 

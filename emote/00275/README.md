@@ -20,7 +20,7 @@
 |4576|[萌宠狗狗_贴贴]|<img src="./pic/004576_%5B萌宠狗狗_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](http://i0.hdslb.com/bfs/emote/07f31d1e2797491ae5b4a07b3fc10fe06a680903.png)|2021-08-31 16:35:02|
 |4577|[萌宠狗狗_吐舌]|<img src="./pic/004577_%5B萌宠狗狗_吐舌%5D.png" height="60" alt="吐舌"/>|[链接](http://i0.hdslb.com/bfs/emote/c37534019f514c99f30291ecd341bb97bcadcaea.png)|2021-08-31 16:35:02|
 |4578|[萌宠狗狗_先睡了]|<img src="./pic/004578_%5B萌宠狗狗_先睡了%5D.png" height="60" alt="先睡了"/>|[链接](http://i0.hdslb.com/bfs/emote/33334945029a33c54539341c037a57cdb647aab0.png)|2021-08-31 16:35:02|
-|4579|[萌宠狗狗_主人！]|<img src="./pic/004579_%5B萌宠狗狗_主人！%5D.png" height="60" alt="主人！"/>|[链接](http://i0.hdslb.com/bfs/emote/194daf7a66e601bc67e202213615e03cba032e59.png)|2021-08-26 19:41:41|
+|4579|[萌宠狗狗_主人！]|<img src="./pic/004579_%5B萌宠狗狗_主人！%5D.png" height="60" alt="主人！"/>|[链接](http://i0.hdslb.com/bfs/emote/194daf7a66e601bc67e202213615e03cba032e59.png)|2021-08-31 16:35:02|
 
 # 原始数据
 
