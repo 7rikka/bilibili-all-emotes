@@ -20,7 +20,7 @@
 |34422|[水星_SR]|<img src="./pic/034422_%5B水星_SR%5D.png" height="60" alt="SR"/>|[链接](https://i0.hdslb.com/bfs/garb/26df28b97c8cf05d1688b99bbd6572a7c28d7f8f.png)|2023-06-25 19:35:10|
 |34423|[水星_健康]|<img src="./pic/034423_%5B水星_健康%5D.png" height="60" alt="健康"/>|[链接](https://i0.hdslb.com/bfs/garb/9be247e5039506d1492c0baec495012429a19ea2.png)|2023-06-25 19:35:10|
 |34424|[水星_暴富]|<img src="./pic/034424_%5B水星_暴富%5D.png" height="60" alt="暴富"/>|[链接](https://i0.hdslb.com/bfs/garb/06cebebdcd5d3684941355b80cb301ecb9098aba.png)|2023-06-25 19:35:10|
-|34425|[水星_水星]|<img src="./pic/034425_%5B水星_水星%5D.png" height="60" alt="水星"/>|[链接](https://i0.hdslb.com/bfs/garb/9d7343c9d88be68e586d930f92276c66b3f4b777.png)|2023-06-25 19:35:00|
+|34425|[水星_水星]|<img src="./pic/034425_%5B水星_水星%5D.png" height="60" alt="水星"/>|[链接](https://i0.hdslb.com/bfs/garb/9d7343c9d88be68e586d930f92276c66b3f4b777.png)|2023-06-25 19:35:10|
 
 # 原始数据
 

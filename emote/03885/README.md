@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|54369|[星座指示-狮子座_狮子座]|<img src="./pic/054369_%5B星座指示-狮子座_狮子座%5D.png" height="60" alt="狮子座"/>|[链接](https://i0.hdslb.com/bfs/garb/96a46bcc331c5eb03117221b4ab579a0198fcd88.png)|2023-11-28 12:02:00|
+|54369|[星座指示-狮子座_狮子座]|<img src="./pic/054369_%5B星座指示-狮子座_狮子座%5D.png" height="60" alt="狮子座"/>|[链接](https://i0.hdslb.com/bfs/garb/96a46bcc331c5eb03117221b4ab579a0198fcd88.png)|2023-11-28 17:31:50|
 |54370|[星座指示-狮子座_打招呼]|<img src="./pic/054370_%5B星座指示-狮子座_打招呼%5D.png" height="60" alt="打招呼"/>|[链接](https://i0.hdslb.com/bfs/garb/206adfd36120995331b3c7464aaacdf4bd990857.png)|2023-11-28 17:31:50|
 |54371|[星座指示-狮子座_得意]|<img src="./pic/054371_%5B星座指示-狮子座_得意%5D.png" height="60" alt="得意"/>|[链接](https://i0.hdslb.com/bfs/garb/57cc87f8ed2a5af6d674c73b60fbb44a3b1186fb.png)|2023-11-28 17:31:50|
 |54372|[星座指示-狮子座_投币]|<img src="./pic/054372_%5B星座指示-狮子座_投币%5D.png" height="60" alt="投币"/>|[链接](https://i0.hdslb.com/bfs/garb/46c0e8ba207e1a97af42c7633bbe3392b463db81.png)|2023-11-28 17:31:50|

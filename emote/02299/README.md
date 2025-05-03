@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|40252|[发疯文学_啾咪]|<img src="./pic/040252_%5B发疯文学_啾咪%5D.png" height="60" alt="啾咪"/>|[链接](https://i0.hdslb.com/bfs/garb/6785ee627c42b6869070bf4ade045814ca96a4c8.png)|2023-08-09 19:00:00|
+|40252|[发疯文学_啾咪]|<img src="./pic/040252_%5B发疯文学_啾咪%5D.png" height="60" alt="啾咪"/>|[链接](https://i0.hdslb.com/bfs/garb/6785ee627c42b6869070bf4ade045814ca96a4c8.png)|2023-08-07 17:00:00|
 |40253|[发疯文学_委屈巴巴]|<img src="./pic/040253_%5B发疯文学_委屈巴巴%5D.png" height="60" alt="委屈巴巴"/>|[链接](https://i0.hdslb.com/bfs/garb/5e27cae2a793cb3697b0696926e65cddf0c76314.png)|2023-08-07 17:00:00|
 |40254|[发疯文学_嘘别说话]|<img src="./pic/040254_%5B发疯文学_嘘别说话%5D.png" height="60" alt="嘘别说话"/>|[链接](https://i0.hdslb.com/bfs/garb/34e68eac9b3fa0bedd4d8e5160d488d7faade2b8.png)|2023-08-07 17:00:00|
 |40255|[发疯文学_垮起个脸]|<img src="./pic/040255_%5B发疯文学_垮起个脸%5D.png" height="60" alt="垮起个脸"/>|[链接](https://i0.hdslb.com/bfs/garb/62be0ac4bdf00a46ee42537b6058a6f66bb1d682.png)|2023-08-07 17:00:00|

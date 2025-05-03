@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|40639|[UPOWER_1437582453_穷穷]|<img src="./pic/040639_%5BUPOWER_1437582453_穷穷%5D.png" height="60" alt="穷穷"/>|[链接](https://i0.hdslb.com/bfs/garb/18d5f8c6f78280263f70431663e5cab4d706ec4a.png)|2023-08-10 00:52:02|
+|40639|[UPOWER_1437582453_穷穷]|<img src="./pic/040639_%5BUPOWER_1437582453_穷穷%5D.png" height="60" alt="穷穷"/>|[链接](https://i0.hdslb.com/bfs/garb/18d5f8c6f78280263f70431663e5cab4d706ec4a.png)|2023-08-08 11:39:40|
 |40640|[UPOWER_1437582453_爆米]|<img src="./pic/040640_%5BUPOWER_1437582453_爆米%5D.png" height="60" alt="爆米"/>|[链接](https://i0.hdslb.com/bfs/garb/2b41fdb67f7fafad439e9a55dd84520f615b5d38.png)|2023-08-10 00:52:02|
 |40641|[UPOWER_1437582453_心脏骤停]|<img src="./pic/040641_%5BUPOWER_1437582453_心脏骤停%5D.png" height="60" alt="心脏骤停"/>|[链接](https://i0.hdslb.com/bfs/garb/9a95191649ce83a8f05894ce203a4dd32190ce13.png)|2023-08-10 00:52:02|
 |40642|[UPOWER_1437582453_发呆]|<img src="./pic/040642_%5BUPOWER_1437582453_发呆%5D.png" height="60" alt="发呆"/>|[链接](https://i0.hdslb.com/bfs/garb/59c3d6dc56feb0f593ac82e5b8985b4670eee0b7.png)|2023-08-10 00:52:02|

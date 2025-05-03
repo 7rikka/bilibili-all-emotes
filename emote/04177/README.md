@@ -19,7 +19,7 @@
 |59373|[安妮莫·佛系篇_来了]|<img src="./pic/059373_%5B安妮莫·佛系篇_来了%5D.png" height="60" alt="来了"/>|[链接](https://i0.hdslb.com/bfs/garb/40b7f89094570b9afbdaf5b7cf8ff23ff212a85c.png)|2024-01-03 15:00:00|
 |59374|[安妮莫·佛系篇_下次一定]|<img src="./pic/059374_%5B安妮莫·佛系篇_下次一定%5D.png" height="60" alt="下次一定"/>|[链接](https://i0.hdslb.com/bfs/garb/2180a21d7ab08489f1e9cd00f27d48733f97afcf.png)|2024-01-03 15:00:00|
 |59375|[安妮莫·佛系篇_没关系]|<img src="./pic/059375_%5B安妮莫·佛系篇_没关系%5D.png" height="60" alt="没关系"/>|[链接](https://i0.hdslb.com/bfs/garb/75adf0d0fecd642d0b3da5563e40c03958099365.png)|2024-01-03 15:00:00|
-|59376|[安妮莫·佛系篇_AWSL]|<img src="./pic/059376_%5B安妮莫·佛系篇_AWSL%5D.png" height="60" alt="AWSL"/>|[链接](https://i0.hdslb.com/bfs/garb/11106b24d7a25a72170a02a83e0f82919bb03c36.png)|2024-01-03 11:16:40|
+|59376|[安妮莫·佛系篇_AWSL]|<img src="./pic/059376_%5B安妮莫·佛系篇_AWSL%5D.png" height="60" alt="AWSL"/>|[链接](https://i0.hdslb.com/bfs/garb/11106b24d7a25a72170a02a83e0f82919bb03c36.png)|2024-01-03 15:00:00|
 |59377|[安妮莫·佛系篇_干杯]|<img src="./pic/059377_%5B安妮莫·佛系篇_干杯%5D.png" height="60" alt="干杯"/>|[链接](https://i0.hdslb.com/bfs/garb/358a2b0874fcbe32f4cfdc3c457ca7556f87428a.png)|2024-01-03 15:00:00|
 
 # 原始数据

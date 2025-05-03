@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|69077|[满屏可爱修狗_打call]|<img src="./pic/069077_%5B满屏可爱修狗_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/7d8e113a0009eb476d65f990b7dda46c54cc78b6.png)|2024-04-12 18:01:00|
+|69077|[满屏可爱修狗_打call]|<img src="./pic/069077_%5B满屏可爱修狗_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/7d8e113a0009eb476d65f990b7dda46c54cc78b6.png)|2024-04-09 16:05:30|
 |69078|[满屏可爱修狗_太赞啦]|<img src="./pic/069078_%5B满屏可爱修狗_太赞啦%5D.png" height="60" alt="太赞啦"/>|[链接](https://i0.hdslb.com/bfs/garb/837722c5c0b6917a2ef222239cb40f9faf9e74ad.png)|2024-04-09 16:05:30|
 |69079|[满屏可爱修狗_酷狗]|<img src="./pic/069079_%5B满屏可爱修狗_酷狗%5D.png" height="60" alt="酷狗"/>|[链接](https://i0.hdslb.com/bfs/garb/427775e78cd5f9ae0a66d33c480b874c88e6a7df.png)|2024-04-09 16:05:30|
 |69080|[满屏可爱修狗_认真学习]|<img src="./pic/069080_%5B满屏可爱修狗_认真学习%5D.png" height="60" alt="认真学习"/>|[链接](https://i0.hdslb.com/bfs/garb/e1ce18bc29a225e9e6867cf7665ff33e3907bfd8.png)|2024-04-09 16:05:30|

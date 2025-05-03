@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |3785|[总督_hi]|<img src="./pic/003785_%5B总督_hi%5D.png" height="60" alt="hi"/>|[链接](http://i0.hdslb.com/bfs/emote/286721083ce303b887094bdd7a018b2fb2855d36.png)|2021-05-20 16:30:12|
-|3813|[总督_。。。]|<img src="./pic/003813_%5B总督_。。。%5D.png" height="60" alt="。。。"/>|[链接](http://i0.hdslb.com/bfs/emote/61c1be29d746579ad1b49ddbdfb8f864c67884d4.png)|2021-05-13 21:46:33|
+|3813|[总督_。。。]|<img src="./pic/003813_%5B总督_。。。%5D.png" height="60" alt="。。。"/>|[链接](http://i0.hdslb.com/bfs/emote/61c1be29d746579ad1b49ddbdfb8f864c67884d4.png)|2021-05-20 16:30:12|
 |3814|[总督_ok]|<img src="./pic/003814_%5B总督_ok%5D.png" height="60" alt="ok"/>|[链接](http://i0.hdslb.com/bfs/emote/70205fd54ecfe506b455c6bf5c78b50eecd22ef4.png)|2021-05-20 16:30:12|
 |3815|[总督_wink]|<img src="./pic/003815_%5B总督_wink%5D.png" height="60" alt="wink"/>|[链接](http://i0.hdslb.com/bfs/emote/a0c358ecf784042aec07c843c46c0c4008ad79dd.png)|2021-05-20 16:30:12|
 |3816|[总督_比心]|<img src="./pic/003816_%5B总督_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/16c646bd50a07845e2b0e2128b4663bbe5cdb621.png)|2021-05-20 16:30:12|

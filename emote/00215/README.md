@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|3782|[舰长_暗中观察]|<img src="./pic/003782_%5B舰长_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](http://i0.hdslb.com/bfs/emote/4dbacc44e1e518daedfdff74d2fa65cdb1c6aa1b.png)|2021-05-20 16:06:06|
+|3782|[舰长_暗中观察]|<img src="./pic/003782_%5B舰长_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](http://i0.hdslb.com/bfs/emote/4dbacc44e1e518daedfdff74d2fa65cdb1c6aa1b.png)|2021-05-19 16:06:57|
 |3783|[舰长_吃瓜]|<img src="./pic/003783_%5B舰长_吃瓜%5D.png" height="60" alt="吃瓜"/>|[链接](http://i0.hdslb.com/bfs/emote/9a45844ffe199f45ff954adc14976b2627236d3d.png)|2021-05-20 16:06:06|
 |3786|[舰长_挥手]|<img src="./pic/003786_%5B舰长_挥手%5D.png" height="60" alt="挥手"/>|[链接](http://i0.hdslb.com/bfs/emote/4d066e650678fd68ba402d61c0db16c2656f9ab1.png)|2021-05-20 16:06:06|
 |3787|[舰长_好耶]|<img src="./pic/003787_%5B舰长_好耶%5D.png" height="60" alt="好耶"/>|[链接](http://i0.hdslb.com/bfs/emote/777c32b3d36d88d7cc68408db9f3945c6e210ca4.png)|2021-05-20 16:06:06|

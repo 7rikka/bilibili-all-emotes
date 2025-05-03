@@ -17,6 +17,7 @@
 |96423|[UPOWER_620993067_怜弥Reya]|<img src="./pic/096423_%5BUPOWER_620993067_怜弥Reya%5D.png" height="60" alt="怜弥Reya"/>|[链接](https://i0.hdslb.com/bfs/garb/d23e7e0484fa9a5c68e6070276b072b93c6762c2.png)|2024-12-04 09:05:41|
 |104877|[UPOWER_620993067_凉真Ryom]|<img src="./pic/104877_%5BUPOWER_620993067_凉真Ryom%5D.png" height="60" alt="凉真Ryom"/>|[链接](https://i0.hdslb.com/bfs/garb/312f420b9a3960c601847417e597d874a359dc8b.png)|2025-02-15 21:35:55|
 |107098|[UPOWER_620993067_一斗Itto]|<img src="./pic/107098_%5BUPOWER_620993067_一斗Itto%5D.png" height="60" alt="一斗Itto"/>|[链接](https://i0.hdslb.com/bfs/garb/8620ecefd817dd51262086f453b70ada7f56d217.png)|2025-03-24 10:15:11|
+|108062|[UPOWER_620993067_Takuto]|<img src="./pic/108062_%5BUPOWER_620993067_Takuto%5D.png" height="60" alt="Takuto"/>|[链接](https://i0.hdslb.com/bfs/garb/6edcc55e301f1ba1c27d88006f9d9ad29e7307b3.png)|2025-04-04 10:48:44|
 
 # 原始数据
 

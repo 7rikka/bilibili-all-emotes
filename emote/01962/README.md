@@ -19,7 +19,7 @@
 |34251|[古相思曲_一键三连]|<img src="./pic/034251_%5B古相思曲_一键三连%5D.png" height="60" alt="一键三连"/>|[链接](https://i0.hdslb.com/bfs/emote/26ffc9e96c5abf1962858fb0042ca381f238f2d4.png)|2023-06-24 16:05:14|
 |34252|[古相思曲_下班]|<img src="./pic/034252_%5B古相思曲_下班%5D.png" height="60" alt="下班"/>|[链接](https://i0.hdslb.com/bfs/emote/54edd9405988e558832a445aa003e15dbfbe757b.png)|2023-06-24 16:05:14|
 |34253|[古相思曲_嗷]|<img src="./pic/034253_%5B古相思曲_嗷%5D.png" height="60" alt="嗷"/>|[链接](https://i0.hdslb.com/bfs/emote/fab771879c2c8c0b4044dab9582fb3552e76bb17.png)|2023-06-24 16:05:14|
-|34254|[古相思曲_暗中观察]|<img src="./pic/034254_%5B古相思曲_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](https://i0.hdslb.com/bfs/emote/1d55c9797ee57086f72a345cbcad9edc96bae733.png)|2023-06-27 15:35:10|
+|34254|[古相思曲_暗中观察]|<img src="./pic/034254_%5B古相思曲_暗中观察%5D.png" height="60" alt="暗中观察"/>|[链接](https://i0.hdslb.com/bfs/emote/1d55c9797ee57086f72a345cbcad9edc96bae733.png)|2023-06-24 16:05:14|
 |34255|[古相思曲_我是你爹]|<img src="./pic/034255_%5B古相思曲_我是你爹%5D.png" height="60" alt="我是你爹"/>|[链接](https://i0.hdslb.com/bfs/emote/61214666e3da4d3646ffbbfcc2d0f50129291cb3.png)|2023-06-24 16:05:14|
 
 # 原始数据

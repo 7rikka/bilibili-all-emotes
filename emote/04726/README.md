@@ -19,7 +19,7 @@
 |67874|[不四小羊愚人装扮_偷走了]|<img src="./pic/067874_%5B不四小羊愚人装扮_偷走了%5D.png" height="60" alt="偷走了"/>|[链接](https://i0.hdslb.com/bfs/garb/f93b252b5b83cae70f8dff62929d4296745183ec.png)|2024-03-26 15:00:00|
 |67875|[不四小羊愚人装扮_开心]|<img src="./pic/067875_%5B不四小羊愚人装扮_开心%5D.png" height="60" alt="开心"/>|[链接](https://i0.hdslb.com/bfs/garb/55a4ad220de94d2300cf44897223f1ed22bc3340.png)|2024-03-26 15:00:00|
 |67876|[不四小羊愚人装扮_吹气球]|<img src="./pic/067876_%5B不四小羊愚人装扮_吹气球%5D.png" height="60" alt="吹气球"/>|[链接](https://i0.hdslb.com/bfs/garb/077536b4854a13151d7d025c21d750a3fa2df951.png)|2024-03-26 15:00:00|
-|67877|[不四小羊愚人装扮_我喝热水]|<img src="./pic/067877_%5B不四小羊愚人装扮_我喝热水%5D.png" height="60" alt="我喝热水"/>|[链接](https://i0.hdslb.com/bfs/garb/1be999c1fa9d34fb7a521d10a217d9a88940ce30.png)|2024-03-26 14:09:10|
+|67877|[不四小羊愚人装扮_我喝热水]|<img src="./pic/067877_%5B不四小羊愚人装扮_我喝热水%5D.png" height="60" alt="我喝热水"/>|[链接](https://i0.hdslb.com/bfs/garb/1be999c1fa9d34fb7a521d10a217d9a88940ce30.png)|2024-03-26 15:00:00|
 |67878|[不四小羊愚人装扮_多喝热水]|<img src="./pic/067878_%5B不四小羊愚人装扮_多喝热水%5D.png" height="60" alt="多喝热水"/>|[链接](https://i0.hdslb.com/bfs/garb/4b647bf2390644aa64b27485128bfc2085c76507.png)|2024-03-26 15:00:00|
 
 # 原始数据

@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |3368|[干物妹！小埋_？？？]|<img src="./pic/003368_%5B干物妹！小埋_？？？%5D.png" height="60" alt="？？？"/>|[链接](http://i0.hdslb.com/bfs/emote/d2d0955e6ddf2d3528c6f2364b7002b114907c94.png)|2021-03-11 17:15:13|
-|3369|[干物妹！小埋_拜托了哥哥]|<img src="./pic/003369_%5B干物妹！小埋_拜托了哥哥%5D.png" height="60" alt="拜托了哥哥"/>|[链接](http://i0.hdslb.com/bfs/emote/e2f35f75f878a53a415e0468668fbfd1fb459d54.png)|2021-03-10 14:57:16|
+|3369|[干物妹！小埋_拜托了哥哥]|<img src="./pic/003369_%5B干物妹！小埋_拜托了哥哥%5D.png" height="60" alt="拜托了哥哥"/>|[链接](http://i0.hdslb.com/bfs/emote/e2f35f75f878a53a415e0468668fbfd1fb459d54.png)|2021-03-11 17:15:13|
 |3370|[干物妹！小埋_抱抱]|<img src="./pic/003370_%5B干物妹！小埋_抱抱%5D.png" height="60" alt="抱抱"/>|[链接](http://i0.hdslb.com/bfs/emote/f7d5a5150733a15386d98015114630e893f5281b.png)|2021-03-11 17:15:13|
 |3371|[干物妹！小埋_变身]|<img src="./pic/003371_%5B干物妹！小埋_变身%5D.png" height="60" alt="变身"/>|[链接](http://i0.hdslb.com/bfs/emote/894dc489523d79b2ab949956b5008b143b1f9333.png)|2021-03-11 17:15:13|
 |3372|[干物妹！小埋_补充体力]|<img src="./pic/003372_%5B干物妹！小埋_补充体力%5D.png" height="60" alt="补充体力"/>|[链接](http://i0.hdslb.com/bfs/emote/fa60a9632462cf9b611db818fad1626630adfa57.png)|2021-03-11 17:15:13|

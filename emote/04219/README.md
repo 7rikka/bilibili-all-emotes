@@ -25,7 +25,7 @@
 |60044|[装扮小姐姐·铃梦午后_噫]|<img src="./pic/060044_%5B装扮小姐姐·铃梦午后_噫%5D.png" height="60" alt="噫"/>|[链接](https://i0.hdslb.com/bfs/emote/04cc20457977c8cc5ccbcdb74b75643e7010fcaa.png)|2024-01-11 18:04:58|
 |60045|[装扮小姐姐·铃梦午后_吓]|<img src="./pic/060045_%5B装扮小姐姐·铃梦午后_吓%5D.png" height="60" alt="吓"/>|[链接](https://i0.hdslb.com/bfs/emote/d4e2460eb2ae2fbe707adbccb4aeb8df46bb06c0.png)|2024-01-11 18:04:58|
 |60046|[装扮小姐姐·铃梦午后_喜欢]|<img src="./pic/060046_%5B装扮小姐姐·铃梦午后_喜欢%5D.png" height="60" alt="喜欢"/>|[链接](https://i0.hdslb.com/bfs/emote/6ba51700f20c1191f9c8f2c1fa11d3d39faf1fc0.png)|2024-01-11 18:05:31|
-|60047|[装扮小姐姐·铃梦午后_我拒绝]|<img src="./pic/060047_%5B装扮小姐姐·铃梦午后_我拒绝%5D.png" height="60" alt="我拒绝"/>|[链接](https://i0.hdslb.com/bfs/emote/0edf88caec83536cd5c8cba629d1e68a40f2f4cc.png)|2024-01-11 18:05:31|
+|60047|[装扮小姐姐·铃梦午后_我拒绝]|<img src="./pic/060047_%5B装扮小姐姐·铃梦午后_我拒绝%5D.png" height="60" alt="我拒绝"/>|[链接](https://i0.hdslb.com/bfs/emote/0edf88caec83536cd5c8cba629d1e68a40f2f4cc.png)|2024-01-12 11:15:20|
 
 # 原始数据
 

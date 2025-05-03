@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|91420|[像素赛博_插手]|<img src="./pic/091420_%5B像素赛博_插手%5D.png" height="60" alt="插手"/>|[链接](https://i0.hdslb.com/bfs/garb/5265b46da7d5fc19fc8ea75e4b9a5d884466768b.png)|2024-10-12 11:55:00|
+|91420|[像素赛博_插手]|<img src="./pic/091420_%5B像素赛博_插手%5D.png" height="60" alt="插手"/>|[链接](https://i0.hdslb.com/bfs/garb/5265b46da7d5fc19fc8ea75e4b9a5d884466768b.png)|2024-10-14 11:06:00|
 |91421|[像素赛博_鄙视]|<img src="./pic/091421_%5B像素赛博_鄙视%5D.png" height="60" alt="鄙视"/>|[链接](https://i0.hdslb.com/bfs/garb/86ba875526f96a0124663a701d600ab768b5ffe9.png)|2024-10-14 11:06:00|
 |91422|[像素赛博_给我炒俩菜]|<img src="./pic/091422_%5B像素赛博_给我炒俩菜%5D.png" height="60" alt="给我炒俩菜"/>|[链接](https://i0.hdslb.com/bfs/garb/5064a704ec6daaa2bcd3a0c6c6fded8cf03d1e87.png)|2024-10-14 11:06:00|
 |91423|[像素赛博_差不多得了]|<img src="./pic/091423_%5B像素赛博_差不多得了%5D.png" height="60" alt="差不多得了"/>|[链接](https://i0.hdslb.com/bfs/garb/53ef52065136e872626d486ac0e3c97f37c9cf1f.png)|2024-10-14 11:06:00|

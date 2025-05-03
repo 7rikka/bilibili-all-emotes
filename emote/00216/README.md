@@ -12,7 +12,7 @@
 |3801|[提督_傲娇]|<img src="./pic/003801_%5B提督_傲娇%5D.png" height="60" alt="傲娇"/>|[链接](http://i0.hdslb.com/bfs/emote/5394cebbacc7bea5811cbdefd576e2adf5bce510.png)|2021-05-20 16:25:45|
 |3802|[提督_抱抱]|<img src="./pic/003802_%5B提督_抱抱%5D.png" height="60" alt="抱抱"/>|[链接](http://i0.hdslb.com/bfs/emote/3306537828dabe6a7aa4fca4c9006b5dc4ffe5e6.png)|2021-05-20 16:25:45|
 |3803|[提督_呆住]|<img src="./pic/003803_%5B提督_呆住%5D.png" height="60" alt="呆住"/>|[链接](http://i0.hdslb.com/bfs/emote/d122523d1e81690bd776589f3fc35f8f408e5ef4.png)|2021-05-20 16:25:45|
-|3804|[提督_好耶]|<img src="./pic/003804_%5B提督_好耶%5D.png" height="60" alt="好耶"/>|[链接](http://i0.hdslb.com/bfs/emote/9eb3c7d962fd2f02d4fd5dc6071a784da4dc5c29.png)|2021-05-20 16:18:11|
+|3804|[提督_好耶]|<img src="./pic/003804_%5B提督_好耶%5D.png" height="60" alt="好耶"/>|[链接](http://i0.hdslb.com/bfs/emote/9eb3c7d962fd2f02d4fd5dc6071a784da4dc5c29.png)|2021-05-20 16:25:45|
 |3805|[提督_警觉]|<img src="./pic/003805_%5B提督_警觉%5D.png" height="60" alt="警觉"/>|[链接](http://i0.hdslb.com/bfs/emote/c9912808f29593aee7b749992ffb2c282a1c20d7.png)|2021-05-20 16:25:45|
 |3806|[提督_哭笑不得]|<img src="./pic/003806_%5B提督_哭笑不得%5D.png" height="60" alt="哭笑不得"/>|[链接](http://i0.hdslb.com/bfs/emote/a4128c40e06dd7ef7b3dd6e65b4e8ce44158cce0.png)|2021-05-20 16:25:45|
 |3807|[提督_泪目]|<img src="./pic/003807_%5B提督_泪目%5D.png" height="60" alt="泪目"/>|[链接](http://i0.hdslb.com/bfs/emote/8f902dd897191bb3dd415968d51c0c0bba52d019.png)|2021-05-20 16:25:45|

@@ -30,7 +30,7 @@
 |26970|[心动环游记专属表情包_收到]|<img src="./pic/026970_%5B心动环游记专属表情包_收到%5D.png" height="60" alt="收到"/>|[链接](https://i0.hdslb.com/bfs/garb/item/e2b9c5984eb7ee2909d605ef5eb19524b489ceb5.png)|2023-05-04 15:01:19|
 |26971|[心动环游记专属表情包_贴贴]|<img src="./pic/026971_%5B心动环游记专属表情包_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](https://i0.hdslb.com/bfs/garb/item/5bac9e9b0aa5153442bc671dab0ecbbc30e8fc8e.png)|2023-05-04 15:01:19|
 |26972|[心动环游记专属表情包_好稀饭]|<img src="./pic/026972_%5B心动环游记专属表情包_好稀饭%5D.png" height="60" alt="好稀饭"/>|[链接](https://i0.hdslb.com/bfs/garb/item/e87823c640704963e0314a7a62dc45b7ead14528.png)|2023-05-04 15:01:19|
-|26973|[心动环游记专属表情包_打call]|<img src="./pic/026973_%5B心动环游记专属表情包_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/item/cf357e249aa104c70de597c0220e90517d8c8557.png)|2023-05-04 18:23:10|
+|26973|[心动环游记专属表情包_打call]|<img src="./pic/026973_%5B心动环游记专属表情包_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/item/cf357e249aa104c70de597c0220e90517d8c8557.png)|2023-05-04 15:01:19|
 
 # 原始数据
 
