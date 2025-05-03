@@ -18,10 +18,10 @@
 |20986|[卡娜赫拉的小动物_撞墙]|<img src="./pic/020986_%5B卡娜赫拉的小动物_撞墙%5D.png" height="60" alt="撞墙"/>|[链接](https://i0.hdslb.com/bfs/emote/1e709bf182ed2b1da59d40ce5e2c8ecb7c33f4be.png)|2023-04-06 11:50:48|
 |20987|[卡娜赫拉的小动物_晚安]|<img src="./pic/020987_%5B卡娜赫拉的小动物_晚安%5D.png" height="60" alt="晚安"/>|[链接](https://i0.hdslb.com/bfs/emote/9d74f65591a30ab67cac5531000c3136d62443e0.png)|2023-04-06 11:50:48|
 |20988|[卡娜赫拉的小动物_有你真好]|<img src="./pic/020988_%5B卡娜赫拉的小动物_有你真好%5D.png" height="60" alt="有你真好"/>|[链接](https://i0.hdslb.com/bfs/emote/26eb20cd27d594d7a8feaeb2cbcff1ae099db8e3.png)|2023-04-06 11:50:48|
-|20989|[卡娜赫拉的小动物_死定了]|<img src="./pic/020989_%5B卡娜赫拉的小动物_死定了%5D.png" height="60" alt="死定了"/>|[链接](https://i0.hdslb.com/bfs/emote/8cb4c0e6a7b71871be4f5552de16aa5337877978.png)|2023-04-06 11:50:48|
+|20989|[卡娜赫拉的小动物_死定了]|<img src="./pic/020989_%5B卡娜赫拉的小动物_死定了%5D.png" height="60" alt="死定了"/>|[链接](https://i0.hdslb.com/bfs/emote/8cb4c0e6a7b71871be4f5552de16aa5337877978.png)|2023-04-02 15:23:27|
 |20990|[卡娜赫拉的小动物_燃起来]|<img src="./pic/020990_%5B卡娜赫拉的小动物_燃起来%5D.png" height="60" alt="燃起来"/>|[链接](https://i0.hdslb.com/bfs/emote/4c6c323ee50582d67f1a0fe938c47962a51f29c6.png)|2023-04-06 11:50:48|
 |20991|[卡娜赫拉的小动物_爱你]|<img src="./pic/020991_%5B卡娜赫拉的小动物_爱你%5D.png" height="60" alt="爱你"/>|[链接](https://i0.hdslb.com/bfs/emote/516d878eab4f3980c1dcea16e8da2c46f3612c4f.png)|2023-04-06 11:50:48|
-|20992|[卡娜赫拉的小动物_生日快乐]|<img src="./pic/020992_%5B卡娜赫拉的小动物_生日快乐%5D.png" height="60" alt="生日快乐"/>|[链接](https://i0.hdslb.com/bfs/emote/0f528d821779e279c75a90bdafdd3603f89ec464.png)|2023-04-06 11:50:48|
+|20992|[卡娜赫拉的小动物_生日快乐]|<img src="./pic/020992_%5B卡娜赫拉的小动物_生日快乐%5D.png" height="60" alt="生日快乐"/>|[链接](https://i0.hdslb.com/bfs/emote/0f528d821779e279c75a90bdafdd3603f89ec464.png)|2023-04-06 15:23:27|
 |20993|[卡娜赫拉的小动物_糟了]|<img src="./pic/020993_%5B卡娜赫拉的小动物_糟了%5D.png" height="60" alt="糟了"/>|[链接](https://i0.hdslb.com/bfs/emote/b7c570725f8289813adba6dd66ffaa95398609e3.png)|2023-04-06 11:50:48|
 |20994|[卡娜赫拉的小动物_萌萌哒]|<img src="./pic/020994_%5B卡娜赫拉的小动物_萌萌哒%5D.png" height="60" alt="萌萌哒"/>|[链接](https://i0.hdslb.com/bfs/emote/b05012d0c3c2cd3b45f6b81b7764119f9c88751b.png)|2023-04-06 11:50:48|
 |20995|[卡娜赫拉的小动物_要约吗]|<img src="./pic/020995_%5B卡娜赫拉的小动物_要约吗%5D.png" height="60" alt="要约吗"/>|[链接](https://i0.hdslb.com/bfs/emote/7fbf4ec40b644284bc626ba7c5b57f4a1aa61152.png)|2023-04-06 11:50:48|

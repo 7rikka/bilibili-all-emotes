@@ -7,8 +7,8 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |41064|[6699异想录_生气]|<img src="./pic/041064_%5B6699异想录_生气%5D.png" height="60" alt="生气"/>|[链接](https://i0.hdslb.com/bfs/garb/item/9c697bc88fc1ab9ab00aec689fc9be9fd23ca2f4.png)|2023-08-15 17:20:47|
-|41065|[6699异想录_不行]|<img src="./pic/041065_%5B6699异想录_不行%5D.png" height="60" alt="不行"/>|[链接](https://i0.hdslb.com/bfs/garb/item/eba69c1c14347be36e72e0c69baf482c0eb61b36.png)|2023-08-15 17:20:47|
-|41066|[6699异想录_窃笑]|<img src="./pic/041066_%5B6699异想录_窃笑%5D.png" height="60" alt="窃笑"/>|[链接](https://i0.hdslb.com/bfs/garb/item/d1c8ae9e095ddaa1a39c7ccd999debd69050bdd7.png)|2023-08-15 17:20:47|
+|41065|[6699异想录_不行]|<img src="./pic/041065_%5B6699异想录_不行%5D.png" height="60" alt="不行"/>|[链接](https://i0.hdslb.com/bfs/garb/item/eba69c1c14347be36e72e0c69baf482c0eb61b36.png)|2023-08-15 11:40:57|
+|41066|[6699异想录_窃笑]|<img src="./pic/041066_%5B6699异想录_窃笑%5D.png" height="60" alt="窃笑"/>|[链接](https://i0.hdslb.com/bfs/garb/item/d1c8ae9e095ddaa1a39c7ccd999debd69050bdd7.png)|2023-08-17 11:40:57|
 |41067|[6699异想录_晕了]|<img src="./pic/041067_%5B6699异想录_晕了%5D.png" height="60" alt="晕了"/>|[链接](https://i0.hdslb.com/bfs/garb/item/2b007588efe3d04188c1af8d65d90e9b05e6209c.png)|2023-08-15 17:20:47|
 |41068|[6699异想录_应援]|<img src="./pic/041068_%5B6699异想录_应援%5D.png" height="60" alt="应援"/>|[链接](https://i0.hdslb.com/bfs/garb/item/d3f9fdfef480f9809eae43babcc05b33b647a2d3.png)|2023-08-15 17:20:47|
 |41069|[6699异想录_喝茶]|<img src="./pic/041069_%5B6699异想录_喝茶%5D.png" height="60" alt="喝茶"/>|[链接](https://i0.hdslb.com/bfs/garb/item/0f1892f0e795975193793ff2d01c3652b5008264.png)|2023-08-15 17:20:47|

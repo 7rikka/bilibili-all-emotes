@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|80708|[海獭宝宝2.0_撅腚]|<img src="./pic/080708_%5B海獭宝宝2.0_撅腚%5D.png" height="60" alt="撅腚"/>|[链接](https://i0.hdslb.com/bfs/garb/5cf448e22eee852abb0693e9cecc3b6c0d0c2f8b.png)|2024-07-29 17:19:40|
+|80708|[海獭宝宝2.0_撅腚]|<img src="./pic/080708_%5B海獭宝宝2.0_撅腚%5D.png" height="60" alt="撅腚"/>|[链接](https://i0.hdslb.com/bfs/garb/5cf448e22eee852abb0693e9cecc3b6c0d0c2f8b.png)|2024-07-26 23:07:08|
 |80709|[海獭宝宝2.0_抱住]|<img src="./pic/080709_%5B海獭宝宝2.0_抱住%5D.png" height="60" alt="抱住"/>|[链接](https://i0.hdslb.com/bfs/garb/a2d7cef2398683b75ac443b6516f66d6f17f03ef.png)|2024-07-29 17:19:40|
 |80710|[海獭宝宝2.0_打招呼]|<img src="./pic/080710_%5B海獭宝宝2.0_打招呼%5D.png" height="60" alt="打招呼"/>|[链接](https://i0.hdslb.com/bfs/garb/8f45e111130d28d01d9e8aa26929a99f6a2df59e.png)|2024-07-29 17:19:40|
 |80711|[海獭宝宝2.0_叠叠獭]|<img src="./pic/080711_%5B海獭宝宝2.0_叠叠獭%5D.png" height="60" alt="叠叠獭"/>|[链接](https://i0.hdslb.com/bfs/garb/09545d99f48e49b3cca65af3e50dba14545b2370.png)|2024-07-29 17:19:40|

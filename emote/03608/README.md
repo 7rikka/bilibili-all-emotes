@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |49980|[王者拜仁_ 菜]|<img src="./pic/049980_%5B王者拜仁_ 菜%5D.png" height="60" alt=" 菜"/>|[链接](https://i0.hdslb.com/bfs/emote/698f4d7da34f4f5c27ce9fe63b17fc4201176089.png)|2023-10-20 14:49:41|
-|49981|[王者拜仁_ 烦死了]|<img src="./pic/049981_%5B王者拜仁_ 烦死了%5D.png" height="60" alt=" 烦死了"/>|[链接](https://i0.hdslb.com/bfs/emote/2b9f681040816015749e5176410638b352bd36d4.png)|2023-10-20 10:00:00|
+|49981|[王者拜仁_ 烦死了]|<img src="./pic/049981_%5B王者拜仁_ 烦死了%5D.png" height="60" alt=" 烦死了"/>|[链接](https://i0.hdslb.com/bfs/emote/2b9f681040816015749e5176410638b352bd36d4.png)|2023-10-20 14:49:41|
 |49982|[王者拜仁_ 锦鲤附体]|<img src="./pic/049982_%5B王者拜仁_ 锦鲤附体%5D.png" height="60" alt=" 锦鲤附体"/>|[链接](https://i0.hdslb.com/bfs/emote/0a133fbb1271ac79a934a0e97a6f59e5ab31b28f.png)|2023-10-20 14:49:41|
 |49983|[王者拜仁_ 来了]|<img src="./pic/049983_%5B王者拜仁_ 来了%5D.png" height="60" alt=" 来了"/>|[链接](https://i0.hdslb.com/bfs/emote/8b7b4af680f27a99ec05e4430478072e9570d1d6.png)|2023-10-20 14:49:41|
 |49984|[王者拜仁_ 笑鼠]|<img src="./pic/049984_%5B王者拜仁_ 笑鼠%5D.png" height="60" alt=" 笑鼠"/>|[链接](https://i0.hdslb.com/bfs/emote/bf2079ffa3f12aa62402c3ba81f7c04b16caa887.png)|2023-10-20 14:49:41|

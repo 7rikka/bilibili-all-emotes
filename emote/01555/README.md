@@ -20,7 +20,7 @@
 |27070|[猫娘Lydia-机械之心_闭麦]|<img src="./pic/027070_%5B猫娘Lydia-机械之心_闭麦%5D.png" height="60" alt="闭麦"/>|[链接](https://i0.hdslb.com/bfs/garb/414303236cb4fcce0a3b9842157e26dedf2cdd0a.png)|2023-05-04 18:28:20|
 |27071|[猫娘Lydia-机械之心_过热]|<img src="./pic/027071_%5B猫娘Lydia-机械之心_过热%5D.png" height="60" alt="过热"/>|[链接](https://i0.hdslb.com/bfs/garb/47c91818029e0edee0b9a013ae89ecc51cdde164.png)|2023-05-04 18:28:20|
 |27072|[猫娘Lydia-机械之心_好捏]|<img src="./pic/027072_%5B猫娘Lydia-机械之心_好捏%5D.png" height="60" alt="好捏"/>|[链接](https://i0.hdslb.com/bfs/garb/dc33905f99f984113b3579b95dc4d36cbdbfc998.png)|2023-05-04 18:28:20|
-|27073|[猫娘Lydia-机械之心_有矿]|<img src="./pic/027073_%5B猫娘Lydia-机械之心_有矿%5D.png" height="60" alt="有矿"/>|[链接](https://i0.hdslb.com/bfs/garb/6dbd963bcc744c2c786b120054095743f1e8f442.png)|2023-05-04 18:28:20|
+|27073|[猫娘Lydia-机械之心_有矿]|<img src="./pic/027073_%5B猫娘Lydia-机械之心_有矿%5D.png" height="60" alt="有矿"/>|[链接](https://i0.hdslb.com/bfs/garb/6dbd963bcc744c2c786b120054095743f1e8f442.png)|2023-05-04 18:29:00|
 
 # 原始数据
 

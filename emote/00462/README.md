@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |8073|[食草老龙_安详]|<img src="./pic/008073_%5B食草老龙_安详%5D.png" height="60" alt="安详"/>|[链接](http://i0.hdslb.com/bfs/emote/0ba07fa05a074a7171db0e82516fccdfb7b27ad2.png)|2022-07-29 18:21:45|
-|8074|[食草老龙_不愧是你]|<img src="./pic/008074_%5B食草老龙_不愧是你%5D.png" height="60" alt="不愧是你"/>|[链接](http://i0.hdslb.com/bfs/emote/6d229f7684f039e9e0b11e4e047a8dc36b67d4a7.png)|2022-07-29 18:21:45|
+|8074|[食草老龙_不愧是你]|<img src="./pic/008074_%5B食草老龙_不愧是你%5D.png" height="60" alt="不愧是你"/>|[链接](http://i0.hdslb.com/bfs/emote/6d229f7684f039e9e0b11e4e047a8dc36b67d4a7.png)|2022-07-29 18:20:55|
 |8075|[食草老龙_不要啊]|<img src="./pic/008075_%5B食草老龙_不要啊%5D.png" height="60" alt="不要啊"/>|[链接](http://i0.hdslb.com/bfs/emote/a476fb61cd472e53c3766abc17e70218881de192.png)|2022-07-29 18:21:45|
 |8076|[食草老龙_出发]|<img src="./pic/008076_%5B食草老龙_出发%5D.png" height="60" alt="出发"/>|[链接](http://i0.hdslb.com/bfs/emote/a798e881f99947c782b920a7c502999abc4d0952.png)|2022-07-29 18:21:45|
 |8077|[食草老龙_盯]|<img src="./pic/008077_%5B食草老龙_盯%5D.png" height="60" alt="盯"/>|[链接](http://i0.hdslb.com/bfs/emote/847afb983e77cb321991a61830a55c7ea733f6f5.png)|2022-07-29 18:21:45|

@@ -16,7 +16,7 @@
 |1895|[大王不高兴_点赞]|<img src="./pic/001895_%5B大王不高兴_点赞%5D.png" height="60" alt="点赞"/>|[链接](http://i0.hdslb.com/bfs/emote/f85e02492f0f87ee94f274f1684787170ceefcdb.png)|2021-08-10 17:26:33|
 |1896|[大王不高兴_害怕]|<img src="./pic/001896_%5B大王不高兴_害怕%5D.png" height="60" alt="害怕"/>|[链接](http://i0.hdslb.com/bfs/emote/461eff396cde49246614731caacef13200730709.png)|2021-08-10 17:26:33|
 |1897|[大王不高兴_滑稽]|<img src="./pic/001897_%5B大王不高兴_滑稽%5D.png" height="60" alt="滑稽"/>|[链接](http://i0.hdslb.com/bfs/emote/0004ca2d9be95b769d8a9778aaee3a07482550ba.png)|2021-08-10 17:26:33|
-|1898|[大王不高兴_目瞪口呆]|<img src="./pic/001898_%5B大王不高兴_目瞪口呆%5D.png" height="60" alt="目瞪口呆"/>|[链接](http://i0.hdslb.com/bfs/emote/83d687d404ce04c68cf5f968a74a2d936097486e.png)|2021-08-10 17:26:57|
+|1898|[大王不高兴_目瞪口呆]|<img src="./pic/001898_%5B大王不高兴_目瞪口呆%5D.png" height="60" alt="目瞪口呆"/>|[链接](http://i0.hdslb.com/bfs/emote/83d687d404ce04c68cf5f968a74a2d936097486e.png)|2021-08-10 17:26:33|
 |1899|[大王不高兴_前排]|<img src="./pic/001899_%5B大王不高兴_前排%5D.png" height="60" alt="前排"/>|[链接](http://i0.hdslb.com/bfs/emote/8b02d412a194f8c424c12c0c9f22159f3a1895f8.png)|2021-08-10 17:26:33|
 
 # 原始数据

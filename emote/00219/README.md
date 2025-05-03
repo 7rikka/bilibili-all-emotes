@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|3843|[罗小黑战记_棒棒]|<img src="./pic/003843_%5B罗小黑战记_棒棒%5D.png" height="60" alt="棒棒"/>|[链接](http://i0.hdslb.com/bfs/emote/4d1e479c1b04ef24ad1b5e2444606f7f6f2137d0.png)|2021-05-25 17:42:46|
+|3843|[罗小黑战记_棒棒]|<img src="./pic/003843_%5B罗小黑战记_棒棒%5D.png" height="60" alt="棒棒"/>|[链接](http://i0.hdslb.com/bfs/emote/4d1e479c1b04ef24ad1b5e2444606f7f6f2137d0.png)|2021-06-15 12:40:20|
 |3844|[罗小黑战记_比心]|<img src="./pic/003844_%5B罗小黑战记_比心%5D.png" height="60" alt="比心"/>|[链接](http://i0.hdslb.com/bfs/emote/7eae7797b668bf2239f0112b79921a9ace3df905.png)|2021-05-25 17:42:46|
 |3845|[罗小黑战记_别惹我]|<img src="./pic/003845_%5B罗小黑战记_别惹我%5D.png" height="60" alt="别惹我"/>|[链接](http://i0.hdslb.com/bfs/emote/b7ba9d13909425acfa4553de87c999bf8309d0f6.png)|2021-05-25 17:42:46|
 |3846|[罗小黑战记_困]|<img src="./pic/003846_%5B罗小黑战记_困%5D.png" height="60" alt="困"/>|[链接](http://i0.hdslb.com/bfs/emote/02c20aeaefa737f0628613a2bd16e5c2ba23d509.png)|2021-05-25 17:42:46|

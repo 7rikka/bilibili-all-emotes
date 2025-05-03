@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|66491|[UPOWER_18394790_嗨]|<img src="./pic/066491_%5BUPOWER_18394790_嗨%5D.png" height="60" alt="嗨"/>|[链接](https://i0.hdslb.com/bfs/garb/a47352c6d84773f19b860c053baeffc72a37c7e1.png)|2024-03-12 22:07:37|
+|66491|[UPOWER_18394790_嗨]|<img src="./pic/066491_%5BUPOWER_18394790_嗨%5D.png" height="60" alt="嗨"/>|[链接](https://i0.hdslb.com/bfs/garb/a47352c6d84773f19b860c053baeffc72a37c7e1.png)|2024-03-14 20:01:00|
 |66492|[UPOWER_18394790_生气]|<img src="./pic/066492_%5BUPOWER_18394790_生气%5D.png" height="60" alt="生气"/>|[链接](https://i0.hdslb.com/bfs/garb/b9f63c53c59a9e5a65f3a156130743f77bb1861e.png)|2024-03-12 22:07:37|
 |66493|[UPOWER_18394790_OK]|<img src="./pic/066493_%5BUPOWER_18394790_OK%5D.png" height="60" alt="OK"/>|[链接](https://i0.hdslb.com/bfs/garb/e160f89f4f50e3b07956ccaea6ac74398b9f6325.png)|2024-03-12 22:07:37|
 |66494|[UPOWER_18394790_比心]|<img src="./pic/066494_%5BUPOWER_18394790_比心%5D.png" height="60" alt="比心"/>|[链接](https://i0.hdslb.com/bfs/garb/2303b0da82b1668126abd683381268a8eed70208.png)|2024-03-12 22:07:37|

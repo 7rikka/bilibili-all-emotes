@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |29703|[狮子王_趴]|<img src="./pic/029703_%5B狮子王_趴%5D.png" height="60" alt="趴"/>|[链接](https://i0.hdslb.com/bfs/emote/3c8e06b0e26d8ee2d3bb0e887ce1501fc482d542.png)|2023-05-25 11:43:01|
-|29704|[狮子王_好奇]|<img src="./pic/029704_%5B狮子王_好奇%5D.png" height="60" alt="好奇"/>|[链接](https://i0.hdslb.com/bfs/emote/23d516786959b7c0f2377b94d6aea8f5ea97050e.png)|2023-05-25 11:43:01|
+|29704|[狮子王_好奇]|<img src="./pic/029704_%5B狮子王_好奇%5D.png" height="60" alt="好奇"/>|[链接](https://i0.hdslb.com/bfs/emote/23d516786959b7c0f2377b94d6aea8f5ea97050e.png)|2023-05-25 19:17:40|
 |29705|[狮子王_来玩]|<img src="./pic/029705_%5B狮子王_来玩%5D.png" height="60" alt="来玩"/>|[链接](https://i0.hdslb.com/bfs/emote/5f1282ed9531a5b11f3830ff676487ffdaaeb35d.png)|2023-05-25 11:43:01|
 |29706|[狮子王_散步]|<img src="./pic/029706_%5B狮子王_散步%5D.png" height="60" alt="散步"/>|[链接](https://i0.hdslb.com/bfs/emote/9959a819c681b12aa212f30f3ef5c4c4c28bd9b1.png)|2023-05-25 11:43:01|
 |29707|[狮子王_歇会]|<img src="./pic/029707_%5B狮子王_歇会%5D.png" height="60" alt="歇会"/>|[链接](https://i0.hdslb.com/bfs/emote/55f6e24da15fdb24a8fc0db34a7487f9d5274a96.png)|2023-05-25 11:43:01|
