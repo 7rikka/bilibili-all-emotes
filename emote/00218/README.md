@@ -18,8 +18,8 @@
 |3837|[燃烧的远征_死吧虫子]|<img src="./pic/003837_%5B燃烧的远征_死吧虫子%5D.png" height="60" alt="死吧虫子"/>|[链接](http://i0.hdslb.com/bfs/emote/3678915942fce69eb6e2202cf8f157a708372593.png)|2021-06-01 14:34:05|
 |3838|[燃烧的远征_屠龙者咆哮]|<img src="./pic/003838_%5B燃烧的远征_屠龙者咆哮%5D.png" height="60" alt="屠龙者咆哮"/>|[链接](http://i0.hdslb.com/bfs/emote/fc1f509fee723a454330f1de7ed35f6d457a3caf.png)|2021-06-01 14:34:05|
 |3839|[燃烧的远征_亡灵马]|<img src="./pic/003839_%5B燃烧的远征_亡灵马%5D.png" height="60" alt="亡灵马"/>|[链接](http://i0.hdslb.com/bfs/emote/dbe890d2d5f005c9b09bb634ccfc56fb9f79d74f.png)|2021-06-01 14:34:05|
-|3840|[燃烧的远征_兄弟剑]|<img src="./pic/003840_%5B燃烧的远征_兄弟剑%5D.png" height="60" alt="兄弟剑"/>|[链接](http://i0.hdslb.com/bfs/emote/05d86a7f2bf0e4b8a6a577448e350c6c947e5a27.png)|2021-06-20 16:06:06|
-|3841|[燃烧的远征_赞达拉之魂]|<img src="./pic/003841_%5B燃烧的远征_赞达拉之魂%5D.png" height="60" alt="赞达拉之魂"/>|[链接](http://i0.hdslb.com/bfs/emote/6e6ca48268f27f2a726bd41ed3093bd743183e83.png)|2021-06-20 16:30:12|
+|3840|[燃烧的远征_兄弟剑]|<img src="./pic/003840_%5B燃烧的远征_兄弟剑%5D.png" height="60" alt="兄弟剑"/>|[链接](http://i0.hdslb.com/bfs/emote/05d86a7f2bf0e4b8a6a577448e350c6c947e5a27.png)|2021-06-01 14:34:05|
+|3841|[燃烧的远征_赞达拉之魂]|<img src="./pic/003841_%5B燃烧的远征_赞达拉之魂%5D.png" height="60" alt="赞达拉之魂"/>|[链接](http://i0.hdslb.com/bfs/emote/6e6ca48268f27f2a726bd41ed3093bd743183e83.png)|2021-06-01 14:34:05|
 |3842|[燃烧的远征_震惊]|<img src="./pic/003842_%5B燃烧的远征_震惊%5D.png" height="60" alt="震惊"/>|[链接](http://i0.hdslb.com/bfs/emote/16bd08a91416b7a0292518d5418b58ceecc67ee8.png)|2021-06-01 14:34:05|
 
 # 原始数据

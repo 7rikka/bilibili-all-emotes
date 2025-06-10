@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|92020|[UPOWER_27735697_好耶]|<img src="./pic/092020_%5BUPOWER_27735697_好耶%5D.png" height="60" alt="好耶"/>|[链接](https://i0.hdslb.com/bfs/garb/1d7886675187aaaa1ccf7cac3432d3b9c6b5dded.png)|2024-10-19 19:35:57|
+|92020|[UPOWER_27735697_好耶]|<img src="./pic/092020_%5BUPOWER_27735697_好耶%5D.png" height="60" alt="好耶"/>|[链接](https://i0.hdslb.com/bfs/garb/1d7886675187aaaa1ccf7cac3432d3b9c6b5dded.png)|2024-10-18 10:55:00|
 |92021|[UPOWER_27735697_可爱]|<img src="./pic/092021_%5BUPOWER_27735697_可爱%5D.png" height="60" alt="可爱"/>|[链接](https://i0.hdslb.com/bfs/garb/ab51fe2e6333fb4e06b7fc2846fa3c115c41c70a.png)|2024-10-19 19:35:57|
 |92022|[UPOWER_27735697_略略略]|<img src="./pic/092022_%5BUPOWER_27735697_略略略%5D.png" height="60" alt="略略略"/>|[链接](https://i0.hdslb.com/bfs/garb/edd3ad54ad40508a5507a0c32a88499a4742f74b.png)|2024-10-19 19:35:57|
 |92023|[UPOWER_27735697_啊这]|<img src="./pic/092023_%5BUPOWER_27735697_啊这%5D.png" height="60" alt="啊这"/>|[链接](https://i0.hdslb.com/bfs/garb/770ee35511545e0339ff777c8db7503a0a01ed3c.png)|2024-10-19 19:35:57|

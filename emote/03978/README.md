@@ -25,7 +25,7 @@
 |56020|[全职高手收藏集_叹气]|<img src="./pic/056020_%5B全职高手收藏集_叹气%5D.png" height="60" alt="叹气"/>|[链接](https://i0.hdslb.com/bfs/emote/d81fc0c3225ca8a9115b289e6c3b489f94a16a40.png)|2023-12-12 17:22:54|
 |56021|[全职高手收藏集_赞]|<img src="./pic/056021_%5B全职高手收藏集_赞%5D.png" height="60" alt="赞"/>|[链接](https://i0.hdslb.com/bfs/emote/24e61f7db6b2a97a21d0b57a44f4901c1c00890b.png)|2023-12-12 17:22:54|
 |56022|[全职高手收藏集_额]|<img src="./pic/056022_%5B全职高手收藏集_额%5D.png" height="60" alt="额"/>|[链接](https://i0.hdslb.com/bfs/emote/1f2fe4571f9d3e81ec05317297827ec01d2581e2.png)|2023-12-12 17:25:05|
-|56023|[全职高手收藏集_晚安]|<img src="./pic/056023_%5B全职高手收藏集_晚安%5D.png" height="60" alt="晚安"/>|[链接](https://i0.hdslb.com/bfs/emote/83e6646274d7b8eef75bed954ab589577b13a694.png)|2023-12-12 17:25:05|
+|56023|[全职高手收藏集_晚安]|<img src="./pic/056023_%5B全职高手收藏集_晚安%5D.png" height="60" alt="晚安"/>|[链接](https://i0.hdslb.com/bfs/emote/83e6646274d7b8eef75bed954ab589577b13a694.png)|2023-12-12 12:02:00|
 
 # 原始数据
 

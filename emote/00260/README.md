@@ -18,8 +18,8 @@
 |4326|[古守血遊_寂寞]|<img src="./pic/004326_%5B古守血遊_寂寞%5D.png" height="60" alt="寂寞"/>|[链接](http://i0.hdslb.com/bfs/emote/aa0047cfb895ab0c6cfc013d52ac02e90e3d7250.png)|2021-07-28 19:00:19|
 |4327|[古守血遊_摸鱼]|<img src="./pic/004327_%5B古守血遊_摸鱼%5D.png" height="60" alt="摸鱼"/>|[链接](http://i0.hdslb.com/bfs/emote/302309a87be1f6bbda707074510910eda77bf907.png)|2021-07-28 19:00:19|
 |4328|[古守血遊_睡大觉]|<img src="./pic/004328_%5B古守血遊_睡大觉%5D.png" height="60" alt="睡大觉"/>|[链接](http://i0.hdslb.com/bfs/emote/c82cb1df8611df8f61f8088ccb84cfb878373609.png)|2021-07-28 19:00:19|
-|4329|[古守血遊_嗦面]|<img src="./pic/004329_%5B古守血遊_嗦面%5D.png" height="60" alt="嗦面"/>|[链接](http://i0.hdslb.com/bfs/emote/d92330c92795a74612614edabaece9db30117ab1.png)|2021-07-05 17:25:47|
-|4330|[古守血遊_通宵]|<img src="./pic/004330_%5B古守血遊_通宵%5D.png" height="60" alt="通宵"/>|[链接](http://i0.hdslb.com/bfs/emote/02a023c65736507e3e0db34e4f099829b9af968a.png)|2021-07-05 17:25:47|
+|4329|[古守血遊_嗦面]|<img src="./pic/004329_%5B古守血遊_嗦面%5D.png" height="60" alt="嗦面"/>|[链接](http://i0.hdslb.com/bfs/emote/d92330c92795a74612614edabaece9db30117ab1.png)|2021-07-28 19:00:19|
+|4330|[古守血遊_通宵]|<img src="./pic/004330_%5B古守血遊_通宵%5D.png" height="60" alt="通宵"/>|[链接](http://i0.hdslb.com/bfs/emote/02a023c65736507e3e0db34e4f099829b9af968a.png)|2021-07-28 19:00:19|
 |4331|[古守血遊_早上好]|<img src="./pic/004331_%5B古守血遊_早上好%5D.png" height="60" alt="早上好"/>|[链接](http://i0.hdslb.com/bfs/emote/434abdbd291362b370d2fb7cbfa8137054dc186d.png)|2021-07-28 19:00:19|
 
 # 原始数据

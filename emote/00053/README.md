@@ -92,7 +92,7 @@
 |52225|[热词系列_哇酷哇酷]|<img src="./pic/052225_%5B热词系列_哇酷哇酷%5D.png" height="60" alt="哇酷哇酷"/>|[链接](https://i0.hdslb.com/bfs/emote/04dbba8080a3d2eeeb2b80f845ff6b4b5232643b.png)|2023-11-10 15:50:26|
 |52226|[热词系列_呵呵]|<img src="./pic/052226_%5B热词系列_呵呵%5D.png" height="60" alt="呵呵"/>|[链接](https://i0.hdslb.com/bfs/emote/2b20ec5940137d61b4172747c349dcb105e94eff.png)|2023-11-10 15:50:26|
 |56450|[热词系列_啊?]|<img src="./pic/056450_%5B热词系列_啊_%5D.png" height="60" alt="啊?"/>|[链接](https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png)|2023-12-15 11:11:00|
-|62993|[热词系列_什么叫惊喜]|<img src="./pic/062993_%5B热词系列_什么叫惊喜%5D.png" height="60" alt="什么叫惊喜"/>|[链接](https://i0.hdslb.com/bfs/emote/1cd63f468918e8aa6ee0b3d84caf76215211a767.png)|2024-02-15 17:49:29|
+|62993|[热词系列_什么叫惊喜]|<img src="./pic/062993_%5B热词系列_什么叫惊喜%5D.png" height="60" alt="什么叫惊喜"/>|[链接](https://i0.hdslb.com/bfs/emote/1cd63f468918e8aa6ee0b3d84caf76215211a767.png)|2025-06-09 14:45:10|
 |62994|[热词系列_上任鹅城]|<img src="./pic/062994_%5B热词系列_上任鹅城%5D.png" height="60" alt="上任鹅城"/>|[链接](https://i0.hdslb.com/bfs/emote/2de0e94aeb749acf34441b0a2987135b62b16b8c.png)|2024-02-15 13:18:24|
 |62995|[热词系列_再飞亿会儿]|<img src="./pic/062995_%5B热词系列_再飞亿会儿%5D.png" height="60" alt="再飞亿会儿"/>|[链接](https://i0.hdslb.com/bfs/emote/3edcc48d6dae8d330fbdd8047e289c464b1e57b7.png)|2024-02-15 17:49:29|
 |65685|[热词系列_守护世界]|<img src="./pic/065685_%5B热词系列_守护世界%5D.png" height="60" alt="守护世界"/>|[链接](https://i0.hdslb.com/bfs/emote/267e64cf2d1507af6186acf3dc14c9a29ab0d3f2.png)|2024-03-07 17:36:31|
@@ -112,8 +112,11 @@
 |100820|[热词系列_好人好抱]|<img src="./pic/100820_%5B热词系列_好人好抱%5D.png" height="60" alt="好人好抱"/>|[链接](https://i0.hdslb.com/bfs/emote/5131c2fddf5d4857b26b0a1e98e6d626f64f7d25.png)|2025-01-13 15:35:30|
 |100821|[热词系列_接好运]|<img src="./pic/100821_%5B热词系列_接好运%5D.png" height="60" alt="接好运"/>|[链接](https://i0.hdslb.com/bfs/emote/8dde1762a7647992ec1e055f86c8bf91f5bdc05b.png)|2025-01-13 15:35:30|
 |102630|[热词系列_再给一集]|<img src="./pic/102630_%5B热词系列_再给一集%5D.png" height="60" alt="再给一集"/>|[链接](https://i0.hdslb.com/bfs/emote/9f5e7d6a2d6171f8a96b9d112cc97278eaf5acca.png)|2025-01-24 17:58:37|
-|107279|[热词系列_赛博考古]|<img src="./pic/107279_%5B热词系列_赛博考古%5D.png" height="60" alt="赛博考古"/>|[链接](https://i0.hdslb.com/bfs/emote/590a6fdc7f0af07363975cf2e17a5f9972968891.png)|2025-03-31 19:05:56|
+|107279|[热词系列_赛博考古]|<img src="./pic/107279_%5B热词系列_赛博考古%5D.png" height="60" alt="赛博考古"/>|[链接](https://i0.hdslb.com/bfs/emote/590a6fdc7f0af07363975cf2e17a5f9972968891.png)|2025-06-09 14:52:24|
 |109268|[热词系列_开幕雷击]|<img src="./pic/109268_%5B热词系列_开幕雷击%5D.png" height="60" alt="开幕雷击"/>|[链接](https://i0.hdslb.com/bfs/emote/d05801f79df7bd6a4240fc213c0d7c7b3c10ffb5.png)|2025-04-23 14:30:58|
+|111750|[热词系列_确诊为好人]|<img src="./pic/111750_%5B热词系列_确诊为好人%5D.png" height="60" alt="确诊为好人"/>|[链接](https://i0.hdslb.com/bfs/emote/c5d47a9f6cbd087589734b3afb47d45b3dbb20df.png)|2025-05-29 20:33:03|
+|111751|[热词系列_暖暖的]|<img src="./pic/111751_%5B热词系列_暖暖的%5D.png" height="60" alt="暖暖的"/>|[链接](https://i0.hdslb.com/bfs/emote/6e23b860f432b72bb789ed82b4202aafa7967306.png)|2025-05-29 20:33:03|
+|111752|[热词系列_你是这个]|<img src="./pic/111752_%5B热词系列_你是这个%5D.png" height="60" alt="你是这个"/>|[链接](https://i0.hdslb.com/bfs/emote/50f698b5e4d903e2a82cbc3d767d24e039f73e6a.png)|2025-05-29 20:33:03|
 
 # 原始数据
 

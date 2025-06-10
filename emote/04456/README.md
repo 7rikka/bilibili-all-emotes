@@ -13,7 +13,7 @@
 |63055|[炸毛小天师-新年_手慢了]|<img src="./pic/063055_%5B炸毛小天师-新年_手慢了%5D.png" height="60" alt="手慢了"/>|[链接](https://i0.hdslb.com/bfs/garb/f6a20bc1d54fcac3e72ec53ddd1e085988efca39.png)|2024-02-06 11:00:00|
 |63056|[炸毛小天师-新年_心想事成]|<img src="./pic/063056_%5B炸毛小天师-新年_心想事成%5D.png" height="60" alt="心想事成"/>|[链接](https://i0.hdslb.com/bfs/garb/a5f4df15c4e629ba43d7eb88d4064ba52eba8575.png)|2024-02-06 11:00:00|
 |63057|[炸毛小天师-新年_出来玩]|<img src="./pic/063057_%5B炸毛小天师-新年_出来玩%5D.png" height="60" alt="出来玩"/>|[链接](https://i0.hdslb.com/bfs/garb/efa9e7a97a51aa1b36c841583f5a5f41140794ed.png)|2024-02-06 11:00:00|
-|63058|[炸毛小天师-新年_发财]|<img src="./pic/063058_%5B炸毛小天师-新年_发财%5D.png" height="60" alt="发财"/>|[链接](https://i0.hdslb.com/bfs/garb/3bba96ea613c33d0d70e1fe739117f02a2c5c5b9.png)|2024-02-06 11:00:00|
+|63058|[炸毛小天师-新年_发财]|<img src="./pic/063058_%5B炸毛小天师-新年_发财%5D.png" height="60" alt="发财"/>|[链接](https://i0.hdslb.com/bfs/garb/3bba96ea613c33d0d70e1fe739117f02a2c5c5b9.png)|2024-02-05 17:18:30|
 |63059|[炸毛小天师-新年_摸摸摸]|<img src="./pic/063059_%5B炸毛小天师-新年_摸摸摸%5D.png" height="60" alt="摸摸摸"/>|[链接](https://i0.hdslb.com/bfs/garb/f171e31777c7dcdda39723673c6d48513e313f95.png)|2024-02-06 11:00:00|
 |63060|[炸毛小天师-新年_发红包]|<img src="./pic/063060_%5B炸毛小天师-新年_发红包%5D.png" height="60" alt="发红包"/>|[链接](https://i0.hdslb.com/bfs/garb/cea2e2290b46fbd4bf0e7e8f0841a409a326277f.png)|2024-02-06 11:00:00|
 |63061|[炸毛小天师-新年_困]|<img src="./pic/063061_%5B炸毛小天师-新年_困%5D.png" height="60" alt="困"/>|[链接](https://i0.hdslb.com/bfs/garb/3c2b44f3d9c3a4304da4af45ce3e10302f1b9e56.png)|2024-02-06 11:00:00|

@@ -40,7 +40,7 @@
 |9671|[DOTA2  2022年国际邀请赛_蟹不肉]|<img src="./pic/009671_%5BDOTA2  2022年国际邀请赛_蟹不肉%5D.png" height="60" alt="蟹不肉"/>|[链接](http://i0.hdslb.com/bfs/emote/9c4dddb2983fdb8a56388d56d67b5654059bf522.png)|2022-10-13 21:33:10|
 |9672|[DOTA2  2022年国际邀请赛_心态崩了]|<img src="./pic/009672_%5BDOTA2  2022年国际邀请赛_心态崩了%5D.png" height="60" alt="心态崩了"/>|[链接](http://i0.hdslb.com/bfs/emote/8b296d5627edfa2e3362e2e54af4a65570821dc0.png)|2022-10-13 21:33:10|
 |9673|[DOTA2  2022年国际邀请赛_秀]|<img src="./pic/009673_%5BDOTA2  2022年国际邀请赛_秀%5D.png" height="60" alt="秀"/>|[链接](http://i0.hdslb.com/bfs/emote/e651110144e61ff9981b85413806257fb67f450b.png)|2022-10-13 21:33:10|
-|9674|[DOTA2  2022年国际邀请赛_真香]|<img src="./pic/009674_%5BDOTA2  2022年国际邀请赛_真香%5D.png" height="60" alt="真香"/>|[链接](http://i0.hdslb.com/bfs/emote/1e0e736f614582f2fd3efd25826197a216143bc7.png)|2022-10-13 21:33:07|
+|9674|[DOTA2  2022年国际邀请赛_真香]|<img src="./pic/009674_%5BDOTA2  2022年国际邀请赛_真香%5D.png" height="60" alt="真香"/>|[链接](http://i0.hdslb.com/bfs/emote/1e0e736f614582f2fd3efd25826197a216143bc7.png)|2022-10-13 21:33:10|
 
 # 原始数据
 

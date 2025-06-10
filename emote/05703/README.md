@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|83829|[航海王强者天下_无语]|<img src="./pic/083829_%5B航海王强者天下_无语%5D.png" height="60" alt="无语"/>|[链接](https://i0.hdslb.com/bfs/garb/b8e2c699123a4e2ec06afa97998d5ad0024aa131.png)|2024-08-22 13:01:00|
+|83829|[航海王强者天下_无语]|<img src="./pic/083829_%5B航海王强者天下_无语%5D.png" height="60" alt="无语"/>|[链接](https://i0.hdslb.com/bfs/garb/b8e2c699123a4e2ec06afa97998d5ad0024aa131.png)|2024-08-26 17:55:10|
 |83830|[航海王强者天下_自信]|<img src="./pic/083830_%5B航海王强者天下_自信%5D.png" height="60" alt="自信"/>|[链接](https://i0.hdslb.com/bfs/garb/4e8c892aeac079234753c3a61cf736c7f7b36a4b.png)|2024-08-22 13:01:00|
 |83831|[航海王强者天下_期待]|<img src="./pic/083831_%5B航海王强者天下_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/garb/fdafe2e42a640ff5146d92ce7a414e5bd065ee85.png)|2024-08-22 13:01:00|
 |83832|[航海王强者天下_思考]|<img src="./pic/083832_%5B航海王强者天下_思考%5D.png" height="60" alt="思考"/>|[链接](https://i0.hdslb.com/bfs/garb/4f875d8771f30ed18e3f97aacf16da7fdc3b7ebf.png)|2024-08-22 13:01:00|

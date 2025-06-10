@@ -30,7 +30,7 @@
 |6841|[姆明_我美吗]|<img src="./pic/006841_%5B姆明_我美吗%5D.png" height="60" alt="我美吗"/>|[链接](http://i0.hdslb.com/bfs/emote/824b46baebbb5c0c322d90c87444249610a383b4.png)|2022-05-31 11:31:09|
 |6842|[姆明_下雨]|<img src="./pic/006842_%5B姆明_下雨%5D.png" height="60" alt="下雨"/>|[链接](http://i0.hdslb.com/bfs/emote/3d01f673ab305c493a8d32c1556a466d7839cdd3.png)|2022-05-31 11:31:09|
 |6843|[姆明_修理]|<img src="./pic/006843_%5B姆明_修理%5D.png" height="60" alt="修理"/>|[链接](http://i0.hdslb.com/bfs/emote/991d1ce25ff11e4ec7298e70033578546ad5fc10.png)|2022-05-31 11:31:09|
-|6844|[姆明_织毛衣]|<img src="./pic/006844_%5B姆明_织毛衣%5D.png" height="60" alt="织毛衣"/>|[链接](http://i0.hdslb.com/bfs/emote/2dc46fe30c4f788dfc66293776439eefb1ae85ea.png)|2022-06-23 11:39:05|
+|6844|[姆明_织毛衣]|<img src="./pic/006844_%5B姆明_织毛衣%5D.png" height="60" alt="织毛衣"/>|[链接](http://i0.hdslb.com/bfs/emote/2dc46fe30c4f788dfc66293776439eefb1ae85ea.png)|2022-05-31 11:31:09|
 
 # 原始数据
 

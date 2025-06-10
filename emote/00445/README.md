@@ -7,7 +7,7 @@
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
 |7713|[传统美食_八宝饭]|<img src="./pic/007713_%5B传统美食_八宝饭%5D.png" height="60" alt="八宝饭"/>|[链接](http://i0.hdslb.com/bfs/emote/eb87118d7c9cb42c060f52fb61c630a586a431a7.png)|2022-07-26 17:52:37|
-|7714|[传统美食_大蒜]|<img src="./pic/007714_%5B传统美食_大蒜%5D.png" height="60" alt="大蒜"/>|[链接](http://i0.hdslb.com/bfs/emote/9df61cf211f1de0ffd3f420bf10db7989f2871a4.png)|2022-07-26 17:52:30|
+|7714|[传统美食_大蒜]|<img src="./pic/007714_%5B传统美食_大蒜%5D.png" height="60" alt="大蒜"/>|[链接](http://i0.hdslb.com/bfs/emote/9df61cf211f1de0ffd3f420bf10db7989f2871a4.png)|2022-07-26 17:52:37|
 |7715|[传统美食_大肘子]|<img src="./pic/007715_%5B传统美食_大肘子%5D.png" height="60" alt="大肘子"/>|[链接](http://i0.hdslb.com/bfs/emote/33c7a63261ef319d440fe98f459e48ec4a829011.png)|2022-07-26 17:52:37|
 |7716|[传统美食_火锅]|<img src="./pic/007716_%5B传统美食_火锅%5D.png" height="60" alt="火锅"/>|[链接](http://i0.hdslb.com/bfs/emote/9b16b52bd987aa87d1c847887099df62e078829b.png)|2022-07-26 17:52:37|
 |7717|[传统美食_饺子]|<img src="./pic/007717_%5B传统美食_饺子%5D.png" height="60" alt="饺子"/>|[链接](http://i0.hdslb.com/bfs/emote/dcfa2d8406c799050cebacb68744ae7fd3f744c9.png)|2022-07-26 17:52:37|
