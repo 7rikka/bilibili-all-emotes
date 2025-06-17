@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|39018|[水豚阿米go_属性大爆发]|<img src="./pic/039018_%5B水豚阿米go_属性大爆发%5D.png" height="60" alt="属性大爆发"/>|[链接](https://i0.hdslb.com/bfs/garb/4b69ca8d6328e7c1ba73d22876e2947764a2f8f0.png)|2023-07-28 14:05:10|
+|39018|[水豚阿米go_属性大爆发]|<img src="./pic/039018_%5B水豚阿米go_属性大爆发%5D.png" height="60" alt="属性大爆发"/>|[链接](https://i0.hdslb.com/bfs/garb/4b69ca8d6328e7c1ba73d22876e2947764a2f8f0.png)|2023-07-28 11:06:40|
 |39019|[水豚阿米go_尝试理解]|<img src="./pic/039019_%5B水豚阿米go_尝试理解%5D.png" height="60" alt="尝试理解"/>|[链接](https://i0.hdslb.com/bfs/garb/a3fde503754215304f7e44f3d79084c6b37a9ab2.png)|2023-07-28 14:05:10|
 |39020|[水豚阿米go_先走了]|<img src="./pic/039020_%5B水豚阿米go_先走了%5D.png" height="60" alt="先走了"/>|[链接](https://i0.hdslb.com/bfs/garb/bda42b0a03d0929a61d3ff4cf0bf56ee148f477d.png)|2023-07-28 14:05:10|
 |39021|[水豚阿米go_写在脸上]|<img src="./pic/039021_%5B水豚阿米go_写在脸上%5D.png" height="60" alt="写在脸上"/>|[链接](https://i0.hdslb.com/bfs/garb/9210bc756f1548e0d9cd53dd994da778151ec59b.png)|2023-07-28 14:05:10|

@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|92922|[果宝收藏集-动态表情包_给我等着]|<img src="./pic/092922_%5B果宝收藏集-动态表情包_给我等着%5D.gif" height="60" alt="给我等着"/>|[链接](https://i0.hdslb.com/bfs/garb/2c7f138b3f833156f25619c55f81b43cf0c83f04.gif)|2024-10-28 12:01:00|
+|92922|[果宝收藏集-动态表情包_给我等着]|<img src="./pic/092922_%5B果宝收藏集-动态表情包_给我等着%5D.gif" height="60" alt="给我等着"/>|[链接](https://i0.hdslb.com/bfs/garb/2c7f138b3f833156f25619c55f81b43cf0c83f04.gif)|2024-10-24 10:57:50|
 |92923|[果宝收藏集-动态表情包_嫌弃]|<img src="./pic/092923_%5B果宝收藏集-动态表情包_嫌弃%5D.gif" height="60" alt="嫌弃"/>|[链接](https://i0.hdslb.com/bfs/garb/eef176823b7cb5c5a7f28208a6cac28225fb912f.gif)|2024-10-28 12:01:00|
 |92924|[果宝收藏集-动态表情包_真的音乐]|<img src="./pic/092924_%5B果宝收藏集-动态表情包_真的音乐%5D.gif" height="60" alt="真的音乐"/>|[链接](https://i0.hdslb.com/bfs/garb/a8f33845e3ba533bbc4dd2a0b17d23bb9bbe009a.gif)|2024-10-28 12:01:00|
 |92925|[果宝收藏集-动态表情包_娃娃菜]|<img src="./pic/092925_%5B果宝收藏集-动态表情包_娃娃菜%5D.gif" height="60" alt="娃娃菜"/>|[链接](https://i0.hdslb.com/bfs/garb/df42fb2a2de4c2ebd1612caa53b2d7d462264b4d.gif)|2024-10-28 12:01:00|

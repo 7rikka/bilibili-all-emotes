@@ -19,7 +19,7 @@
 |60058|[装扮小姐姐·森之精灵_虾仁不眨眼]|<img src="./pic/060058_%5B装扮小姐姐·森之精灵_虾仁不眨眼%5D.png" height="60" alt="虾仁不眨眼"/>|[链接](https://i0.hdslb.com/bfs/emote/44e64e14671c14aa95c1e7c1f0cb53c2884f9e91.png)|2024-01-11 18:35:54|
 |60059|[装扮小姐姐·森之精灵_喜欢]|<img src="./pic/060059_%5B装扮小姐姐·森之精灵_喜欢%5D.png" height="60" alt="喜欢"/>|[链接](https://i0.hdslb.com/bfs/emote/57963d5208d4b3254f63ab138cc2811ff2892c1f.png)|2024-01-11 18:35:54|
 |60060|[装扮小姐姐·森之精灵_给点]|<img src="./pic/060060_%5B装扮小姐姐·森之精灵_给点%5D.png" height="60" alt="给点"/>|[链接](https://i0.hdslb.com/bfs/emote/63d03756f0922fd7184b524d7d65436e71327d83.png)|2024-01-11 18:35:54|
-|60061|[装扮小姐姐·森之精灵_隐忍]|<img src="./pic/060061_%5B装扮小姐姐·森之精灵_隐忍%5D.png" height="60" alt="隐忍"/>|[链接](https://i0.hdslb.com/bfs/emote/554072ee1e1dc78e3410e2cdbeafd55cd744990a.png)|2024-01-08 14:00:00|
+|60061|[装扮小姐姐·森之精灵_隐忍]|<img src="./pic/060061_%5B装扮小姐姐·森之精灵_隐忍%5D.png" height="60" alt="隐忍"/>|[链接](https://i0.hdslb.com/bfs/emote/554072ee1e1dc78e3410e2cdbeafd55cd744990a.png)|2024-01-11 18:35:54|
 |60062|[装扮小姐姐·森之精灵_记仇]|<img src="./pic/060062_%5B装扮小姐姐·森之精灵_记仇%5D.png" height="60" alt="记仇"/>|[链接](https://i0.hdslb.com/bfs/emote/076a89f0ce627459b4cb5592ef1639cf32c6637f.png)|2024-01-11 18:35:54|
 |60063|[装扮小姐姐·森之精灵_听我解释]|<img src="./pic/060063_%5B装扮小姐姐·森之精灵_听我解释%5D.png" height="60" alt="听我解释"/>|[链接](https://i0.hdslb.com/bfs/emote/340e8b697467985879fa98f285143ff0276d73c0.png)|2024-01-11 18:35:54|
 |60064|[装扮小姐姐·森之精灵_求收养]|<img src="./pic/060064_%5B装扮小姐姐·森之精灵_求收养%5D.png" height="60" alt="求收养"/>|[链接](https://i0.hdslb.com/bfs/emote/14d9a0d7999d4f975a4f154c71297a6d3d5d0a77.png)|2024-01-11 18:35:54|

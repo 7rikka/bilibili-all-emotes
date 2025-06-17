@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|49315|[LNG·2023LPL出征_无语]|<img src="./pic/049315_%5BLNG·2023LPL出征_无语%5D.png" height="60" alt="无语"/>|[链接](https://i0.hdslb.com/bfs/emote/f93ba876b07675f5168bce1f72cd79ad4594aec7.png)|2023-10-12 00:00:00|
-|49316|[LNG·2023LPL出征_这波稳了]|<img src="./pic/049316_%5BLNG·2023LPL出征_这波稳了%5D.png" height="60" alt="这波稳了"/>|[链接](https://i0.hdslb.com/bfs/emote/1c5526b0a09828a4ca4be4fc79f24de31e2121c4.png)|2023-10-12 00:00:00|
+|49315|[LNG·2023LPL出征_无语]|<img src="./pic/049315_%5BLNG·2023LPL出征_无语%5D.png" height="60" alt="无语"/>|[链接](https://i0.hdslb.com/bfs/emote/f93ba876b07675f5168bce1f72cd79ad4594aec7.png)|2023-10-17 16:03:54|
+|49316|[LNG·2023LPL出征_这波稳了]|<img src="./pic/049316_%5BLNG·2023LPL出征_这波稳了%5D.png" height="60" alt="这波稳了"/>|[链接](https://i0.hdslb.com/bfs/emote/1c5526b0a09828a4ca4be4fc79f24de31e2121c4.png)|2023-10-17 16:03:54|
 |49317|[LNG·2023LPL出征_捧腹大笑]|<img src="./pic/049317_%5BLNG·2023LPL出征_捧腹大笑%5D.png" height="60" alt="捧腹大笑"/>|[链接](https://i0.hdslb.com/bfs/emote/decef364db22604e7fd89874053ef026be44c28e.png)|2023-10-17 16:03:54|
 |49318|[LNG·2023LPL出征_入侵野区]|<img src="./pic/049318_%5BLNG·2023LPL出征_入侵野区%5D.png" height="60" alt="入侵野区"/>|[链接](https://i0.hdslb.com/bfs/emote/d976e028a53b4a731d1d6f161d76f95f570a010e.png)|2023-10-17 16:03:54|
 |49319|[LNG·2023LPL出征_打小龙]|<img src="./pic/049319_%5BLNG·2023LPL出征_打小龙%5D.png" height="60" alt="打小龙"/>|[链接](https://i0.hdslb.com/bfs/emote/e1d03a9bff41b6fb1a287c4d512c7e93d12dfe1a.png)|2023-10-17 16:03:54|

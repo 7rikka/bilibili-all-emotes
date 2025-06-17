@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|6968|[奶龙_熬夜]|<img src="./pic/006968_%5B奶龙_熬夜%5D.png" height="60" alt="熬夜"/>|[链接](http://i0.hdslb.com/bfs/emote/3f66098b21137ded994e10a4edc0a107b7e2576c.png)|2022-06-20 15:00:16|
+|6968|[奶龙_熬夜]|<img src="./pic/006968_%5B奶龙_熬夜%5D.png" height="60" alt="熬夜"/>|[链接](http://i0.hdslb.com/bfs/emote/3f66098b21137ded994e10a4edc0a107b7e2576c.png)|2022-06-10 19:20:33|
 |6969|[奶龙_呆滞]|<img src="./pic/006969_%5B奶龙_呆滞%5D.png" height="60" alt="呆滞"/>|[链接](http://i0.hdslb.com/bfs/emote/d389432fea9404e45069c3bacea567bffd2e4f15.png)|2022-06-20 15:00:16|
 |6970|[奶龙_酸了]|<img src="./pic/006970_%5B奶龙_酸了%5D.png" height="60" alt="酸了"/>|[链接](http://i0.hdslb.com/bfs/emote/886fffbbce7c932c588b5941294c50ba38ba5ea1.png)|2022-06-20 15:00:16|
 |6971|[奶龙_我是小丑]|<img src="./pic/006971_%5B奶龙_我是小丑%5D.png" height="60" alt="我是小丑"/>|[链接](http://i0.hdslb.com/bfs/emote/4b0fdc01146988a49ad318f3c6ca5b3f3d2e85b6.png)|2022-06-20 15:00:16|

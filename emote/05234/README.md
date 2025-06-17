@@ -19,13 +19,13 @@
 |76343|[雪狐桑·表情包_叹气]|<img src="./pic/076343_%5B雪狐桑·表情包_叹气%5D.png" height="60" alt="叹气"/>|[链接](https://i0.hdslb.com/bfs/garb/3ac22bbac9be494bbc8924211fa8ce70e58803ec.png)|2024-06-20 18:01:00|
 |76344|[雪狐桑·表情包_兄弟]|<img src="./pic/076344_%5B雪狐桑·表情包_兄弟%5D.png" height="60" alt="兄弟"/>|[链接](https://i0.hdslb.com/bfs/garb/6e122f7edf8fbe9bc218fc79265cb59e9c3d7d6b.png)|2024-06-20 18:01:00|
 |76345|[雪狐桑·表情包_睡觉]|<img src="./pic/076345_%5B雪狐桑·表情包_睡觉%5D.png" height="60" alt="睡觉"/>|[链接](https://i0.hdslb.com/bfs/garb/e0250259c2b6b8bdf941ee8ac01529fd5e8ded4e.png)|2024-06-20 18:01:00|
-|76346|[雪狐桑·表情包_记仇]|<img src="./pic/076346_%5B雪狐桑·表情包_记仇%5D.png" height="60" alt="记仇"/>|[链接](https://i0.hdslb.com/bfs/garb/dd90e6bba2911dcd35e41b85a8f0b86b85b3e267.png)|2024-06-20 18:01:00|
+|76346|[雪狐桑·表情包_记仇]|<img src="./pic/076346_%5B雪狐桑·表情包_记仇%5D.png" height="60" alt="记仇"/>|[链接](https://i0.hdslb.com/bfs/garb/dd90e6bba2911dcd35e41b85a8f0b86b85b3e267.png)|2024-06-21 11:44:05|
 |76347|[雪狐桑·表情包_菜就多练]|<img src="./pic/076347_%5B雪狐桑·表情包_菜就多练%5D.png" height="60" alt="菜就多练"/>|[链接](https://i0.hdslb.com/bfs/garb/5740f9e2cd4ed98bdd006a398ad3da2829cba6b9.png)|2024-06-20 18:01:00|
 |76348|[雪狐桑·表情包_流汗]|<img src="./pic/076348_%5B雪狐桑·表情包_流汗%5D.png" height="60" alt="流汗"/>|[链接](https://i0.hdslb.com/bfs/garb/fbc1f180dc7b264aa5a98f6e631fb630676827ba.png)|2024-06-20 18:01:00|
 |76349|[雪狐桑·表情包_困]|<img src="./pic/076349_%5B雪狐桑·表情包_困%5D.png" height="60" alt="困"/>|[链接](https://i0.hdslb.com/bfs/garb/1281af3ca7099cc2799acfbbedf5466f203a386f.png)|2024-06-20 18:01:00|
 |76350|[雪狐桑·表情包_喜欢]|<img src="./pic/076350_%5B雪狐桑·表情包_喜欢%5D.png" height="60" alt="喜欢"/>|[链接](https://i0.hdslb.com/bfs/garb/457066997f845159d9a81e92e6bd6518666574a5.png)|2024-06-20 18:01:00|
 |76351|[雪狐桑·表情包_摆了]|<img src="./pic/076351_%5B雪狐桑·表情包_摆了%5D.png" height="60" alt="摆了"/>|[链接](https://i0.hdslb.com/bfs/garb/c3e7c3a400c65ed073757b868198790f094f703e.png)|2024-06-20 18:01:00|
-|76352|[雪狐桑·表情包_冷]|<img src="./pic/076352_%5B雪狐桑·表情包_冷%5D.png" height="60" alt="冷"/>|[链接](https://i0.hdslb.com/bfs/garb/04d6fc7a6d74e7af5b47d9a3119692c16e026747.png)|2024-06-20 18:01:00|
+|76352|[雪狐桑·表情包_冷]|<img src="./pic/076352_%5B雪狐桑·表情包_冷%5D.png" height="60" alt="冷"/>|[链接](https://i0.hdslb.com/bfs/garb/04d6fc7a6d74e7af5b47d9a3119692c16e026747.png)|2024-06-20 18:01:08|
 
 # 原始数据
 

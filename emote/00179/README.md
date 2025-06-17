@@ -6,8 +6,8 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|3246|[进击的冰糖_ok]|<img src="./pic/003246_%5B进击的冰糖_ok%5D.png" height="60" alt="ok"/>|[链接](http://i0.hdslb.com/bfs/emote/51f9fa5f06f372fe9ad38af9f3f27a7b50fdc41c.png)|2021-02-28 15:07:57|
-|3247|[进击的冰糖_XXBT]|<img src="./pic/003247_%5B进击的冰糖_XXBT%5D.png" height="60" alt="XXBT"/>|[链接](http://i0.hdslb.com/bfs/emote/33ac77d584247ac4de7a81fddfd19cfefb175920.png)|2021-02-28 15:07:57|
+|3246|[进击的冰糖_ok]|<img src="./pic/003246_%5B进击的冰糖_ok%5D.png" height="60" alt="ok"/>|[链接](http://i0.hdslb.com/bfs/emote/51f9fa5f06f372fe9ad38af9f3f27a7b50fdc41c.png)|2021-02-05 14:22:16|
+|3247|[进击的冰糖_XXBT]|<img src="./pic/003247_%5B进击的冰糖_XXBT%5D.png" height="60" alt="XXBT"/>|[链接](http://i0.hdslb.com/bfs/emote/33ac77d584247ac4de7a81fddfd19cfefb175920.png)|2021-02-05 14:22:16|
 |3248|[进击的冰糖_害怕]|<img src="./pic/003248_%5B进击的冰糖_害怕%5D.png" height="60" alt="害怕"/>|[链接](http://i0.hdslb.com/bfs/emote/6757644d9d4c315e07b280d833434abe1391e367.png)|2021-02-05 14:22:16|
 |3249|[进击的冰糖_补充糖分]|<img src="./pic/003249_%5B进击的冰糖_补充糖分%5D.png" height="60" alt="补充糖分"/>|[链接](http://i0.hdslb.com/bfs/emote/733b47e0bb5b3eb71cd1cb14ed707006b0bce99f.png)|2021-02-05 14:22:16|
 |3250|[进击的冰糖_不愧是你]|<img src="./pic/003250_%5B进击的冰糖_不愧是你%5D.png" height="60" alt="不愧是你"/>|[链接](http://i0.hdslb.com/bfs/emote/02f2c3b085ddf26f4e23ae656349c46215779a13.png)|2021-02-05 14:22:16|

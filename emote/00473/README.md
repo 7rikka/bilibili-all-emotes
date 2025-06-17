@@ -29,8 +29,8 @@
 |8331|[阿萨Aza-多面体_宝贝]|<img src="./pic/008331_%5B阿萨Aza-多面体_宝贝%5D.png" height="60" alt="宝贝"/>|[链接](http://i0.hdslb.com/bfs/emote/f4b2f77a2014487c57c4e090e26162dc57c8c1c7.png)|2022-08-16 18:27:17|
 |8332|[阿萨Aza-多面体_害怕]|<img src="./pic/008332_%5B阿萨Aza-多面体_害怕%5D.png" height="60" alt="害怕"/>|[链接](http://i0.hdslb.com/bfs/emote/69b7b97d98241c4cd3d6a914a04b1c62b99e977f.png)|2022-08-16 18:27:17|
 |8333|[阿萨Aza-多面体_妈]|<img src="./pic/008333_%5B阿萨Aza-多面体_妈%5D.png" height="60" alt="妈"/>|[链接](http://i0.hdslb.com/bfs/emote/08538a1537aa48374f79d11dfe79b70b0ca5a578.png)|2022-08-16 18:27:17|
-|8334|[阿萨Aza-多面体_吐舌红脸]|<img src="./pic/008334_%5B阿萨Aza-多面体_吐舌红脸%5D.png" height="60" alt="吐舌红脸"/>|[链接](http://i0.hdslb.com/bfs/emote/206fbf0ca6db681f0e9ecf87838a08afe3e780b1.png)|2022-08-04 13:17:52|
-|8335|[阿萨Aza-多面体_问号]|<img src="./pic/008335_%5B阿萨Aza-多面体_问号%5D.png" height="60" alt="问号"/>|[链接](http://i0.hdslb.com/bfs/emote/5fe8c658ba71315a39fc4213de83e9dc503001bf.png)|2022-08-04 13:17:52|
+|8334|[阿萨Aza-多面体_吐舌红脸]|<img src="./pic/008334_%5B阿萨Aza-多面体_吐舌红脸%5D.png" height="60" alt="吐舌红脸"/>|[链接](http://i0.hdslb.com/bfs/emote/206fbf0ca6db681f0e9ecf87838a08afe3e780b1.png)|2022-08-16 18:27:17|
+|8335|[阿萨Aza-多面体_问号]|<img src="./pic/008335_%5B阿萨Aza-多面体_问号%5D.png" height="60" alt="问号"/>|[链接](http://i0.hdslb.com/bfs/emote/5fe8c658ba71315a39fc4213de83e9dc503001bf.png)|2022-08-16 18:27:17|
 
 # 原始数据
 

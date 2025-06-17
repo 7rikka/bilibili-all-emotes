@@ -15,8 +15,6 @@
 |84662|[UPOWER_27141298_亻尔女子]|<img src="./pic/084662_%5BUPOWER_27141298_亻尔女子%5D.png" height="60" alt="亻尔女子"/>|[链接](https://i0.hdslb.com/bfs/garb/2d0f8d49cf816abcd394282051eb549f10e5a067.png)|2024-08-30 21:28:00|
 |84663|[UPOWER_27141298_擦大哥]|<img src="./pic/084663_%5BUPOWER_27141298_擦大哥%5D.png" height="60" alt="擦大哥"/>|[链接](https://i0.hdslb.com/bfs/garb/d6e5df698def40bc8306d13f3ea51af0d647d404.png)|2024-08-30 21:28:00|
 |84666|[UPOWER_27141298_抱头]|<img src="./pic/084666_%5BUPOWER_27141298_抱头%5D.png" height="60" alt="抱头"/>|[链接](https://i0.hdslb.com/bfs/garb/3386c6d2bd14e57516e6a839359c4e8a0e22cd94.png)|2024-08-30 21:28:00|
-|84668|[UPOWER_27141298_洗了]|<img src="./pic/084668_%5BUPOWER_27141298_洗了%5D.png" height="60" alt="洗了"/>|[链接](https://i0.hdslb.com/bfs/garb/3afd4e58ebcf8be6435d6805ec896e725b3dc38d.png)|2025-06-10 17:52:33|
-|84668|[UPOWER_27141298_洗了]|<img src="./pic/084668_%5BUPOWER_27141298_洗了%5D.png" height="60" alt="洗了"/>|[链接](https://i0.hdslb.com/bfs/garb/3afd4e58ebcf8be6435d6805ec896e725b3dc38d.png)|2025-06-10 17:52:33|
 |84669|[UPOWER_27141298_飞起来]|<img src="./pic/084669_%5BUPOWER_27141298_飞起来%5D.png" height="60" alt="飞起来"/>|[链接](https://i0.hdslb.com/bfs/garb/c684d6d10ec480763790fd5ec2c7ff17d6176c85.png)|2024-08-30 21:28:00|
 |84670|[UPOWER_27141298_和蔼]|<img src="./pic/084670_%5BUPOWER_27141298_和蔼%5D.png" height="60" alt="和蔼"/>|[链接](https://i0.hdslb.com/bfs/garb/10a230a16ada7ca78e39bf7e5529a7abfbc18eda.png)|2024-08-30 21:28:00|
 |84671|[UPOWER_27141298_嘿嘿嘿]|<img src="./pic/084671_%5BUPOWER_27141298_嘿嘿嘿%5D.png" height="60" alt="嘿嘿嘿"/>|[链接](https://i0.hdslb.com/bfs/garb/b20ecc56ebf4c450e946fe3951ee4fd044f16aed.png)|2024-08-30 21:28:00|
@@ -32,6 +30,7 @@
 |108621|[UPOWER_27141298_帅黄]|<img src="./pic/108621_%5BUPOWER_27141298_帅黄%5D.png" height="60" alt="帅黄"/>|[链接](https://i0.hdslb.com/bfs/garb/38584f891a6dcbae61d032ca2871d26aa2414c68.png)|2025-04-14 06:34:12|
 |111616|[UPOWER_27141298_激光剑]|<img src="./pic/111616_%5BUPOWER_27141298_激光剑%5D.png" height="60" alt="激光剑"/>|[链接](https://i0.hdslb.com/bfs/garb/9aae3efa7eac20b4cf55d630c325ef5afa1f4b20.png)|2025-05-24 16:04:02|
 |111709|[UPOWER_27141298_呆]|<img src="./pic/111709_%5BUPOWER_27141298_呆%5D.png" height="60" alt="呆"/>|[链接](https://i0.hdslb.com/bfs/garb/82f46fd2d6f1f4d2e4b3a3282524f33e23804fd1.png)|2025-05-27 10:11:30|
+|113079|[UPOWER_27141298_鸟头]|<img src="./pic/113079_%5BUPOWER_27141298_鸟头%5D.png" height="60" alt="鸟头"/>|[链接](https://i0.hdslb.com/bfs/garb/c23c98ed96580b80d0c901c0c17b13510f8ab972.png)|2025-06-15 05:21:44|
 
 # 原始数据
 

@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|67969|[年度表情_给大佬递茶]|<img src="./pic/067969_%5B年度表情_给大佬递茶%5D.png" height="60" alt="给大佬递茶"/>|[链接](https://i0.hdslb.com/bfs/garb/c15e36d59ab778f7c43d15086b10db2a0b05949c.png)|2024-03-28 18:00:00|
+|67969|[年度表情_给大佬递茶]|<img src="./pic/067969_%5B年度表情_给大佬递茶%5D.png" height="60" alt="给大佬递茶"/>|[链接](https://i0.hdslb.com/bfs/garb/c15e36d59ab778f7c43d15086b10db2a0b05949c.png)|2024-03-27 18:00:00|
 |67970|[年度表情_贴贴]|<img src="./pic/067970_%5B年度表情_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](https://i0.hdslb.com/bfs/garb/9e7815347def72c8093086510a23712200d1ca6f.png)|2024-03-27 18:00:00|
 |67971|[年度表情_做大做强]|<img src="./pic/067971_%5B年度表情_做大做强%5D.png" height="60" alt="做大做强"/>|[链接](https://i0.hdslb.com/bfs/garb/504b71a5f688f11849745b000b2c8c1d2f1ce85b.png)|2024-03-27 18:00:00|
 |67972|[年度表情_做自己]|<img src="./pic/067972_%5B年度表情_做自己%5D.png" height="60" alt="做自己"/>|[链接](https://i0.hdslb.com/bfs/garb/1c862e985d5131a92e93f21a5aced7cdcc708da1.png)|2024-03-27 18:00:00|

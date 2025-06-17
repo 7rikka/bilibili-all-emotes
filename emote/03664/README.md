@@ -9,7 +9,7 @@
 |51002|[星座指示-水瓶座_担忧]|<img src="./pic/051002_%5B星座指示-水瓶座_担忧%5D.png" height="60" alt="担忧"/>|[链接](https://i0.hdslb.com/bfs/garb/82200cdaab298d39c25682e32a1d59deae7044b2.png)|2023-10-30 12:28:50|
 |51003|[星座指示-水瓶座_开心]|<img src="./pic/051003_%5B星座指示-水瓶座_开心%5D.png" height="60" alt="开心"/>|[链接](https://i0.hdslb.com/bfs/garb/5ec9a59d40b7e9209847a9e250a524020db04d18.png)|2023-10-30 12:28:50|
 |51004|[星座指示-水瓶座_不太行]|<img src="./pic/051004_%5B星座指示-水瓶座_不太行%5D.png" height="60" alt="不太行"/>|[链接](https://i0.hdslb.com/bfs/garb/e9bdef69c280c156026c147bb5c2cc1a06201ddf.png)|2023-10-30 12:28:50|
-|51005|[星座指示-水瓶座_很好]|<img src="./pic/051005_%5B星座指示-水瓶座_很好%5D.png" height="60" alt="很好"/>|[链接](https://i0.hdslb.com/bfs/garb/792cae9177972594458a421f802be6f0bc12c092.png)|2023-10-31 17:01:00|
+|51005|[星座指示-水瓶座_很好]|<img src="./pic/051005_%5B星座指示-水瓶座_很好%5D.png" height="60" alt="很好"/>|[链接](https://i0.hdslb.com/bfs/garb/792cae9177972594458a421f802be6f0bc12c092.png)|2023-10-30 12:28:50|
 |51006|[星座指示-水瓶座_瞌睡]|<img src="./pic/051006_%5B星座指示-水瓶座_瞌睡%5D.png" height="60" alt="瞌睡"/>|[链接](https://i0.hdslb.com/bfs/garb/1fefa245381304811f31dfee0e273b01722cc699.png)|2023-10-30 12:28:50|
 |51007|[星座指示-水瓶座_守口如瓶]|<img src="./pic/051007_%5B星座指示-水瓶座_守口如瓶%5D.png" height="60" alt="守口如瓶"/>|[链接](https://i0.hdslb.com/bfs/garb/95ef177831c179228f0a75c2e32f0888d5cab4a6.png)|2023-10-30 12:28:50|
 |51008|[星座指示-水瓶座_碎碎瓶安]|<img src="./pic/051008_%5B星座指示-水瓶座_碎碎瓶安%5D.png" height="60" alt="碎碎瓶安"/>|[链接](https://i0.hdslb.com/bfs/garb/05329b8c3bfe9de67eb7e9edda4670ac4a1e4a4e.png)|2023-10-30 12:28:50|

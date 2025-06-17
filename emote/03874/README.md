@@ -25,7 +25,7 @@
 |54185|[瑰丽华服_快哭了]|<img src="./pic/054185_%5B瑰丽华服_快哭了%5D.png" height="60" alt="快哭了"/>|[链接](https://i0.hdslb.com/bfs/emote/8c6021f66c490d623df2339ae27bebe3035eca8e.png)|2023-11-27 18:05:39|
 |54186|[瑰丽华服_奈斯]|<img src="./pic/054186_%5B瑰丽华服_奈斯%5D.png" height="60" alt="奈斯"/>|[链接](https://i0.hdslb.com/bfs/emote/0b2a1098cd39dceb6b48d571abdd6521a559da51.png)|2023-11-27 18:05:39|
 |54187|[瑰丽华服_心绞痛]|<img src="./pic/054187_%5B瑰丽华服_心绞痛%5D.png" height="60" alt="心绞痛"/>|[链接](https://i0.hdslb.com/bfs/emote/7fbdd0c926b5b6b4d97afd35272e9fe42b0a4e92.png)|2023-11-27 18:05:39|
-|54188|[瑰丽华服_告白]|<img src="./pic/054188_%5B瑰丽华服_告白%5D.png" height="60" alt="告白"/>|[链接](https://i0.hdslb.com/bfs/emote/83fa3b32c4533b4e71fa2efa6c82c832b36f8599.png)|2023-11-27 18:02:00|
+|54188|[瑰丽华服_告白]|<img src="./pic/054188_%5B瑰丽华服_告白%5D.png" height="60" alt="告白"/>|[链接](https://i0.hdslb.com/bfs/emote/83fa3b32c4533b4e71fa2efa6c82c832b36f8599.png)|2023-11-27 18:05:39|
 
 # 原始数据
 

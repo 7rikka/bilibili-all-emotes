@@ -15,7 +15,7 @@
 |2154|[萌妻食神_中毒]|<img src="./pic/002154_%5B萌妻食神_中毒%5D.png" height="60" alt="中毒"/>|[链接](http://i0.hdslb.com/bfs/emote/46672e56ad0cca4eb7f3d1eda8206613ae47f100.png)|2020-08-24 15:20:45|
 |2155|[萌妻食神_主角buff]|<img src="./pic/002155_%5B萌妻食神_主角buff%5D.png" height="60" alt="主角buff"/>|[链接](http://i0.hdslb.com/bfs/emote/c1e8a70bc76d928a9e78d59208774aaec930b7ef.png)|2020-08-24 15:20:45|
 |2156|[萌妻食神_馋]|<img src="./pic/002156_%5B萌妻食神_馋%5D.png" height="60" alt="馋"/>|[链接](http://i0.hdslb.com/bfs/emote/d1979c5ba302541a047bc13463b3dc167919a5fa.png)|2020-08-24 15:20:45|
-|2157|[萌妻食神_饱了]|<img src="./pic/002157_%5B萌妻食神_饱了%5D.png" height="60" alt="饱了"/>|[链接](http://i0.hdslb.com/bfs/emote/d0d8725c1c0a429a193ed1b5995f3a36cf78db14.png)|2020-08-10 17:27:40|
+|2157|[萌妻食神_饱了]|<img src="./pic/002157_%5B萌妻食神_饱了%5D.png" height="60" alt="饱了"/>|[链接](http://i0.hdslb.com/bfs/emote/d0d8725c1c0a429a193ed1b5995f3a36cf78db14.png)|2020-08-24 15:20:45|
 
 # 原始数据
 

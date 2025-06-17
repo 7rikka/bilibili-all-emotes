@@ -25,7 +25,7 @@
 |92086|[与光同行动态表情包_挨揍]|<img src="./pic/092086_%5B与光同行动态表情包_挨揍%5D.gif" height="60" alt="挨揍"/>|[链接](https://i0.hdslb.com/bfs/garb/1951743e1a6ac625dd462efdbe6020e4273c6c8c.gif)|2024-10-21 12:00:00|
 |92087|[与光同行动态表情包_装酷]|<img src="./pic/092087_%5B与光同行动态表情包_装酷%5D.gif" height="60" alt="装酷"/>|[链接](https://i0.hdslb.com/bfs/garb/cdee146515c36282b160df0bf350e23efdf3125d.gif)|2024-10-21 12:00:00|
 |92088|[与光同行动态表情包_吨吨吨]|<img src="./pic/092088_%5B与光同行动态表情包_吨吨吨%5D.gif" height="60" alt="吨吨吨"/>|[链接](https://i0.hdslb.com/bfs/garb/26293f1aebbead32ff34aad6c43a2340c164521c.gif)|2024-10-21 12:00:00|
-|92089|[与光同行动态表情包_害怕]|<img src="./pic/092089_%5B与光同行动态表情包_害怕%5D.gif" height="60" alt="害怕"/>|[链接](https://i0.hdslb.com/bfs/garb/834207145f2f13147ac3316709bfecb14644b10a.gif)|2024-10-18 10:51:50|
+|92089|[与光同行动态表情包_害怕]|<img src="./pic/092089_%5B与光同行动态表情包_害怕%5D.gif" height="60" alt="害怕"/>|[链接](https://i0.hdslb.com/bfs/garb/834207145f2f13147ac3316709bfecb14644b10a.gif)|2024-10-21 12:00:00|
 
 # 原始数据
 

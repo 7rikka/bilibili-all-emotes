@@ -117,6 +117,7 @@
 |111750|[热词系列_确诊为好人]|<img src="./pic/111750_%5B热词系列_确诊为好人%5D.png" height="60" alt="确诊为好人"/>|[链接](https://i0.hdslb.com/bfs/emote/c5d47a9f6cbd087589734b3afb47d45b3dbb20df.png)|2025-05-29 20:33:03|
 |111751|[热词系列_暖暖的]|<img src="./pic/111751_%5B热词系列_暖暖的%5D.png" height="60" alt="暖暖的"/>|[链接](https://i0.hdslb.com/bfs/emote/6e23b860f432b72bb789ed82b4202aafa7967306.png)|2025-05-29 20:33:03|
 |111752|[热词系列_你是这个]|<img src="./pic/111752_%5B热词系列_你是这个%5D.png" height="60" alt="你是这个"/>|[链接](https://i0.hdslb.com/bfs/emote/50f698b5e4d903e2a82cbc3d767d24e039f73e6a.png)|2025-05-29 20:33:03|
+|113145|[热词系列_好戏开场]|<img src="./pic/113145_%5B热词系列_好戏开场%5D.png" height="60" alt="好戏开场"/>|[链接](https://i0.hdslb.com/bfs/emote/a70abf5dfd97ba502ddcea0f2a82295915ebe0da.png)|2025-06-16 11:33:45|
 
 # 原始数据
 
