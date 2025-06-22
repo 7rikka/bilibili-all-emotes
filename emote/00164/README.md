@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|3049|[战双_哭哭]|<img src="./pic/003049_%5B战双_哭哭%5D.png" height="60" alt="哭哭"/>|[链接](http://i0.hdslb.com/bfs/emote/2c6503fa5768a206cb04223261c3640a13c1d578.png)|2020-12-24 16:59:08|
+|3049|[战双_哭哭]|<img src="./pic/003049_%5B战双_哭哭%5D.png" height="60" alt="哭哭"/>|[链接](http://i0.hdslb.com/bfs/emote/2c6503fa5768a206cb04223261c3640a13c1d578.png)|2020-11-19 16:27:27|
 |3050|[战双_贴贴]|<img src="./pic/003050_%5B战双_贴贴%5D.png" height="60" alt="贴贴"/>|[链接](http://i0.hdslb.com/bfs/emote/6cd0dee341ea6b5366556406a42fdb9a021c20a8.png)|2020-12-24 16:59:08|
 |3051|[战双_闪亮]|<img src="./pic/003051_%5B战双_闪亮%5D.png" height="60" alt="闪亮"/>|[链接](http://i0.hdslb.com/bfs/emote/c9c4214fa4610d0ccd58ce979087ed89bb38c752.png)|2020-12-24 16:59:08|
 |3052|[战双_柠檬精]|<img src="./pic/003052_%5B战双_柠檬精%5D.png" height="60" alt="柠檬精"/>|[链接](http://i0.hdslb.com/bfs/emote/fc059b8b691910d6d1d0e776faaca03bf2e7f01a.png)|2020-12-24 16:59:08|

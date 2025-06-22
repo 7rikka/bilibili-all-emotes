@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|49624|[WBG·2023出征_帮帮我]|<img src="./pic/049624_%5BWBG·2023出征_帮帮我%5D.png" height="60" alt="帮帮我"/>|[链接](https://i0.hdslb.com/bfs/emote/20d9bc0739b89f6f0dac3032bcba384c1ee30ac1.png)|2023-10-19 11:33:12|
+|49624|[WBG·2023出征_帮帮我]|<img src="./pic/049624_%5BWBG·2023出征_帮帮我%5D.png" height="60" alt="帮帮我"/>|[链接](https://i0.hdslb.com/bfs/emote/20d9bc0739b89f6f0dac3032bcba384c1ee30ac1.png)|2023-10-17 18:39:23|
 |49625|[WBG·2023出征_比心]|<img src="./pic/049625_%5BWBG·2023出征_比心%5D.png" height="60" alt="比心"/>|[链接](https://i0.hdslb.com/bfs/emote/bd29c4f59b46e95e8d3e2e8416e2ea8ff0e07178.png)|2023-10-19 11:33:33|
 |49626|[WBG·2023出征_别急]|<img src="./pic/049626_%5BWBG·2023出征_别急%5D.png" height="60" alt="别急"/>|[链接](https://i0.hdslb.com/bfs/emote/f38e6a67dbbff9c176c7c069d967d0610e38d0cc.png)|2023-10-19 11:33:33|
 |49627|[WBG·2023出征_不好意思]|<img src="./pic/049627_%5BWBG·2023出征_不好意思%5D.png" height="60" alt="不好意思"/>|[链接](https://i0.hdslb.com/bfs/emote/1dd50b84ce96eae307017c8fa29e590658f7b743.png)|2023-10-19 11:33:33|

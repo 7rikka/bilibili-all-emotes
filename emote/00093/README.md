@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|2086|[泠鸢yousa_awsl]|<img src="./pic/002086_%5B泠鸢yousa_awsl%5D.png" height="60" alt="awsl"/>|[链接](http://i0.hdslb.com/bfs/emote/7663b729161bd4556c2ec318c07791000743eb56.png)|2021-08-10 17:27:34|
+|2086|[泠鸢yousa_awsl]|<img src="./pic/002086_%5B泠鸢yousa_awsl%5D.png" height="60" alt="awsl"/>|[链接](http://i0.hdslb.com/bfs/emote/7663b729161bd4556c2ec318c07791000743eb56.png)|2021-08-10 17:27:51|
 |2087|[泠鸢yousa_打call]|<img src="./pic/002087_%5B泠鸢yousa_打call%5D.png" height="60" alt="打call"/>|[链接](http://i0.hdslb.com/bfs/emote/718e9495846db4172eb87d2f7f02015a34d35ea2.png)|2021-08-10 17:27:34|
 |2088|[泠鸢yousa_沉默]|<img src="./pic/002088_%5B泠鸢yousa_沉默%5D.png" height="60" alt="沉默"/>|[链接](http://i0.hdslb.com/bfs/emote/5e967cf1669743ed92e9a8ff3e5de6d90ca63d3d.png)|2021-08-10 17:27:34|
 |2089|[泠鸢yousa_大哭]|<img src="./pic/002089_%5B泠鸢yousa_大哭%5D.png" height="60" alt="大哭"/>|[链接](http://i0.hdslb.com/bfs/emote/3f757b147b9b1e201470eae7dac9cc0360172569.png)|2021-08-10 17:27:34|

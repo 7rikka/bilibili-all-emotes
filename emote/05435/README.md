@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|79802|[男法师动态表情包_输出]|<img src="./pic/079802_%5B男法师动态表情包_输出%5D.gif" height="60" alt="输出"/>|[链接](https://i0.hdslb.com/bfs/emote/4eecb7a724e5e9f8e73d3cb84b59d6ba4bfa41a5.gif)|2024-07-22 11:25:30|
+|79802|[男法师动态表情包_输出]|<img src="./pic/079802_%5B男法师动态表情包_输出%5D.gif" height="60" alt="输出"/>|[链接](https://i0.hdslb.com/bfs/emote/4eecb7a724e5e9f8e73d3cb84b59d6ba4bfa41a5.gif)|2024-07-24 10:40:12|
 |79803|[男法师动态表情包_嘲讽]|<img src="./pic/079803_%5B男法师动态表情包_嘲讽%5D.gif" height="60" alt="嘲讽"/>|[链接](https://i0.hdslb.com/bfs/emote/b53910cf7c1ebc700d0e2f5ea7a2ffb1d57019db.gif)|2024-07-24 10:40:12|
 |79804|[男法师动态表情包_攻击动作]|<img src="./pic/079804_%5B男法师动态表情包_攻击动作%5D.gif" height="60" alt="攻击动作"/>|[链接](https://i0.hdslb.com/bfs/emote/1cfd3f0e24ebec7ce88c1baf06d77c363109d3af.gif)|2024-07-24 10:40:12|
 |79805|[男法师动态表情包_攻击特效]|<img src="./pic/079805_%5B男法师动态表情包_攻击特效%5D.gif" height="60" alt="攻击特效"/>|[链接](https://i0.hdslb.com/bfs/emote/933cf35265886b2e977e3b682db09ee5f6d8d348.gif)|2024-07-24 10:40:12|

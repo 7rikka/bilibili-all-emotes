@@ -25,7 +25,7 @@
 |64713|[鳥取鹿子经典表情包_乐]|<img src="./pic/064713_%5B鳥取鹿子经典表情包_乐%5D.png" height="60" alt="乐"/>|[链接](https://i0.hdslb.com/bfs/garb/523459e4cff6981a6eb90a1a9112acbcea8f8a34.png)|2024-02-19 13:59:10|
 |64714|[鳥取鹿子经典表情包_敲头]|<img src="./pic/064714_%5B鳥取鹿子经典表情包_敲头%5D.png" height="60" alt="敲头"/>|[链接](https://i0.hdslb.com/bfs/garb/4598be130d94240247892c20d65bd01c0e43ff27.png)|2024-02-19 13:59:10|
 |64715|[鳥取鹿子经典表情包_大胆创造]|<img src="./pic/064715_%5B鳥取鹿子经典表情包_大胆创造%5D.png" height="60" alt="大胆创造"/>|[链接](https://i0.hdslb.com/bfs/garb/f3915f069dc4a72676b1e819afc0c5ab4bfe9c71.png)|2024-02-19 13:59:10|
-|64716|[鳥取鹿子经典表情包_打call]|<img src="./pic/064716_%5B鳥取鹿子经典表情包_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/1522b2ac0dcc5569743eb47fa417bab05de6da9b.png)|2024-02-19 13:59:10|
+|64716|[鳥取鹿子经典表情包_打call]|<img src="./pic/064716_%5B鳥取鹿子经典表情包_打call%5D.png" height="60" alt="打call"/>|[链接](https://i0.hdslb.com/bfs/garb/1522b2ac0dcc5569743eb47fa417bab05de6da9b.png)|2024-02-19 13:16:30|
 
 # 原始数据
 

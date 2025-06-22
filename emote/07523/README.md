@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|101802|[舞狮娘33_正面]|<img src="./pic/101802_%5B舞狮娘33_正面%5D.png" height="60" alt="正面"/>|[链接](https://i0.hdslb.com/bfs/emote/aba7ec88794e92e42facfce4e38c892b8fa4620c.png)|2025-01-22 13:29:12|
+|101802|[舞狮娘33_正面]|<img src="./pic/101802_%5B舞狮娘33_正面%5D.png" height="60" alt="正面"/>|[链接](https://i0.hdslb.com/bfs/emote/aba7ec88794e92e42facfce4e38c892b8fa4620c.png)|2025-01-20 11:23:10|
 |101803|[舞狮娘33_期待]|<img src="./pic/101803_%5B舞狮娘33_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/emote/290be0daefadead62fd816c0b6b5f8386685df56.png)|2025-01-22 13:29:12|
 |101804|[舞狮娘33_谢谢]|<img src="./pic/101804_%5B舞狮娘33_谢谢%5D.png" height="60" alt="谢谢"/>|[链接](https://i0.hdslb.com/bfs/emote/b364e52c6f48f5c565159f795fb5d54adc1afb8a.png)|2025-01-22 13:29:12|
 |101805|[舞狮娘33_乖巧]|<img src="./pic/101805_%5B舞狮娘33_乖巧%5D.png" height="60" alt="乖巧"/>|[链接](https://i0.hdslb.com/bfs/emote/a38ed87f8d5655d989a4f886fd929d3bfa255b07.png)|2025-01-22 13:29:12|

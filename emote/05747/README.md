@@ -28,7 +28,7 @@
 |84600|[捏碳小剧场_来早了]|<img src="./pic/084600_%5B捏碳小剧场_来早了%5D.png" height="60" alt="来早了"/>|[链接](https://i0.hdslb.com/bfs/garb/2f86411c612b15dce5b19271c57121ac4055f33e.png)|2024-08-30 16:55:00|
 |84601|[捏碳小剧场_尴尬了]|<img src="./pic/084601_%5B捏碳小剧场_尴尬了%5D.png" height="60" alt="尴尬了"/>|[链接](https://i0.hdslb.com/bfs/garb/df061203f864fc48e03109d7e9bbf0e703bbfc34.png)|2024-08-30 16:55:00|
 |84602|[捏碳小剧场_欸？]|<img src="./pic/084602_%5B捏碳小剧场_欸？%5D.png" height="60" alt="欸？"/>|[链接](https://i0.hdslb.com/bfs/garb/3e89a4bcb7133a489d09322246ff8ba83ed2954f.png)|2024-08-30 16:55:00|
-|84603|[捏碳小剧场_怒火]|<img src="./pic/084603_%5B捏碳小剧场_怒火%5D.png" height="60" alt="怒火"/>|[链接](https://i0.hdslb.com/bfs/garb/10024dbd4bfb13a234d1656495151f484bc2c8cf.png)|2024-08-30 16:55:00|
+|84603|[捏碳小剧场_怒火]|<img src="./pic/084603_%5B捏碳小剧场_怒火%5D.png" height="60" alt="怒火"/>|[链接](https://i0.hdslb.com/bfs/garb/10024dbd4bfb13a234d1656495151f484bc2c8cf.png)|2024-08-30 20:36:20|
 |84604|[捏碳小剧场_冲]|<img src="./pic/084604_%5B捏碳小剧场_冲%5D.png" height="60" alt="冲"/>|[链接](https://i0.hdslb.com/bfs/garb/6816e2f4c9678469392735aba72b3e4582d1ec49.png)|2024-08-30 16:55:00|
 |84605|[捏碳小剧场_痴呆]|<img src="./pic/084605_%5B捏碳小剧场_痴呆%5D.png" height="60" alt="痴呆"/>|[链接](https://i0.hdslb.com/bfs/garb/76903c18798e0e8a4b2ec4d75607541214e8eef5.png)|2024-08-30 16:55:00|
 

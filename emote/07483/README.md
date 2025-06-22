@@ -16,7 +16,7 @@
 |101139|[蔚蓝档案静态_比耶]|<img src="./pic/101139_%5B蔚蓝档案静态_比耶%5D.png" height="60" alt="比耶"/>|[链接](https://i0.hdslb.com/bfs/garb/de2566d409865aeb389d1236c2960b4e0e001f26.png)|2025-01-14 12:01:00|
 |101140|[蔚蓝档案静态_战斗模式]|<img src="./pic/101140_%5B蔚蓝档案静态_战斗模式%5D.png" height="60" alt="战斗模式"/>|[链接](https://i0.hdslb.com/bfs/garb/582c05e5253d855a8e01e58a05e132167492ca13.png)|2025-01-14 12:01:00|
 |101141|[蔚蓝档案静态_再见]|<img src="./pic/101141_%5B蔚蓝档案静态_再见%5D.png" height="60" alt="再见"/>|[链接](https://i0.hdslb.com/bfs/garb/6ccc8876c29920e373dc4db65ddbb0a67cabc913.png)|2025-01-14 12:01:00|
-|101142|[蔚蓝档案静态_举手]|<img src="./pic/101142_%5B蔚蓝档案静态_举手%5D.png" height="60" alt="举手"/>|[链接](https://i0.hdslb.com/bfs/garb/58af431433c8a4e9232d76443019469ea22acce9.png)|2025-01-14 12:01:00|
+|101142|[蔚蓝档案静态_举手]|<img src="./pic/101142_%5B蔚蓝档案静态_举手%5D.png" height="60" alt="举手"/>|[链接](https://i0.hdslb.com/bfs/garb/58af431433c8a4e9232d76443019469ea22acce9.png)|2025-01-18 14:01:00|
 |101143|[蔚蓝档案静态_问号]|<img src="./pic/101143_%5B蔚蓝档案静态_问号%5D.png" height="60" alt="问号"/>|[链接](https://i0.hdslb.com/bfs/garb/2ff530437b28a57de4d315106507bb22fa5abeef.png)|2025-01-14 12:01:00|
 |101144|[蔚蓝档案静态_出击]|<img src="./pic/101144_%5B蔚蓝档案静态_出击%5D.png" height="60" alt="出击"/>|[链接](https://i0.hdslb.com/bfs/garb/8d9c86670d657b8a78369d0370502d50498777b1.png)|2025-01-14 12:01:00|
 |101145|[蔚蓝档案静态_期待]|<img src="./pic/101145_%5B蔚蓝档案静态_期待%5D.png" height="60" alt="期待"/>|[链接](https://i0.hdslb.com/bfs/garb/85d75141ef06147ef879e6a8e51ab46e8a965d46.png)|2025-01-14 12:01:00|

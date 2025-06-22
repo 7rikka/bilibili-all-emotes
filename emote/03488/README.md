@@ -6,11 +6,11 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|47809|[轻叹ww_破防了]|<img src="./pic/047809_%5B轻叹ww_破防了%5D.png" height="60" alt="破防了"/>|[链接](https://i0.hdslb.com/bfs/garb/acec45e9fe7ee46e9a859071638f27261e87f8b6.png)|2023-09-23 17:00:10|
+|47809|[轻叹ww_破防了]|<img src="./pic/047809_%5B轻叹ww_破防了%5D.png" height="60" alt="破防了"/>|[链接](https://i0.hdslb.com/bfs/garb/acec45e9fe7ee46e9a859071638f27261e87f8b6.png)|2023-09-26 18:00:00|
 |47810|[轻叹ww_指]|<img src="./pic/047810_%5B轻叹ww_指%5D.png" height="60" alt="指"/>|[链接](https://i0.hdslb.com/bfs/garb/718c715c7e1f1ab69661c09e7ee2837b275bc0a2.png)|2023-09-26 18:00:00|
-|47811|[轻叹ww_当场击毙]|<img src="./pic/047811_%5B轻叹ww_当场击毙%5D.png" height="60" alt="当场击毙"/>|[链接](https://i0.hdslb.com/bfs/garb/b1b1493f2a30e6520a258a3adba4de99d4a20262.png)|2023-09-26 17:00:10|
-|47812|[轻叹ww_内心复杂]|<img src="./pic/047812_%5B轻叹ww_内心复杂%5D.png" height="60" alt="内心复杂"/>|[链接](https://i0.hdslb.com/bfs/garb/d1ee3767bcdc84340378c463327b366f628a32e0.png)|2023-09-23 17:00:10|
-|47813|[轻叹ww_主打陪伴]|<img src="./pic/047813_%5B轻叹ww_主打陪伴%5D.png" height="60" alt="主打陪伴"/>|[链接](https://i0.hdslb.com/bfs/garb/8be28cd2d262eb7f440f4ce484a8829a0e2ab72b.png)|2023-09-23 17:00:10|
+|47811|[轻叹ww_当场击毙]|<img src="./pic/047811_%5B轻叹ww_当场击毙%5D.png" height="60" alt="当场击毙"/>|[链接](https://i0.hdslb.com/bfs/garb/b1b1493f2a30e6520a258a3adba4de99d4a20262.png)|2023-09-26 18:00:00|
+|47812|[轻叹ww_内心复杂]|<img src="./pic/047812_%5B轻叹ww_内心复杂%5D.png" height="60" alt="内心复杂"/>|[链接](https://i0.hdslb.com/bfs/garb/d1ee3767bcdc84340378c463327b366f628a32e0.png)|2023-09-26 18:00:00|
+|47813|[轻叹ww_主打陪伴]|<img src="./pic/047813_%5B轻叹ww_主打陪伴%5D.png" height="60" alt="主打陪伴"/>|[链接](https://i0.hdslb.com/bfs/garb/8be28cd2d262eb7f440f4ce484a8829a0e2ab72b.png)|2023-09-26 18:00:00|
 |47814|[轻叹ww_再见再见]|<img src="./pic/047814_%5B轻叹ww_再见再见%5D.png" height="60" alt="再见再见"/>|[链接](https://i0.hdslb.com/bfs/garb/4bb4781bcf3aee68570f1d516a91779e384844ad.png)|2023-09-26 18:00:00|
 |47815|[轻叹ww_圣光]|<img src="./pic/047815_%5B轻叹ww_圣光%5D.png" height="60" alt="圣光"/>|[链接](https://i0.hdslb.com/bfs/garb/1330888c61ddd36a37e0728ecd9ac958ca6b7eeb.png)|2023-09-26 18:00:00|
 |47816|[轻叹ww_我先睡了]|<img src="./pic/047816_%5B轻叹ww_我先睡了%5D.png" height="60" alt="我先睡了"/>|[链接](https://i0.hdslb.com/bfs/garb/063db37b27bd4aea2974ba25704a65289ceceea5.png)|2023-09-26 18:00:00|

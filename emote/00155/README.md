@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|2905|[新月冰冰_awsl]|<img src="./pic/002905_%5B新月冰冰_awsl%5D.png" height="60" alt="awsl"/>|[链接](http://i0.hdslb.com/bfs/emote/324e2e3b18af6dbabbe445b02b85c3cec48e43bc.png)|2020-11-27 18:14:43|
+|2905|[新月冰冰_awsl]|<img src="./pic/002905_%5B新月冰冰_awsl%5D.png" height="60" alt="awsl"/>|[链接](http://i0.hdslb.com/bfs/emote/324e2e3b18af6dbabbe445b02b85c3cec48e43bc.png)|2020-11-08 18:54:26|
 |2906|[新月冰冰_呆suki]|<img src="./pic/002906_%5B新月冰冰_呆suki%5D.png" height="60" alt="呆suki"/>|[链接](http://i0.hdslb.com/bfs/emote/5bb4dd5d3f0d069e0cb78bbfff80f1788d6011ba.png)|2020-11-27 18:14:43|
 |2907|[新月冰冰_干杯]|<img src="./pic/002907_%5B新月冰冰_干杯%5D.png" height="60" alt="干杯"/>|[链接](http://i0.hdslb.com/bfs/emote/f7038566ae57f8259f761256d2ef03744e808bb8.png)|2020-11-27 18:14:43|
 |2908|[新月冰冰_喝茶]|<img src="./pic/002908_%5B新月冰冰_喝茶%5D.png" height="60" alt="喝茶"/>|[链接](http://i0.hdslb.com/bfs/emote/f7150cb7185abd37906f2bfc9607702100632b32.png)|2020-11-27 18:14:43|

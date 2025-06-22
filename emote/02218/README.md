@@ -6,7 +6,7 @@
 
 |ID|名称|表情|源地址|修改时间|
 |----|----|----|----|----|
-|38821|[UPOWER_1447574_棒的嘞]|<img src="./pic/038821_%5BUPOWER_1447574_棒的嘞%5D.png" height="60" alt="棒的嘞"/>|[链接](https://i0.hdslb.com/bfs/garb/1e21d9c5bcfaa9dea4396fd02ccd444d7ef047ed.png)|2023-07-27 11:00:00|
+|38821|[UPOWER_1447574_棒的嘞]|<img src="./pic/038821_%5BUPOWER_1447574_棒的嘞%5D.png" height="60" alt="棒的嘞"/>|[链接](https://i0.hdslb.com/bfs/garb/1e21d9c5bcfaa9dea4396fd02ccd444d7ef047ed.png)|2023-07-27 10:15:45|
 |38822|[UPOWER_1447574_喜欢的嘞]|<img src="./pic/038822_%5BUPOWER_1447574_喜欢的嘞%5D.png" height="60" alt="喜欢的嘞"/>|[链接](https://i0.hdslb.com/bfs/garb/6f6a75988df83f8e99ef0ed468d38e675d58b799.png)|2023-07-27 10:15:45|
 |38823|[UPOWER_1447574_委屈耶]|<img src="./pic/038823_%5BUPOWER_1447574_委屈耶%5D.png" height="60" alt="委屈耶"/>|[链接](https://i0.hdslb.com/bfs/garb/3cd807fcc5218be4287699758ba00e3653a438df.png)|2023-07-27 10:15:45|
 |38824|[UPOWER_1447574_森气气]|<img src="./pic/038824_%5BUPOWER_1447574_森气气%5D.png" height="60" alt="森气气"/>|[链接](https://i0.hdslb.com/bfs/garb/b518860757684de67b13f613f7f1059f68208a0a.png)|2023-07-27 10:15:45|

@@ -10,7 +10,7 @@
 |79260|[萌萌有兽焉_惊讶]|<img src="./pic/079260_%5B萌萌有兽焉_惊讶%5D.png" height="60" alt="惊讶"/>|[链接](https://i0.hdslb.com/bfs/garb/56159651032ec89c40e30b930b6302030bc38f4a.png)|2024-07-17 11:55:00|
 |79261|[萌萌有兽焉_疑问]|<img src="./pic/079261_%5B萌萌有兽焉_疑问%5D.png" height="60" alt="疑问"/>|[链接](https://i0.hdslb.com/bfs/garb/ed8b7b96a6a6141921bdcd15e21b1f02062b2c76.png)|2024-07-17 11:55:00|
 |79262|[萌萌有兽焉_卡住]|<img src="./pic/079262_%5B萌萌有兽焉_卡住%5D.png" height="60" alt="卡住"/>|[链接](https://i0.hdslb.com/bfs/garb/6d5cbad1974e8ceb13ac95d966c7e657b4652cbd.png)|2024-07-17 11:55:00|
-|79263|[萌萌有兽焉_怒]|<img src="./pic/079263_%5B萌萌有兽焉_怒%5D.png" height="60" alt="怒"/>|[链接](https://i0.hdslb.com/bfs/garb/f1556528109127de5f08ac71cf93f94498f724e2.png)|2024-07-17 11:55:00|
+|79263|[萌萌有兽焉_怒]|<img src="./pic/079263_%5B萌萌有兽焉_怒%5D.png" height="60" alt="怒"/>|[链接](https://i0.hdslb.com/bfs/garb/f1556528109127de5f08ac71cf93f94498f724e2.png)|2024-07-16 19:01:00|
 |79264|[萌萌有兽焉_友善]|<img src="./pic/079264_%5B萌萌有兽焉_友善%5D.png" height="60" alt="友善"/>|[链接](https://i0.hdslb.com/bfs/garb/0651814e7b7174637afe534cabbcbd395ce147b1.png)|2024-07-17 11:55:00|
 |79265|[萌萌有兽焉_凤凰头]|<img src="./pic/079265_%5B萌萌有兽焉_凤凰头%5D.png" height="60" alt="凤凰头"/>|[链接](https://i0.hdslb.com/bfs/garb/b2ddf81c0aeb0236a74cefb0f7723c744067f57f.png)|2024-07-17 11:55:00|
 |79266|[萌萌有兽焉_凤凰中]|<img src="./pic/079266_%5B萌萌有兽焉_凤凰中%5D.png" height="60" alt="凤凰中"/>|[链接](https://i0.hdslb.com/bfs/garb/155f1301eead526d02759b3d29eb7e9c2930c05f.png)|2024-07-17 11:55:00|
